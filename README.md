@@ -2,7 +2,7 @@
 
 A machine readable dataset scraped from the [Sacramento helipcopter notifications page](https://www.cityofsacramento.org/Police/News-Alerts/Helicopter-Notifications).
 
-[![Scrape police activity log data](https://github.com/jeremiak/sacramento-pd-daily-activity-log/actions/workflows/scrape.yml/badge.svg)](https://github.com/jeremiak/sacramento-pd-daily-activity-log/actions/workflows/scrape.yml)
+[![Scrape helicopter notifcations](https://github.com/jeremiak/sacramento-helicopter-notifications/actions/workflows/scrape.yml/badge.svg)](https://github.com/jeremiak/sacramento-helicopter-notifications/actions/workflows/scrape.yml)
 
 ## Running
 
