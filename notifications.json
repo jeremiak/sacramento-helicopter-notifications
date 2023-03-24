@@ -1,0 +1,44 @@
+[
+  {
+    "date": "Thursday, March 23, 2023",
+    "time": "2:46 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisted ground units checking for the suspect in an assault."
+  },
+  {
+    "date": "Thursday, March 23, 2023",
+    "time": "3:46 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "6C",
+    "comments": "AIR assisted units with reports of a large fight in progress."
+  },
+  {
+    "date": "Thursday, March 23, 2023",
+    "time": "4:40 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter responded to the area of 47th Ave and Martin Luther King Jr. Blvd to assist ground units on a suspicious subject running from the police."
+  },
+  {
+    "date": "Thursday, March 23, 2023",
+    "time": "5:54 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "6E",
+    "comments": "Helicopter responded to the area of Fair Oaks Blvd and Howe Ave for reports of a physical assault in progress.  Ground unit located both involved parties"
+  },
+  {
+    "date": "Thursday, March 23, 2023",
+    "time": "6:38 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4A",
+    "comments": "Helicopter responded to the area of Freeport Blvd and Meer Way for a silent robbery alarm to a business.  Alarm was accidentally set off by employees."
+  },
+  {
+    "date": "Thursday, March 23, 2023",
+    "time": "7:06 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter responded to the area of 37th St and Boxing Aly for reports of a person with a gun.  Call was unfounded"
+  }
+]
