@@ -1307,5 +1307,26 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "Helicopter assisting officers in the area searching for robbery suspects."
+  },
+  {
+    "date": "Wednesday, May 3, 2023",
+    "time": "12:58 AM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Helicopter assisting officers searching area for suspects of a stolen vehicle."
+  },
+  {
+    "date": "Wednesday, May 3, 2023",
+    "time": "4:06 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "STAR assisting in locating a stolen vehicle"
+  },
+  {
+    "date": "Wednesday, May 3, 2023",
+    "time": "8:57 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "STAR assisting in locating a subject involved in an incident"
   }
 ]
