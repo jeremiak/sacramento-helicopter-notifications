@@ -1820,6 +1820,27 @@
     "comments": "AIR1 responded for a robbery alarm at a business, false alarm."
   },
   {
+    "date": "Wednesday, May 17, 2023",
+    "time": "1:15 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Nedra Ct/24th St - Responded out to assist ground units after a report of a disturbance."
+  },
+  {
+    "date": "Wednesday, May 17, 2023",
+    "time": "7:19 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Sac City Air Unit assisted ground units searching the area of Taft ST and Shobar AVE for a suspicious person."
+  },
+  {
+    "date": "Wednesday, May 17, 2023",
+    "time": "7:48 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "Sac City Air Unit assisting ground units with checking the area for two suspicious subjects in the area of Natomas Central DR and Del Paso RD."
+  },
+  {
     "date": "Wednesday, May 3, 2023",
     "time": "12:58 AM",
     "neighborhood": "Downtown",
