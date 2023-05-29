@@ -1155,6 +1155,104 @@
     "comments": "E COMMERCE WAY/NATOMAS CROSSING DR...STAR checked the area for a possible burglary in progress"
   },
   {
+    "date": "Sunday, May 28, 2023",
+    "time": "12:32 AM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Air1 assisting ground units in monitoring a sideshow."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "1:04 AM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Air1 assisting ground units on a vehicle pursuit."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "1:15 AM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air1 assisting ground units monitor vehicles involved in a sideshow."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "2:33 PM",
+    "neighborhood": "Alhambra Triangle",
+    "beat": "6D",
+    "comments": "Alhambra / Serra - Responded to check on a possible burglary.  A subject was located and no crime had occurred."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "2:55 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Meadowgate / Franklin - Responded to assist the California Highway Patrol with a foot pursuit."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "3:08 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Center Pkwy / Pomegranate - Responded to check the area for a possibly armed vehicle.  The vehicle was not located."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "3:45 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "6D",
+    "comments": "30th / Jazz Alley - Responded to report of a subject in a vehicle with a weapon.  There was no weapon involved."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "3:59 PM",
+    "neighborhood": "College / Glen",
+    "beat": "6E",
+    "comments": "Folsom / Notre Dame - Responded to search the area for a vehicle involved in an attempted felony assault."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "4:10 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Calvados / Beaumont - Responded after report of subjects in the area armed with guns.  The guns were determined to be toy \"Orby\" guns."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "6:46 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "AIR1 was assisting officers locate an occupied stolen vehicle near Marconi Ave/Connie Dr.\nDispatcher 6077"
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "6:59 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "AIR1 was helping officers find a person who possibly assaulted someone else near Arden Way/Alta Arden Expy.\nDispatcher 6077."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "7:23 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 was assisting officers for call about a person possibly armed with a knife near Grand Ave/Pinell St.\nDispatcher 6077."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "7:24 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "STAR was assisting officers in finding an occupied stolen vehicle near 65th St/Lemon Hill Ave.\nDispatcher 6077."
+  },
+  {
+    "date": "Sunday, May 28, 2023",
+    "time": "7:34 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "6D",
+    "comments": "AIR1 was helping officers attempt to locate an at-risk missing person near 39th St/H St.\nDispatcher 6077."
+  },
+  {
     "date": "Sunday, May 7, 2023",
     "time": "12:53 PM",
     "neighborhood": "South Natomas",
