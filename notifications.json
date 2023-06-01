@@ -2266,5 +2266,26 @@
     "neighborhood": "",
     "beat": "6C",
     "comments": "STAR assisting in locating a subject involved in an incident"
+  },
+  {
+    "date": "Wednesday, May 31, 2023",
+    "time": "4:24 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "6D",
+    "comments": "Sac City Air Unit assisted ground units with searching the area of K ST and Alhambra BLVD for a suspicious subject."
+  },
+  {
+    "date": "Wednesday, May 31, 2023",
+    "time": "8:33 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Sac City Air Unit assisted ground units with a suspicious vehicle in the area of Auburn BLVD and Business 80."
+  },
+  {
+    "date": "Wednesday, May 31, 2023",
+    "time": "8:56 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Sac City Air Unit assisting ground units with a vehicle collision on the 900 block San Juan RD."
   }
 ]
