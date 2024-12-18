@@ -1,6 +1,7 @@
 // deno-lint-ignore-file no-explicit-any
 
 import _ from "npm:lodash@4.17";
+import dayjs from "npm:dayjs";
 import {
   DOMParser,
   Element,
@@ -15,28 +16,24 @@ interface Notification {
   comments: string;
 }
 
-async function scrapeHelicopterNotifications(): Promise<Notification[]> {
+async function scrapeHelicopterNotifications(date: string): Promise<Notification[]> {
   console.log(
     `Scraping helicopter notifications`,
   );
-  const url = `https://www.cityofsacramento.org/Police/News-Alerts/Helicopter-Notifications`;
+  const url = `https://widgets.cityofsacramento.org/HelicopterActivity?date=${date}`
   const response = await fetch(url);
   const status: number = response.status;
   const html = await response.text();
-  const doc: HTMLDocument | null = new DOMParser().parseFromString(
+  const document: HTMLDocument | null = new DOMParser().parseFromString(
     html,
     "text/html",
   );
 
   if (status !== 200) throw new Error(`Error with ${url} - ${status}`);
-
-  const todayEl = doc?.querySelector('#corporate_content_0_corporate_content_body_1_todayInfo')
-  const date = todayEl.innerText.split('Today ')[1]
-  const rows = doc?.querySelectorAll('table.latestActivity tbody tr')
-
+  const rows = document?.querySelectorAll('table.latestActivity tbody tr')
   const notifications: Notification[] = []
   
-  rows.forEach((node, i) => {
+  rows.forEach((node: Element, i) => {
     if (i === 0) return
 
     const time = node.querySelector('.iActDate').innerText.trim()
@@ -54,19 +51,28 @@ async function scrapeHelicopterNotifications(): Promise<Notification[]> {
   })
 
   console.log(
-    `Found ${notifications.length} notifications`,
+    `Found ${notifications.length} notifications on ${date}`,
   );
 
   return notifications;
 }
-
-const scraped: Notification[] = await scrapeHelicopterNotifications();
 const existingFile = await Deno.readTextFile("./notifications.json");
 const existing = JSON.parse(existingFile);
-const combined = [...existing, ...scraped]
+const combined = [...existing]
+const daysWorth = 5
+console.log(`Scraping for the last ${daysWorth} days`)
+
+for (let i = 0; i < daysWorth; i++) {
+  const today = dayjs().subtract(i, 'day').format('YYYYMMDD')
+  const scraped: Notification[] = await scrapeHelicopterNotifications(today);
+
+  combined.push(...scraped)
+}
+
 const deduped = _.uniqBy(combined, (d: Notification) => `${d.date}-${d.time}-${d.beat}`)
 const sorted = _.orderBy(deduped, ["date", "time", "beat"]);
 
 console.log(`Saving to a file`);
+
 await Deno.writeTextFile("./notifications.json", JSON.stringify(sorted, null, 2));
 console.log(`All done`);
