@@ -13179,5 +13179,19 @@
     "neighborhood": "Tahoe Park East",
     "beat": "7C",
     "comments": "Helicopter assisted officers following a hit and run driver.  Driver was detained."
+  },
+  {
+    "date": "20241218",
+    "time": "3:48 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting in apprehending a suspect"
+  },
+  {
+    "date": "20241218",
+    "time": "7:38 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting in pursuit"
   }
 ]
