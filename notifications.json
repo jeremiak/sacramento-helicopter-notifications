@@ -13182,6 +13182,27 @@
   },
   {
     "date": "20241218",
+    "time": "11:19 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "air unit assisted ground units with reports of a possible break in."
+  },
+  {
+    "date": "20241218",
+    "time": "11:27 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "air unit assisted ground units with locating a subject that was looking into residence."
+  },
+  {
+    "date": "20241218",
+    "time": "11:43 PM",
+    "neighborhood": "Power Ridge",
+    "beat": "7C",
+    "comments": "Air unit assisted ground units with a vehicle pursuit"
+  },
+  {
+    "date": "20241218",
     "time": "3:48 PM",
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
@@ -13193,5 +13214,26 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air unit assisting in pursuit"
+  },
+  {
+    "date": "20241218",
+    "time": "9:15 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "air unit checked area for reports of shots fired. Air unit was unable to locate anything or anyone"
+  },
+  {
+    "date": "20241219",
+    "time": "12:09 AM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "Air unit assisted ground units with a pursuit"
+  },
+  {
+    "date": "20241219",
+    "time": "12:17 AM",
+    "neighborhood": "Noralto",
+    "beat": "2C",
+    "comments": "Air unit assisted ground units with a felony stop"
   }
 ]
