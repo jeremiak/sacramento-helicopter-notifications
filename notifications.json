@@ -13235,5 +13235,40 @@
     "neighborhood": "Noralto",
     "beat": "2C",
     "comments": "Air unit assisted ground units with a felony stop"
+  },
+  {
+    "date": "20241221",
+    "time": "2:41 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "J St/17th St - AIR1 responded out to assist ground units after receiving a report for grand theft. No crime occurred."
+  },
+  {
+    "date": "20241221",
+    "time": "3:26 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "42nd/15th - Assisted officers with locating a subject that was seen in a nearby backyard without permission."
+  },
+  {
+    "date": "20241221",
+    "time": "3:38 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "Balboa / Sandburg - Responded to reports of a possible break in. Officers determined there was no break in."
+  },
+  {
+    "date": "20241221",
+    "time": "5:38 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "7th / N st - Assisted officers searching for subjects in a physical altercation."
+  },
+  {
+    "date": "20241221",
+    "time": "5:42 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "I st / 8th - Assisted officers searching the area for a suspect that stole a vehicle."
   }
 ]
