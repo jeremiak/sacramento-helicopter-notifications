@@ -13284,5 +13284,26 @@
     "neighborhood": "Parker Homes",
     "beat": "2A",
     "comments": "Macarthur / Doolittle - Star checked the area for a possible armed subject. Subject has been detained."
+  },
+  {
+    "date": "20241226",
+    "time": "4:23 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Helicopter assisted grounds units due to reports of a vehicle assault."
+  },
+  {
+    "date": "20241226",
+    "time": "5:22 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units to survey the area due to reports of a subject armed with a gun."
+  },
+  {
+    "date": "20241226",
+    "time": "7:09 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter responded to reports of a robbery at a local business."
   }
 ]
