@@ -13305,5 +13305,19 @@
     "neighborhood": "Old Sacramento",
     "beat": "3M",
     "comments": "Helicopter responded to reports of a robbery at a local business."
+  },
+  {
+    "date": "20241226",
+    "time": "9:23 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "Helicopter responded to reports of reckless driving in the area."
+  },
+  {
+    "date": "20241226",
+    "time": "9:49 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "star assisted ground units with looking for stolen vehicle"
   }
 ]
