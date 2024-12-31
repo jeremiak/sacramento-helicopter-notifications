@@ -13392,6 +13392,13 @@
   },
   {
     "date": "20241229",
+    "time": "10:05 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Star Helicopter assisting units with an armed vehicle near Mascot Ave and 26th Ave"
+  },
+  {
+    "date": "20241229",
     "time": "1:55 PM",
     "neighborhood": "Land Park",
     "beat": "4A",
@@ -13445,5 +13452,40 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Quincy / 21st - Monitoring disturbance possibly involving a weapon."
+  },
+  {
+    "date": "20241230",
+    "time": "1:12 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting ground units after reports of a suspicious subject in the area of 6th st and I st."
+  },
+  {
+    "date": "20241230",
+    "time": "3:10 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "TANGERINE AVE/LA MANCHA WAY...AIR1 is checking the area for an at-risk missing person"
+  },
+  {
+    "date": "20241230",
+    "time": "3:36 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Northgate blvd / San Juan Rd - Air units assisted ground units following a possible stolen vehicle."
+  },
+  {
+    "date": "20241230",
+    "time": "7:29 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "Helicopter assisted officers searching the area after reports of a subject pointing a gun.  Gun was unfounded."
+  },
+  {
+    "date": "20241230",
+    "time": "8:02 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter assisted officers checking the area for a report of a subject with a gun."
   }
 ]
