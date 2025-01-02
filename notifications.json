@@ -13494,5 +13494,40 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "Helicopter responded to the area of La Pera Ct and La Fresa Ct for reports of a physical assault. Ground units made contact with parties."
+  },
+  {
+    "date": "20241231",
+    "time": "8:49 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter assisted officers in the area for the new year's celebration."
+  },
+  {
+    "date": "20241231",
+    "time": "8:58 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of Truxel Rd and Gateway Park Blvd for reports of a person armed with a gun"
+  },
+  {
+    "date": "20241231",
+    "time": "9:05 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter responded to the area of K st and 3rd St for reports of a person that brandished a machete."
+  },
+  {
+    "date": "20241231",
+    "time": "9:43 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units with monitoring a situation on Neasham Cir/Front St."
+  },
+  {
+    "date": "20241231",
+    "time": "9:56 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 checked the area for a possible violent crime in the area of 14th Ave/38th st."
   }
 ]
