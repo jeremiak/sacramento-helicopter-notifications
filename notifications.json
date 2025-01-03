@@ -13529,5 +13529,40 @@
     "neighborhood": "South Oak Park",
     "beat": "6A",
     "comments": "AIR1 checked the area for a possible violent crime in the area of 14th Ave/38th st."
+  },
+  {
+    "date": "20250101",
+    "time": "3:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "STAR was en route to assist ground units in monitoring a possible burglary in the area of Mack Rd and Tangerine Ave"
+  },
+  {
+    "date": "20250101",
+    "time": "3:44 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "STAR assisted in getting juveniles to get off the roof of a building in the area of Pocket Rd and Rivergate Way"
+  },
+  {
+    "date": "20250101",
+    "time": "4:08 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR was en route to assist ground units in searching the area for a suspicious subject near K St and 7th St"
+  },
+  {
+    "date": "20250101",
+    "time": "8:28 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisted ground units in searching the area for subjects involved in a robbery in the area of J St and 7th St"
+  },
+  {
+    "date": "20250102",
+    "time": "2:36 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Helicopter checked the area of 43rd avenue and northbound I-5 for reports of possible assault in progress. Helicopter was unable to locate anything."
   }
 ]
