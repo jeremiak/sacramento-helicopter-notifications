@@ -13564,5 +13564,26 @@
     "neighborhood": "South Land Park",
     "beat": "4C",
     "comments": "Helicopter checked the area of 43rd avenue and northbound I-5 for reports of possible assault in progress. Helicopter was unable to locate anything."
+  },
+  {
+    "date": "20250103",
+    "time": "4:38 PM",
+    "neighborhood": "Colonial Manor",
+    "beat": "7C",
+    "comments": "Assisted ground units after reports of a possible break in near Power Inn and Merced."
+  },
+  {
+    "date": "20250103",
+    "time": "4:59 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Assisted ground units after reports of shots fired in the area of La Riviera and College Town Dr."
+  },
+  {
+    "date": "20250103",
+    "time": "7:07 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "Assisted ground units on an alarm call near the area of Raley and Santa Ana Ave."
   }
 ]
