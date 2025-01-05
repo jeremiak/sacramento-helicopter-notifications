@@ -13567,6 +13567,13 @@
   },
   {
     "date": "20250103",
+    "time": "11:20 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units with locating a subject that ran and hid from police, he was located."
+  },
+  {
+    "date": "20250103",
     "time": "4:38 PM",
     "neighborhood": "Colonial Manor",
     "beat": "7C",
@@ -13585,5 +13592,47 @@
     "neighborhood": "Raley Industrial Park",
     "beat": "2A",
     "comments": "Assisted ground units on an alarm call near the area of Raley and Santa Ana Ave."
+  },
+  {
+    "date": "20250104",
+    "time": "2:50 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "STAR assisted ground patrol units in searching for a subject that was reported to be armed - Land Park DR / 14th AVE"
+  },
+  {
+    "date": "20250104",
+    "time": "3:30 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "STAR assisted ground patrol units in searching for a stolen vehicle - Norwood AVE / I 80"
+  },
+  {
+    "date": "20250104",
+    "time": "4:13 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted ground units check the area of Miller Park into Broadway for reckless drivers."
+  },
+  {
+    "date": "20250104",
+    "time": "4:17 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter assisted ground units with reports of a possible jumper off Howe Avenue over the American River Bridge. No jumper was located."
+  },
+  {
+    "date": "20250104",
+    "time": "6:50 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter assisted ground units locate a stolen vehicle."
+  },
+  {
+    "date": "20250104",
+    "time": "8:14 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 assisting ground units in searching the area of Marysville Boulevard and Alamos Avenue for sounds of possible shots fired in the area."
   }
 ]
