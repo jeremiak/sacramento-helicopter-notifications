@@ -13739,5 +13739,40 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "AIR1 assisting ground units with locating a possibly armed subject at 3801 24th St. Nothing suspicious seen."
+  },
+  {
+    "date": "20250106",
+    "time": "8:48 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter responded to the area of Reggae Aly and Martin Luther King Jr. Blvd for reports of a person armed with a gun."
+  },
+  {
+    "date": "20250107",
+    "time": "2:59 PM",
+    "neighborhood": "",
+    "beat": "7B",
+    "comments": "Air unit assisted after reports of possibly armed subject"
+  },
+  {
+    "date": "20250107",
+    "time": "4:12 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted officers to detain subject."
+  },
+  {
+    "date": "20250107",
+    "time": "6:38 PM",
+    "neighborhood": "Elder Creek",
+    "beat": "6C",
+    "comments": "Helicopter assisted officers searching the area for possible burglary suspects."
+  },
+  {
+    "date": "20250107",
+    "time": "7:39 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "Helicopter assisting officers in the area."
   }
 ]
