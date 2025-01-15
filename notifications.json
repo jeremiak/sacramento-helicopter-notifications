@@ -13921,5 +13921,26 @@
     "neighborhood": "Newton Booth",
     "beat": "3A",
     "comments": "AIR was assisting ground units in checking the area for a subject who was reportedly banging on windows in the area. Subject was successfully located by AIR unit."
+  },
+  {
+    "date": "20250113",
+    "time": "8:17 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "AIR was assisting ground units in checking the area for a subject who was reportedly in the back yard of a residence. AIR was unable to locate subject."
+  },
+  {
+    "date": "20250114",
+    "time": "7:08 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisted after reports of an assault"
+  },
+  {
+    "date": "20250114",
+    "time": "7:18 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit assisted after reports of a trespasser causing an issue with a vehicle."
   }
 ]
