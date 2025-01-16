@@ -13942,5 +13942,26 @@
     "neighborhood": "Robla",
     "beat": "2A",
     "comments": "Air unit assisted after reports of a trespasser causing an issue with a vehicle."
+  },
+  {
+    "date": "20250115",
+    "time": "3:47 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of a suspicious subject possibly armed with a knife"
+  },
+  {
+    "date": "20250115",
+    "time": "6:15 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "AIR1 assisting with a robbery"
+  },
+  {
+    "date": "20250115",
+    "time": "6:39 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Air unit checking the area after a shot spotter activation"
   }
 ]
