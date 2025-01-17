@@ -13963,5 +13963,33 @@
     "neighborhood": "South Oak Park",
     "beat": "6A",
     "comments": "Air unit checking the area after a shot spotter activation"
+  },
+  {
+    "date": "20250116",
+    "time": "4:11 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "us 50 eb/howe ave - helicopter assisted with searching for a subject climbing railing of a bridge"
+  },
+  {
+    "date": "20250116",
+    "time": "4:42 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "taylor st/granger ave - helicopter monitoring reports of a vehicle theft in progress"
+  },
+  {
+    "date": "20250116",
+    "time": "5:53 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "w el camino ave/i 5 - helicopter assisting w/ monitoring a disturbance involving a weapon"
+  },
+  {
+    "date": "20250116",
+    "time": "8:09 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting after reports of a suspicious subject in the area"
   }
 ]
