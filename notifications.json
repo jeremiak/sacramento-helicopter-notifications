@@ -13966,6 +13966,13 @@
   },
   {
     "date": "20250116",
+    "time": "11:14 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "AIR1 is assisting ground units in checking the area of 16th St and Q St for an armed subject"
+  },
+  {
+    "date": "20250116",
     "time": "4:11 PM",
     "neighborhood": "College / Glen",
     "beat": "7B",
@@ -13991,5 +13998,26 @@
     "neighborhood": "Central Oak Park",
     "beat": "6A",
     "comments": "Air unit assisting after reports of a suspicious subject in the area"
+  },
+  {
+    "date": "20250116",
+    "time": "8:21 PM",
+    "neighborhood": "Tallac Village",
+    "beat": "6B",
+    "comments": "Air unit assisting after reports of suspcious activity"
+  },
+  {
+    "date": "20250116",
+    "time": "8:44 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air unit assisting in the attempt to stop a vehicle."
+  },
+  {
+    "date": "20250116",
+    "time": "8:48 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "Air unit assisting after reports of an assault"
   }
 ]
