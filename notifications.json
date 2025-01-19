@@ -14019,5 +14019,26 @@
     "neighborhood": "Willowcreek",
     "beat": "1B",
     "comments": "Air unit assisting after reports of an assault"
+  },
+  {
+    "date": "20250118",
+    "time": "11:38 AM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "H20 assisted ground patrol units in searching for a suspect - Brookfield RD / Franklin BLVD"
+  },
+  {
+    "date": "20250118",
+    "time": "12:10 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "H20 assisted ground patrol units in searching for a suspect - Valley HI DR / Wyndham DR"
+  },
+  {
+    "date": "20250118",
+    "time": "6:12 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "STAR assisting ground officers in locating a suspect possibly related to a robbery in the area of Arden Way and Challenge Way."
   }
 ]
