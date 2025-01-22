@@ -14061,5 +14061,40 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20250121",
+    "time": "12:29 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Vallejo way / 5th ST - Air assisted ground units responding to a possible home break in."
+  },
+  {
+    "date": "20250121",
+    "time": "12:44 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Challenge Way / Exposition Blvd - Air assisted units tracking a suspect that stole merchandise from nearby business."
+  },
+  {
+    "date": "20250121",
+    "time": "3:08 PM",
+    "neighborhood": "Scc",
+    "beat": "4A",
+    "comments": "Crocker Dr/Sutterville Rd - AIR1 responded out to assist ground units after receiving reports of a subject with a firearm. Firearm portion was unfounded."
+  },
+  {
+    "date": "20250121",
+    "time": "5:45 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of possible shooting"
+  },
+  {
+    "date": "20250121",
+    "time": "7:25 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Forrest St/Redwood Ave - AIR1 responded out to assist ground units search for subject after reports of subject setting fires. Subject was located and no active fires."
   }
 ]
