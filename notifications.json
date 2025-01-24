@@ -14099,6 +14099,13 @@
   },
   {
     "date": "20250122",
+    "time": "10:20 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter assisted ground units in locating an at risk missing person. Missing person was located by family."
+  },
+  {
+    "date": "20250122",
     "time": "3:48 PM",
     "neighborhood": "Colonial Heights",
     "beat": "6B",
@@ -14110,5 +14117,61 @@
     "neighborhood": "Sundance Lake",
     "beat": "1A",
     "comments": "AIR1 assisted ground units in trying to locate an armed subject in the area of Del Paso Rd and Truxel Rd"
+  },
+  {
+    "date": "20250123",
+    "time": "3:34 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Assisted ground units after a pursuit in the area of Broadway and Alhambra."
+  },
+  {
+    "date": "20250123",
+    "time": "4:48 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Assisted ground units after reports of a shooting in the area of Broadway and Muir."
+  },
+  {
+    "date": "20250123",
+    "time": "5:27 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Assisted ground units after reports of a robbery near the area of 5th St and Vallejo Way."
+  },
+  {
+    "date": "20250123",
+    "time": "6:23 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Assisted ground units after reports of a lost juvenile in the area of McKinley Park."
+  },
+  {
+    "date": "20250123",
+    "time": "6:37 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Assisted ground units after reports of a possible burglary in the area of 24th St and Sutterville Rd."
+  },
+  {
+    "date": "20250123",
+    "time": "6:38 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Assisted ground units after reports of a burglary near Florin and Amherst."
+  },
+  {
+    "date": "20250123",
+    "time": "7:38 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Assisted ground units after reports of a burglary in the area of 13th St and S St."
+  },
+  {
+    "date": "20250123",
+    "time": "8:08 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "Assisted ground units after reports of someone with a weapon in the area of Lemon Hill and Belleview Ave."
   }
 ]
