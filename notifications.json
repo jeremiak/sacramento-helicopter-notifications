@@ -14120,6 +14120,20 @@
   },
   {
     "date": "20250123",
+    "time": "10:04 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "jasmine st and harris assisted in a stolen vehicle call"
+  },
+  {
+    "date": "20250123",
+    "time": "11:07 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "rio loma way and rio norte way assisted in theft call"
+  },
+  {
+    "date": "20250123",
     "time": "3:34 PM",
     "neighborhood": "North Oak Park",
     "beat": "6A",
@@ -14173,5 +14187,75 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6C",
     "comments": "Assisted ground units after reports of someone with a weapon in the area of Lemon Hill and Belleview Ave."
+  },
+  {
+    "date": "20250123",
+    "time": "8:38 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Assisted ground units after reports of a suspicious person in the area of Center Parkway and Paramount Cir."
+  },
+  {
+    "date": "20250124",
+    "time": "12:43 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Report of subject armed w/ a handgun after trying to break into a vehicle.  Unable to locate in the area. 6023"
+  },
+  {
+    "date": "20250124",
+    "time": "1:48 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Report of assault in progress with possible injuries. 6023"
+  },
+  {
+    "date": "20250124",
+    "time": "2:03 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground patrol units in searching for a subject in the area of Norwood AVE / Fairbanks AVE"
+  },
+  {
+    "date": "20250124",
+    "time": "2:38 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisted ground patrol units in a pursuit in the area of FOLSOM BLVD / 52nd ST"
+  },
+  {
+    "date": "20250124",
+    "time": "4:13 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisted ground units in locating a possible assault in the area of Tangerine Ave and Mack Rd"
+  },
+  {
+    "date": "20250124",
+    "time": "4:16 PM",
+    "neighborhood": "South City Farms",
+    "beat": "4B",
+    "comments": "AIR1 is assisting ground units on a suspicious circumstances call in the area of Franklin Blvd and Fruitridge Rd"
+  },
+  {
+    "date": "20250124",
+    "time": "4:37 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 checked the area of W El Camino Ave and Azevedo Dr for a domestic violence suspect"
+  },
+  {
+    "date": "20250124",
+    "time": "4:52 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "AIR1 is assisting ground units in checking the area for an at risk missing person near Jibboom St and Railyards Blvd"
+  },
+  {
+    "date": "20250124",
+    "time": "5:50 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Sacramento Police Officers responded to a shooting."
   }
 ]
