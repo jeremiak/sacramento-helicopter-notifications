@@ -14453,5 +14453,47 @@
     "neighborhood": "Land Park",
     "beat": "4A",
     "comments": "The Air unit is assisting ground units with a call for service here."
+  },
+  {
+    "date": "20250130",
+    "time": "4:39 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Assisted ground units after reports of a possible road rage incident near Cosumnes River and Franklin."
+  },
+  {
+    "date": "20250130",
+    "time": "5:03 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Assisted ground units during a pursuit southbound highway 99 at Laguna Blvd."
+  },
+  {
+    "date": "20250130",
+    "time": "6:37 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "franklin blvd/art pkwy - helicopter assisted with monitoring reports of a burglary in progress"
+  },
+  {
+    "date": "20250130",
+    "time": "7:16 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Assisted ground units after reports of a possible break in near the area of Lampasas and Fairfield."
+  },
+  {
+    "date": "20250130",
+    "time": "7:29 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Assisting ground units search for an at-risk missing person in the area of Martin Luther King Jr Blvd and 8th Ave."
+  },
+  {
+    "date": "20250130",
+    "time": "7:54 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Responded to a call of a female in the area near McClatchy Park"
   }
 ]
