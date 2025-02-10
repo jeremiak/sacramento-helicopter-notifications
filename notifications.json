@@ -14586,5 +14586,40 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air1 assisted units in locating a stolen vehicle."
+  },
+  {
+    "date": "20250208",
+    "time": "8:29 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Air unit assisting ground units in locating a subject involved in a domestic situation near W ST and 13th ST."
+  },
+  {
+    "date": "20250208",
+    "time": "9:24 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Air unit assisting ground unit in locating subjects possibly involved in a burglary near Red Deer and Deer Creek."
+  },
+  {
+    "date": "20250209",
+    "time": "12:57 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "AIR1 checked on a report of a suspicious vehicle in the area of Outfall Cir/Unsworth Ave."
+  },
+  {
+    "date": "20250209",
+    "time": "2:33 AM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air units assisted ground units with a pursuit. The suspect took off on foot and units were not able to locate the suspect in the area."
+  },
+  {
+    "date": "20250209",
+    "time": "2:59 AM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Air unit assisted ground units with an incomplete 9-1-1 call near Fairfield St and Eleanor Ave."
   }
 ]
