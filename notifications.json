@@ -14621,5 +14621,40 @@
     "neighborhood": "Noralto",
     "beat": "2B",
     "comments": "Air unit assisted ground units with an incomplete 9-1-1 call near Fairfield St and Eleanor Ave."
+  },
+  {
+    "date": "20250210",
+    "time": "3:59 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Helicopter assisted officers searching area for a subject with warrants."
+  },
+  {
+    "date": "20250210",
+    "time": "4:48 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "El Camino Ave / Del Paso Blvd - Air assisted ground units locate subjects who robbed a local business."
+  },
+  {
+    "date": "20250210",
+    "time": "5:24 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "4th Ave / Stockton Blvd - Air assisted ground units responding to reports of a physical altercation."
+  },
+  {
+    "date": "20250210",
+    "time": "6:36 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Air unit assisting after reports of a possible burglary in progress at a business"
+  },
+  {
+    "date": "20250210",
+    "time": "6:55 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Florin Rd / 24th St - STAR assisted units responding to reports of a burglary."
   }
 ]
