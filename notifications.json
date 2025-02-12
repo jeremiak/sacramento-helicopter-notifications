@@ -14656,5 +14656,33 @@
     "neighborhood": "Woodbine",
     "beat": "4B",
     "comments": "Florin Rd / 24th St - STAR assisted units responding to reports of a burglary."
+  },
+  {
+    "date": "20250210",
+    "time": "8:48 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Air unit assisting on report of possible burglary in progress."
+  },
+  {
+    "date": "20250211",
+    "time": "1:57 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Helicopter in the area of 37th Ave/Alder Ave assisting officers responding to reports of someone hurting an animal."
+  },
+  {
+    "date": "20250211",
+    "time": "4:22 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Meadowview Rd / Shining Star Dr - AIR1 assisting Sacramento Sheriff's Department investigating a possible kidnapping."
+  },
+  {
+    "date": "20250211",
+    "time": "5:26 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Del Paso Blvd / Arden Way - AIR1 assisted ground units looking for a missing juvenile."
   }
 ]
