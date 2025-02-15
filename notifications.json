@@ -14698,5 +14698,33 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Air unit was assisting police on reports of a possibly armed subject"
+  },
+  {
+    "date": "20250213",
+    "time": "4:38 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "AIR1 assisted ground units in the 1300 block of Florin Rd for reports of an assault."
+  },
+  {
+    "date": "20250213",
+    "time": "8:08 PM",
+    "neighborhood": "",
+    "beat": "4B",
+    "comments": "AIR1 assisted ground units in the 4600 block of Freeport Blvd for a hit and run with a possibly impaired driver."
+  },
+  {
+    "date": "20250214",
+    "time": "5:07 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "AIR1 checked the roof of a building for reports of someone sleeping there in the area of 16th St and F St"
+  },
+  {
+    "date": "20250214",
+    "time": "6:16 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "AIR1 was en route to assist units in checking the area for an at risk missing person near Lemon HIll and Stockton Blvd but the missing person was located before the helicopter marked on scene"
   }
 ]
