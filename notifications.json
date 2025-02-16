@@ -14715,6 +14715,20 @@
   },
   {
     "date": "20250214",
+    "time": "11:17 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "AIR1 ASSISTED UNITS IN CHECKING THE AREA FOR A  RECKLESS DRIVER"
+  },
+  {
+    "date": "20250214",
+    "time": "11:24 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "Air1 assisted units in checking the area for two robbery suspects."
+  },
+  {
+    "date": "20250214",
     "time": "5:07 PM",
     "neighborhood": "Boulevard Park",
     "beat": "3B",
@@ -14726,5 +14740,54 @@
     "neighborhood": "",
     "beat": "6B",
     "comments": "AIR1 was en route to assist units in checking the area for an at risk missing person near Lemon HIll and Stockton Blvd but the missing person was located before the helicopter marked on scene"
+  },
+  {
+    "date": "20250215",
+    "time": "3:38 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "Star assisted units in locating a missing person in the area of 26th st and F st."
+  },
+  {
+    "date": "20250215",
+    "time": "4:15 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Arena Blvd / E Commerce Way - Air assisted ground units responding to reports of a physical altercation."
+  },
+  {
+    "date": "20250215",
+    "time": "5:50 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "F St / 26th St - STAR assisted units responding to reports of an at-risk missing person."
+  },
+  {
+    "date": "20250215",
+    "time": "7:15 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "folsom blvd/67th st - helicopter assisted with monitoring a disturbance involving a weapon"
+  },
+  {
+    "date": "20250215",
+    "time": "7:49 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "39th ave/64th st - helicopter assisted with reports of a large fight"
+  },
+  {
+    "date": "20250215",
+    "time": "7:52 PM",
+    "neighborhood": "",
+    "beat": "1B",
+    "comments": "w el camino ave/gateway oaks dr- helicopter assisted with searching for a stolen vehicle"
+  },
+  {
+    "date": "20250215",
+    "time": "8:08 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "taft st/janette way - helicopter assisted with monitoring a domestic disturbance"
   }
 ]
