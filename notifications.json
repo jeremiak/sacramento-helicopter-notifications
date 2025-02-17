@@ -14743,6 +14743,13 @@
   },
   {
     "date": "20250215",
+    "time": "10:54 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Helicopter was assisting ground units search the area for reports of a stolen vehicle."
+  },
+  {
+    "date": "20250215",
     "time": "3:38 PM",
     "neighborhood": "Marshall School",
     "beat": "3B",
@@ -14789,5 +14796,47 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "taft st/janette way - helicopter assisted with monitoring a domestic disturbance"
+  },
+  {
+    "date": "20250215",
+    "time": "8:36 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "L st / K st - AIR assisted units responding to reports of a subject reported to be armed with a gun."
+  },
+  {
+    "date": "20250215",
+    "time": "9:18 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter was overhead assisting ground units locate a possible armed subject. Subject was located."
+  },
+  {
+    "date": "20250216",
+    "time": "1:35 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Consumnes River Blvd / Franklin Blvd - AIR assisted ground units responding to reports of a subject that pulled a knife on someone."
+  },
+  {
+    "date": "20250216",
+    "time": "1:57 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Norwood Ave / Ford Rd - AIR assisted ground units responding to reports of an armed subject walking down the street."
+  },
+  {
+    "date": "20250216",
+    "time": "5:20 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisted officers in the area after reports of a subject with a gun which was unfounded."
+  },
+  {
+    "date": "20250216",
+    "time": "8:19 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisting officers in the area searching for a subject with an axe making threats."
   }
 ]
