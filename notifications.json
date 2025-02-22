@@ -14964,5 +14964,47 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Helicopter assisted officers searching the area for a suspicious subject following someone. Helicopter was unable to locate the subject."
+  },
+  {
+    "date": "20250220",
+    "time": "5:42 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "del paso blvd and el camino looking for stolen vehicle"
+  },
+  {
+    "date": "20250221",
+    "time": "1:43 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "STAR responded for a possible assault in the area of 28th St/J St."
+  },
+  {
+    "date": "20250221",
+    "time": "3:37 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "AIR1 responded to a possible assault in the area of Commons Dr/American River Dr."
+  },
+  {
+    "date": "20250221",
+    "time": "3:53 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "AIR1 checked the area of Arcade Blvd/Eleanor Ave on a report of armed subjects."
+  },
+  {
+    "date": "20250221",
+    "time": "4:38 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Helicopter assisted ground units to search for a stolen vehicle on the road."
+  },
+  {
+    "date": "20250221",
+    "time": "4:57 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted ground units to search for a subject walking around with an airsoft gun."
   }
 ]
