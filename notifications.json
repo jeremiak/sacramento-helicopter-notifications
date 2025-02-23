@@ -14974,6 +14974,20 @@
   },
   {
     "date": "20250221",
+    "time": "10:46 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units with locating a subject who possibly broke into a building in the area of 2nd St/K St."
+  },
+  {
+    "date": "20250221",
+    "time": "10:49 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units with locating a possibly armed subject in the area of Calvine Rd/Sunny Lake Way."
+  },
+  {
+    "date": "20250221",
     "time": "1:43 PM",
     "neighborhood": "Marshall School",
     "beat": "3B",
@@ -15006,5 +15020,19 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "Helicopter assisted ground units to search for a subject walking around with an airsoft gun."
+  },
+  {
+    "date": "20250221",
+    "time": "8:18 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted ground units to search for a stolen vehicle on the road."
+  },
+  {
+    "date": "20250222",
+    "time": "3:25 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Helicopter assisted ground units check the area for a large fight. Units were unable to locate this."
   }
 ]
