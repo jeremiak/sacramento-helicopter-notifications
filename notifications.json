@@ -15041,5 +15041,33 @@
     "neighborhood": "Northgate",
     "beat": "1C",
     "comments": "Air 1 assisted Police units in investigating a laser pointed at an aircraft near regatta dr/ northstead dr"
+  },
+  {
+    "date": "20250223",
+    "time": "7:48 PM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "AIR1 assisting ground units with monitoring a possible side show in the area of Kelton Way/Main Ave."
+  },
+  {
+    "date": "20250224",
+    "time": "2:05 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter in the area of Cosumnes River Blvd/Bruceville Rd assisting officers responding to a hit and run."
+  },
+  {
+    "date": "20250224",
+    "time": "3:38 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter in the area of Folsom Blvd/65th Street assisting officers responding to a report of a suspicious person."
+  },
+  {
+    "date": "20250224",
+    "time": "4:36 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "STAR was assisting ground units in locating subjects that were reportedly in a physical altercation. STAR was unable to locate anyone."
   }
 ]
