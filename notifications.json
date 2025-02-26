@@ -15069,5 +15069,54 @@
     "neighborhood": "Boulevard Park",
     "beat": "3B",
     "comments": "STAR was assisting ground units in locating subjects that were reportedly in a physical altercation. STAR was unable to locate anyone."
+  },
+  {
+    "date": "20250224",
+    "time": "9:59 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "AIR1 assisting ground units with locating a suspicious subject in the area of Specialty Cir/Florin Perkins Rd."
+  },
+  {
+    "date": "20250225",
+    "time": "3:15 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit assisting after reports of a robbery in the area"
+  },
+  {
+    "date": "20250225",
+    "time": "3:29 PM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "Air unit checking area after 911 call with unknown circumstances"
+  },
+  {
+    "date": "20250225",
+    "time": "3:33 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "Air unit assisting after reports of an assault inside a business"
+  },
+  {
+    "date": "20250225",
+    "time": "7:23 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in locating an assault in the area of Taylor St and Granger Ave"
+  },
+  {
+    "date": "20250225",
+    "time": "7:47 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 assisted ground units in locating a stolen vehicle in the area of San Juan Rd and Northgate Blvd"
+  },
+  {
+    "date": "20250225",
+    "time": "8:18 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Air unit checking area after reports of subject exhibiting suspicious behavior"
   }
 ]
