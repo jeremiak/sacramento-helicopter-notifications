@@ -15160,5 +15160,61 @@
     "neighborhood": "South Land Park",
     "beat": "4A",
     "comments": "AIR1 was checking the area for an armed subject near S Land Park Dr and Seamas Ave"
+  },
+  {
+    "date": "20250226",
+    "time": "8:17 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "AIR1 assisted ground units in searching the area of Elder Creek Rd and Stockton Blvd for possibly armed subjects"
+  },
+  {
+    "date": "20250226",
+    "time": "9:08 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "air unit assisted with attempting to locate shoplifters"
+  },
+  {
+    "date": "20250226",
+    "time": "9:09 PM",
+    "neighborhood": "Southeast Village",
+    "beat": "6C",
+    "comments": "air unit assisted ground units with reports of a home break in. They checked area and were unable to locate anything"
+  },
+  {
+    "date": "20250227",
+    "time": "3:43 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "STAR assisted ground patrol units in searching for a stolen vehicle - FAIRBANKS Ave / WESTERN Ave"
+  },
+  {
+    "date": "20250227",
+    "time": "5:18 PM",
+    "neighborhood": "",
+    "beat": "1B",
+    "comments": "Helicopter assisted ground units check the area for a suspicious subject that was banging on apartment doors."
+  },
+  {
+    "date": "20250227",
+    "time": "5:47 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted ground units stop a felony vehicle."
+  },
+  {
+    "date": "20250227",
+    "time": "6:49 PM",
+    "neighborhood": "Norwood I-80",
+    "beat": "2A",
+    "comments": "Helicopter assisted ground units with a possible business break in. Everything checked ok."
+  },
+  {
+    "date": "20250227",
+    "time": "7:19 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Helicopter assisted ground units with locating a stolen vehicle."
   }
 ]
