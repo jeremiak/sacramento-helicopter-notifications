@@ -15230,5 +15230,47 @@
     "neighborhood": "Fairgrounds",
     "beat": "6B",
     "comments": "AIR1 assisted ground units in locating a suspicious person in the area of 59th St and Broadway"
+  },
+  {
+    "date": "20250228",
+    "time": "10:19 PM",
+    "neighborhood": "Richardson Village",
+    "beat": "2B",
+    "comments": "Star assisting patrol units with a pursuit"
+  },
+  {
+    "date": "20250228",
+    "time": "11:18 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "AIR1 assisting ground units with monitoring some reckless driving in the area of Ramona Ave/Cucamonga Ave."
+  },
+  {
+    "date": "20250228",
+    "time": "11:26 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units with monitoring a suspicious subject in the area of El Centro Rd/Duckhorn Dr."
+  },
+  {
+    "date": "20250228",
+    "time": "7:17 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units in a vehicle that lead officers in pursuit. Vehicle pulled over and occupants were detained."
+  },
+  {
+    "date": "20250301",
+    "time": "3:25 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "STAR assisted officers looking for a stolen vehicle in the area of Del Paso Blvd/El Camino Ave."
+  },
+  {
+    "date": "20250301",
+    "time": "6:48 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "STAR assisted ground units locate a subject who was armed with a knife. Subject was detained without incident."
   }
 ]
