@@ -15275,6 +15275,13 @@
   },
   {
     "date": "20250302",
+    "time": "10:05 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Star responded to the area of 88th St and 37th Ave to assist patrol units on a traffic stop and foot pursuit nearby."
+  },
+  {
+    "date": "20250302",
     "time": "1:26 PM",
     "neighborhood": "",
     "beat": "UI",
@@ -15300,5 +15307,19 @@
     "neighborhood": "North City Farms",
     "beat": "4B",
     "comments": "Helicopter assisted officers checking the area for a subject who threatened another with a bb gun.  Subject was detained."
+  },
+  {
+    "date": "20250302",
+    "time": "9:41 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Star responded to the area of Florin Road and Tamoshanter Way to assist patrol units in the area for reports of a disturbance with a possible weapon involved."
+  },
+  {
+    "date": "20250302",
+    "time": "9:52 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Star responded to the area of San Mateo Way and Riverside Blvd to assist patrol units in the area for reports of a subject screaming for help nearby."
   }
 ]
