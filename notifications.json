@@ -15366,6 +15366,13 @@
   },
   {
     "date": "20250306",
+    "time": "10:24 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "AIR1 assisted ground units in the 1100 block of Del Paso Blvd. for reports of a vehicle break in."
+  },
+  {
+    "date": "20250306",
     "time": "5:02 PM",
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5B",
@@ -15398,5 +15405,40 @@
     "neighborhood": "Robla",
     "beat": "2A",
     "comments": "AIR1 is assisting ground units in searching the area for a vehicle involved in a shooting in the area of May St and Bell Ave"
+  },
+  {
+    "date": "20250307",
+    "time": "4:57 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Helicopter assisting ground units locate a subject reported to be armed with a gun. Gun unfounded."
+  },
+  {
+    "date": "20250307",
+    "time": "5:16 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted ground units check the area for a report of a suspicious subject."
+  },
+  {
+    "date": "20250307",
+    "time": "5:31 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "Helicopter assisted ground units search for a stolen vehicle,"
+  },
+  {
+    "date": "20250307",
+    "time": "6:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter helped search the area of Cosumnes River Blvd and Bruceville Rd for a possible armed subject."
+  },
+  {
+    "date": "20250307",
+    "time": "7:01 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisted the West Sacramento Polcie Department with a vehicle stop."
   }
 ]
