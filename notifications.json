@@ -15408,6 +15408,34 @@
   },
   {
     "date": "20250307",
+    "time": "10:17 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "STAR assisting ground units with locating a possibly armed subject in the area of P St/ 15th St."
+  },
+  {
+    "date": "20250307",
+    "time": "10:45 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "AIR1 assisting ground units monitoring a solo police officer in the area of Florin Rd/ Freeport Blvd."
+  },
+  {
+    "date": "20250307",
+    "time": "10:59 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units with locating a possible suspect of a violent crime in the area of Bruceville Rd/ Alpine Frost Dr."
+  },
+  {
+    "date": "20250307",
+    "time": "11:08 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground units with monitoring a possible side show in the area of W El Camino Ave/ American Way."
+  },
+  {
+    "date": "20250307",
     "time": "4:57 PM",
     "neighborhood": "Avondale",
     "beat": "6C",
@@ -15440,5 +15468,33 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Helicopter assisted the West Sacramento Polcie Department with a vehicle stop."
+  },
+  {
+    "date": "20250307",
+    "time": "7:51 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in responding to a ShotSpotter activation. It was determined that it was just party poppers."
+  },
+  {
+    "date": "20250307",
+    "time": "8:02 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "AIR1 assisted ground units in locating a possible armed subject in the area. Subject was located and detained."
+  },
+  {
+    "date": "20250308",
+    "time": "4:04 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Elder Creek Rd / Younger Creek Dr - AIR assisted units responding to reports of a Sideshow gathering."
+  },
+  {
+    "date": "20250308",
+    "time": "4:18 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Power Inn Rd / Folsom Blvd - AIR assisted units responding to reports of child sitting alone at the corner of an intersection."
   }
 ]
