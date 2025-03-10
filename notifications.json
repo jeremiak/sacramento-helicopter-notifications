@@ -15496,5 +15496,75 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "Power Inn Rd / Folsom Blvd - AIR assisted units responding to reports of child sitting alone at the corner of an intersection."
+  },
+  {
+    "date": "20250308",
+    "time": "7:35 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "5th / Broadway - AIR assisted units conducting a traffic stop on a stolen vehicle."
+  },
+  {
+    "date": "20250308",
+    "time": "8:45 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Gateway Park Blvd / N Freeway Blvd- Air assisted units responding to reports of a Sideshow."
+  },
+  {
+    "date": "20250309",
+    "time": "1:16 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "AIR1 assisted units attempting to locate a domestic violence suspect in the area of Arden Way/Heritage Ln."
+  },
+  {
+    "date": "20250309",
+    "time": "2:09 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air 1 assisted with units for an altercation involving the brandishing of a weapon."
+  },
+  {
+    "date": "20250309",
+    "time": "2:18 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air 1 assisted units in an altercation where a gun was possibly involved. The area checked clear."
+  },
+  {
+    "date": "20250309",
+    "time": "3:41 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "STAR assisted units locating a stolen vehicle in the area of Power Inn Rd/Folsom Blvd."
+  },
+  {
+    "date": "20250309",
+    "time": "4:53 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter assisted officers searching the area for a stolen vehicle but were unable to locate the vehicle."
+  },
+  {
+    "date": "20250309",
+    "time": "6:48 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Helicopter assisted officers in the area locating a subject with a knife.  Subject has been detained."
+  },
+  {
+    "date": "20250309",
+    "time": "6:54 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted officers searching the area for subjects in a fight.  There was mention of a gun but when officers arrived it was unfounded."
+  },
+  {
+    "date": "20250309",
+    "time": "7:47 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Helicopter assisted officers in the area after reports of a fight going on in the street."
   }
 ]
