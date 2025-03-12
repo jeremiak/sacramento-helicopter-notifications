@@ -15629,5 +15629,33 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "AIR1 was assisting ground units in checking the area for reports of a shooting in the area. Units were unable to locate anything."
+  },
+  {
+    "date": "20250311",
+    "time": "5:13 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Air unit assisted on possibly armed subject"
+  },
+  {
+    "date": "20250311",
+    "time": "5:38 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Air unit assisting after a shotspotter activation"
+  },
+  {
+    "date": "20250311",
+    "time": "7:45 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 is assisting ground units in checking the area for an armed subject near Del Paso Blvd and El Camino Ave"
+  },
+  {
+    "date": "20250311",
+    "time": "8:07 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisted ground units in searching the area for a suspicious subject near Brookfield Dr and Franklin Blvd"
   }
 ]
