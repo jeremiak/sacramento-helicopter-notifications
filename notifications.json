@@ -15657,5 +15657,61 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "AIR1 assisted ground units in searching the area for a suspicious subject near Brookfield Dr and Franklin Blvd"
+  },
+  {
+    "date": "20250312",
+    "time": "10:14 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in monitoring a pursuit across multiple jurisdictions."
+  },
+  {
+    "date": "20250313",
+    "time": "3:57 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisted ground units to help locate a robbery suspect."
+  },
+  {
+    "date": "20250313",
+    "time": "4:18 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted ground units to help locate a subject climbing the fence on the freeway."
+  },
+  {
+    "date": "20250313",
+    "time": "4:27 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air 1 assisted units in locating a suspicious subject."
+  },
+  {
+    "date": "20250313",
+    "time": "7:54 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "air unit assisted ground units with locating a subj that stated he was robbed"
+  },
+  {
+    "date": "20250313",
+    "time": "8:10 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air 1 assisted units with locating a subject."
+  },
+  {
+    "date": "20250313",
+    "time": "8:44 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air 1 assisted the Sheriff's Department in vehicle and foot pursuit."
+  },
+  {
+    "date": "20250313",
+    "time": "8:47 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "air unit assisted ground units with locating vehicle involved in possible shooting"
   }
 ]
