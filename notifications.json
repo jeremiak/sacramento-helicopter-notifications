@@ -15667,6 +15667,13 @@
   },
   {
     "date": "20250313",
+    "time": "11:07 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Air1 was assisting ground units with a side show."
+  },
+  {
+    "date": "20250313",
     "time": "3:57 PM",
     "neighborhood": "Meadowview",
     "beat": "5A",
@@ -15713,5 +15720,26 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "air unit assisted ground units with locating vehicle involved in possible shooting"
+  },
+  {
+    "date": "20250313",
+    "time": "9:55 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "STAR was going to assist ground units for reports of a robbery but units advised it was unfounded. This was in the area of Fruitridge Rd and Stockton Blvd"
+  },
+  {
+    "date": "20250314",
+    "time": "5:47 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted grounds units with reports of a shooting in the area of Center Pkwy and Tangerine Ave."
+  },
+  {
+    "date": "20250314",
+    "time": "7:46 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air 1 responded with units to assist in locating a stabbing suspect."
   }
 ]
