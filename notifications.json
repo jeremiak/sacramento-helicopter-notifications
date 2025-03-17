@@ -15751,6 +15751,27 @@
   },
   {
     "date": "20250315",
+    "time": "11:15 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "AIR1 assisted ground units in monitoring a traffic stop in the area of 2nd St and K St"
+  },
+  {
+    "date": "20250315",
+    "time": "11:28 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisted ground units in checking the area for a suspicious subject near Bruceville Rd and Sheldon Rd"
+  },
+  {
+    "date": "20250315",
+    "time": "11:47 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "AIR1 assisted ground units in stopping a reckless vehicle in the area of Fruitridge and Florin Perkins"
+  },
+  {
+    "date": "20250315",
     "time": "1:17 PM",
     "neighborhood": "Raley Industrial Park",
     "beat": "2A",
@@ -15818,5 +15839,40 @@
     "neighborhood": "",
     "beat": "1A",
     "comments": "Gateway Park Blvd / Truxel Rd - AIR1 assisted ground units responding to reports of a suspicious subject walking onto a construction site."
+  },
+  {
+    "date": "20250316",
+    "time": "1:12 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "Air unit dispatched on a possible attempt break in"
+  },
+  {
+    "date": "20250316",
+    "time": "1:36 PM",
+    "neighborhood": "Csus",
+    "beat": "7B",
+    "comments": "Air unit dispatched to assist after reports of a possible attempt break in"
+  },
+  {
+    "date": "20250316",
+    "time": "1:39 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Air unit assisting after reports of a possibly armed subject"
+  },
+  {
+    "date": "20250316",
+    "time": "4:19 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "The helicopter responded to a Domestic violence dispute in the area."
+  },
+  {
+    "date": "20250316",
+    "time": "5:20 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Air 1 assisted units in locating a Missing Person."
   }
 ]
