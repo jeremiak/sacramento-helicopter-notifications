@@ -15881,5 +15881,33 @@
     "neighborhood": "Noralto",
     "beat": "2B",
     "comments": "AIR1 assisted ground units in locating a stolen vehicle in the area of El Camino Ave and Grove Ave"
+  },
+  {
+    "date": "20250319",
+    "time": "1:06 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "Helicopter assisted ground units locate a suspicious subject."
+  },
+  {
+    "date": "20250319",
+    "time": "1:13 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Helicopter assisted ground units locate a subject reported to be armed with a knife. Officers detained subject without incident."
+  },
+  {
+    "date": "20250319",
+    "time": "4:43 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisting officers on the ground searching for a subject who ran from a vehicle accident."
+  },
+  {
+    "date": "20250319",
+    "time": "5:56 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "AIR1 assisted ground units in checking the area of Arden Way and Del Paso Blvd for a suspicious person"
   }
 ]
