@@ -15912,6 +15912,13 @@
   },
   {
     "date": "20250320",
+    "time": "11:48 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "I 80/WINTERS...AIR1 assisted with a pursuit"
+  },
+  {
+    "date": "20250320",
     "time": "7:56 PM",
     "neighborhood": "Gardenland",
     "beat": "1C",
@@ -15923,5 +15930,19 @@
     "neighborhood": "Campus Commons",
     "beat": "7B",
     "comments": "AIR1 assisted ground units in the area of Park Center Dr. and Campus Commons Rd. for reports of a possible break in."
+  },
+  {
+    "date": "20250320",
+    "time": "9:58 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "RIO LINDA BLVD/RIVERA DR...STAR checked the area for a possible physical altercation."
+  },
+  {
+    "date": "20250321",
+    "time": "11:29 AM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "H20 assisted ground patrol units in searching for a suspect - 15th AVE / 60th ST"
   }
 ]
