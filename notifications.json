@@ -15951,5 +15951,40 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "air unit assisted ground units with reports of a robbery"
+  },
+  {
+    "date": "20250323",
+    "time": "12:14 AM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "H20 - Wisconsin Ave/Northgate Blvd - Air support assisting ground units after reports of reckless driving in the area."
+  },
+  {
+    "date": "20250323",
+    "time": "1:14 AM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "H20 - Elder Creek Rd/S Watt Ave - Air unit responded to assist ground units after reports of reckless driving in the area."
+  },
+  {
+    "date": "20250323",
+    "time": "2:00 AM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "H20 - Winters St/Grand Ave - Air unit responded to assist ground units after reports of reckless driving in the area."
+  },
+  {
+    "date": "20250323",
+    "time": "2:15 AM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "H20 assisting units on a traffic stop."
+  },
+  {
+    "date": "20250323",
+    "time": "2:33 AM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "H20 assisting ground units locate a vehicle."
   }
 ]
