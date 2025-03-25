@@ -15954,6 +15954,13 @@
   },
   {
     "date": "20250323",
+    "time": "10:07 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "H20 was dispatched to the area of 65th St and 4th Ave to assist ground units in searching for a suspect."
+  },
+  {
+    "date": "20250323",
     "time": "12:14 AM",
     "neighborhood": "Gardenland",
     "beat": "1C",
@@ -15986,5 +15993,26 @@
     "neighborhood": "Robla",
     "beat": "2A",
     "comments": "H20 assisting ground units locate a vehicle."
+  },
+  {
+    "date": "20250323",
+    "time": "9:26 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "H20 assisted ground units in searching the area of Alhambra Blvd and Folsom Blvd for possible suspects."
+  },
+  {
+    "date": "20250324",
+    "time": "4:36 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "responded for a stolen vehicle in progress"
+  },
+  {
+    "date": "20250324",
+    "time": "5:19 PM",
+    "neighborhood": "Alkali Flats",
+    "beat": "3A",
+    "comments": "Helicopter responded to the area of E St and 10th St to check the area for a missing juvenile.  Ground units located the missing person."
   }
 ]
