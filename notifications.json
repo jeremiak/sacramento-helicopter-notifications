@@ -16042,5 +16042,68 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2B",
     "comments": "HELICOPTER RESPONDED TO BOWLES ST AND OAKMONT ST FOR A SUSPICIOUS PERSON"
+  },
+  {
+    "date": "20250326",
+    "time": "9:31 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisting ground units and the Sacramento County Sheriff's Dept in locating a suspect who led deputies in a pursuit and ran from them. Suspect is a Male, Hispanic, Juvenile, grey shirt and grey pants last seen in the area of Mandy Dr. and Doss Way."
+  },
+  {
+    "date": "20250327",
+    "time": "2:41 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "STAR assisted ground units in searching the area of 14th St and 43rd Ave for an armed subject"
+  },
+  {
+    "date": "20250327",
+    "time": "4:01 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "STAR searched the area of 21st St and W St for a stolen vehicle"
+  },
+  {
+    "date": "20250327",
+    "time": "7:19 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 assisted ground units in monitoring a pursuit in the area of Northgate Blvd and San Juan Rd"
+  },
+  {
+    "date": "20250327",
+    "time": "7:27 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Air 1 assisted units in locating a stolen vehicle suspect."
+  },
+  {
+    "date": "20250327",
+    "time": "7:34 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "AIR1 was en route to assist units in checking a property for a suspicious person in the area of Woodbine Ave and Florin Rd but were cancelled before they marked on scene"
+  },
+  {
+    "date": "20250327",
+    "time": "7:43 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 checked around a vacant property for suspicious activity near 69th Ave and Amherst St"
+  },
+  {
+    "date": "20250327",
+    "time": "8:20 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air 1 assisted units in locating a suspicious drunk subject."
+  },
+  {
+    "date": "20250327",
+    "time": "8:58 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air 1 assisted units in locating a possible burglary suspect."
   }
 ]
