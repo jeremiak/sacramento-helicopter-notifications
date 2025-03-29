@@ -16105,5 +16105,40 @@
     "neighborhood": "North Oak Park",
     "beat": "6A",
     "comments": "Air 1 assisted units in locating a possible burglary suspect."
+  },
+  {
+    "date": "20250327",
+    "time": "9:28 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "STAR assisted ground units on a traffic stop where there was a gun in the car, everyone detained safely."
+  },
+  {
+    "date": "20250328",
+    "time": "3:17 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR assisted ground units with reports of a home break in."
+  },
+  {
+    "date": "20250328",
+    "time": "3:49 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR assisted ground units locate a stolen vehicle."
+  },
+  {
+    "date": "20250328",
+    "time": "6:53 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Caller reporting possible burglary in progress.  6023"
+  },
+  {
+    "date": "20250328",
+    "time": "7:47 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "AIR1 checking the area of Norwood Ave/Jessie Ave for a robbery suspect."
   }
 ]
