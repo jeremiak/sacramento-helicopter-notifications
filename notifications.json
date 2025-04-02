@@ -16217,5 +16217,40 @@
     "neighborhood": "Richmond Grove",
     "beat": "3A",
     "comments": "Helicopter assisting officers searching the area for a stolen vehicle."
+  },
+  {
+    "date": "20250401",
+    "time": "1:07 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3M",
+    "comments": "Air unit assisting after reports of a robbery"
+  },
+  {
+    "date": "20250401",
+    "time": "1:35 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisting ground units after reports of a stolen vehicle in the area of West El Camino Ave and Truxel Rd."
+  },
+  {
+    "date": "20250401",
+    "time": "2:26 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "Air unit assisted after reports of a suspicious subject"
+  },
+  {
+    "date": "20250401",
+    "time": "4:12 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "AIR1 checked the area of Truxel Rd and Bannon Creek for a suspect vehicle in a hit and run"
+  },
+  {
+    "date": "20250401",
+    "time": "6:18 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "AIR1 assisted SPD and SSD units in finding a pursuit suspect in the area of Broadway and Alhambra Blvd"
   }
 ]
