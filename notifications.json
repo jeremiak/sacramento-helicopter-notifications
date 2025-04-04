@@ -16252,5 +16252,40 @@
     "neighborhood": "Land Park",
     "beat": "4A",
     "comments": "AIR1 assisted SPD and SSD units in finding a pursuit suspect in the area of Broadway and Alhambra Blvd"
+  },
+  {
+    "date": "20250402",
+    "time": "10:28 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 checked the area of 9th St and K St for a possible vehicle break in"
+  },
+  {
+    "date": "20250402",
+    "time": "10:39 PM",
+    "neighborhood": "Carleton Tract",
+    "beat": "4A",
+    "comments": "AIR1 checked the area of 21st St and 18th Ave for a domestic violence suspect"
+  },
+  {
+    "date": "20250402",
+    "time": "10:42 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 checked the area of Florin Rd and Bowling Dr for reports of reckless driving"
+  },
+  {
+    "date": "20250403",
+    "time": "8:54 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "STAR was assisting ground units in looking for vehicles involved in road rage near 24th St and 47th Ave"
+  },
+  {
+    "date": "20250403",
+    "time": "8:56 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "STAR was in the area of 34th St and 16th Ave looking for a missing person"
   }
 ]
