@@ -16287,5 +16287,33 @@
     "neighborhood": "Pocket",
     "beat": "4C",
     "comments": "STAR was in the area of 34th St and 16th Ave looking for a missing person"
+  },
+  {
+    "date": "20250403",
+    "time": "9:25 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "air unit assisted ground units with locating a vehicle that was driving recklessly"
+  },
+  {
+    "date": "20250404",
+    "time": "12:05 AM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "air unit assisted ground units with a pursuit"
+  },
+  {
+    "date": "20250404",
+    "time": "3:58 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 assisting looking for a missing person in the area of Folsom Blvd/Bicentennial Cir."
+  },
+  {
+    "date": "20250404",
+    "time": "6:06 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Star assisted ground units check the area for a missing person."
   }
 ]
