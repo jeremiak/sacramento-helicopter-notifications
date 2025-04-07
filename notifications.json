@@ -16329,5 +16329,40 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "AIR1 assisting ground units with locating a possibly armed suspect in the area of Delta Shores Cir S/Consumnes River Blvd."
+  },
+  {
+    "date": "20250406",
+    "time": "2:21 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units after reports of a suspicious subject on the roof near detroit blvd and shrader circle. Officers mediated and subject was sent on their way."
+  },
+  {
+    "date": "20250406",
+    "time": "8:03 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Natomas / New Market - Responded to monitor a vehicle accident."
+  },
+  {
+    "date": "20250406",
+    "time": "8:22 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Freeport / Weller - Responded to check the area for burglary suspects."
+  },
+  {
+    "date": "20250406",
+    "time": "8:34 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Broadway / 6th St -  Responded to check the area for burglary suspects."
+  },
+  {
+    "date": "20250406",
+    "time": "8:46 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "10th st / W st - Responded to check the area for burglary suspects."
   }
 ]
