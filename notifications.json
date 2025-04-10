@@ -16423,6 +16423,13 @@
   },
   {
     "date": "20250408",
+    "time": "10:08 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "Assisted ground units after reports of a possible vehicle break in near W El Camino and W River Dr."
+  },
+  {
+    "date": "20250408",
     "time": "3:14 PM",
     "neighborhood": "West Del Paso Heights",
     "beat": "2A",
@@ -16434,5 +16441,61 @@
     "neighborhood": "River Gardens",
     "beat": "1C",
     "comments": "AIR1 assisted ground units in the 900 block of W El Camino Ave for reports of a shooting."
+  },
+  {
+    "date": "20250408",
+    "time": "9:56 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Assisted ground units after reports of a subject threatening people in the area of Northgate Blvd and San Juan Rd with a stick."
+  },
+  {
+    "date": "20250409",
+    "time": "1:09 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Air1 checked the area for reports of a vehicle break in."
+  },
+  {
+    "date": "20250409",
+    "time": "4:48 PM",
+    "neighborhood": "Elder Creek",
+    "beat": "6C",
+    "comments": "Helicopter assisted officers checking the area for a subject passed out in his vehicle blocking traffic. Unable to locate subject."
+  },
+  {
+    "date": "20250409",
+    "time": "4:55 PM",
+    "neighborhood": "",
+    "beat": "7B",
+    "comments": "Helicopter assisted officers searching the area for a subject threatening another subject with pepper spray.  Officers were unable to locate the subject."
+  },
+  {
+    "date": "20250409",
+    "time": "5:57 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter assisted officers detaining subject who had a gun.  Subjects have all been detained."
+  },
+  {
+    "date": "20250409",
+    "time": "7:23 PM",
+    "neighborhood": "Westlake",
+    "beat": "1A",
+    "comments": "Helicopter assisted officers checking the area for a subject who had possible assaulted a juvenile. Was unfounded."
+  },
+  {
+    "date": "20250409",
+    "time": "8:06 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted officers searching the area for robbery suspects which have not been located at this time."
+  },
+  {
+    "date": "20250409",
+    "time": "8:09 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted officers searching the area for a possible armed subject and were unable to locate the subject."
   }
 ]
