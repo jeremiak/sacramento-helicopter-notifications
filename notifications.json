@@ -16500,6 +16500,20 @@
   },
   {
     "date": "20250410",
+    "time": "10:29 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR21 was assisting ground units on an operation in the area of Meadowview Rd and 24th St"
+  },
+  {
+    "date": "20250410",
+    "time": "11:25 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR21 was assisting units on a suspicious circumstances call in the area of Brookfield Dr and Franklin Blvd"
+  },
+  {
+    "date": "20250410",
     "time": "2:47 PM",
     "neighborhood": "Ben Ali",
     "beat": "2C",
@@ -16511,5 +16525,82 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "Star assisted units in locating subjects involved in an argument."
+  },
+  {
+    "date": "20250410",
+    "time": "9:35 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "STAR was en route to help units locate an armed subject near Mack Rd and Center Pkwy but subject was detained before STAR was overhead"
+  },
+  {
+    "date": "20250411",
+    "time": "1:28 AM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "air unit assisting with suspect that ran from units."
+  },
+  {
+    "date": "20250411",
+    "time": "1:59 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "grand ave/clay st - helicopter was assisting with monitoring reports of gunshots in the area"
+  },
+  {
+    "date": "20250411",
+    "time": "3:27 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "wilkinson st/39th ave - helicopter assisted with monitoring a suspicious subject with a weapon"
+  },
+  {
+    "date": "20250411",
+    "time": "4:26 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "AIR1 assisting ground units with attempting to locate a possible suspicious person in the area of P St/22nd St."
+  },
+  {
+    "date": "20250411",
+    "time": "4:31 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 assisting ground units with monitoring a possibly armed vehicle in the area of Folsom Blvd/Power Inn Rd."
+  },
+  {
+    "date": "20250411",
+    "time": "5:29 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "AIR1 assisting ground units to attempt to locate a missing person in the area of Riverside Blvd/Havenside Dr."
+  },
+  {
+    "date": "20250411",
+    "time": "6:16 PM",
+    "neighborhood": "Csus",
+    "beat": "7B",
+    "comments": "Star responded in locating subjects involved in a domestic violence dispute."
+  },
+  {
+    "date": "20250411",
+    "time": "7:25 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "AIR1 assisted ground units in the 1600 block of Arden Way responding to a disturbance with possible weapons involved."
+  },
+  {
+    "date": "20250411",
+    "time": "7:38 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in the 3700 block of Modell Way responding for a subject who brandished a firearm."
+  },
+  {
+    "date": "20250411",
+    "time": "7:47 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 assisted ground units in the 200 block of Bicentennial Circle responding for reports of a burglary in progress."
   }
 ]
