@@ -16651,5 +16651,54 @@
     "neighborhood": "West Del Paso Heights",
     "beat": "2A",
     "comments": "Helicopter assisted officers during a pursuit. Subject has been detained."
+  },
+  {
+    "date": "20250415",
+    "time": "4:59 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Air unit assisted after reports of an assault"
+  },
+  {
+    "date": "20250415",
+    "time": "5:43 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "star assisted officers with a possible robbery"
+  },
+  {
+    "date": "20250415",
+    "time": "6:58 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Air unit assisted on reports of a possible arson"
+  },
+  {
+    "date": "20250415",
+    "time": "7:18 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of subjects breaking into vehicles"
+  },
+  {
+    "date": "20250415",
+    "time": "8:03 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "Air unit assisting in searching area for a suspicious subject"
+  },
+  {
+    "date": "20250415",
+    "time": "8:19 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of a stolen vehicle"
+  },
+  {
+    "date": "20250415",
+    "time": "8:31 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Air unit assisting in searching for suspicious activity"
   }
 ]
