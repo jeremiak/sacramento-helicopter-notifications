@@ -16700,5 +16700,82 @@
     "neighborhood": "Natomas Park",
     "beat": "1A",
     "comments": "Air unit assisting in searching for suspicious activity"
+  },
+  {
+    "date": "20250416",
+    "time": "1:17 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Air unit checking area for possibly armed subject"
+  },
+  {
+    "date": "20250416",
+    "time": "1:27 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "Air unit assisting in search for missing person: Rondale Grant, male, black, 32 years old, 5'10, large build, last seen wearing purple kings shirt and black pants"
+  },
+  {
+    "date": "20250416",
+    "time": "1:30 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting after possible sighting of stolen vehicle"
+  },
+  {
+    "date": "20250416",
+    "time": "1:59 PM",
+    "neighborhood": "Johnson Heights",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of an assault"
+  },
+  {
+    "date": "20250416",
+    "time": "5:58 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Air checked the air for reports of a domestic violence incident."
+  },
+  {
+    "date": "20250416",
+    "time": "6:09 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air helped ground units with reports of a missing person. Missing person returned home."
+  },
+  {
+    "date": "20250416",
+    "time": "6:29 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Air assisted ground units with reports of a possible armed subject. Nothing suspicious observed."
+  },
+  {
+    "date": "20250416",
+    "time": "6:41 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air assisted ground units with an uncooperative subject."
+  },
+  {
+    "date": "20250416",
+    "time": "6:48 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Air assisted ground units attempt to locate an at risk missing person."
+  },
+  {
+    "date": "20250416",
+    "time": "7:19 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Helicopter assisted ground units with reports of a possible assault happening in a vehicle."
+  },
+  {
+    "date": "20250416",
+    "time": "9:02 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "STAR was going to assist on an alarm activation call but it was accidental. Occurred in the area of  Challenge Way and Exposition Blvd"
   }
 ]
