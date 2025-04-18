@@ -16703,6 +16703,27 @@
   },
   {
     "date": "20250416",
+    "time": "10:29 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "AIR1 is assisting ground units in the area of El Camino Ave and Del Paso Blvd for reports of an armed subject"
+  },
+  {
+    "date": "20250416",
+    "time": "10:49 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 was helping ground units check the area of Northgate Blvd and Cleveland Ave for a possibly robbery suspect"
+  },
+  {
+    "date": "20250416",
+    "time": "10:55 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 is assisting ground units in locating a disturbance in the area of W El Camino Ave and Truxel Rd"
+  },
+  {
+    "date": "20250416",
     "time": "1:17 PM",
     "neighborhood": "Glen Elder",
     "beat": "6C",
@@ -16777,5 +16798,40 @@
     "neighborhood": "Point West",
     "beat": "2C",
     "comments": "STAR was going to assist on an alarm activation call but it was accidental. Occurred in the area of  Challenge Way and Exposition Blvd"
+  },
+  {
+    "date": "20250416",
+    "time": "9:36 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "STAR assisted ground units in locating a suspicious person in the area of Eleanor Ave and Grove Ave"
+  },
+  {
+    "date": "20250416",
+    "time": "9:43 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "STAR is assisting ground units in locating suspicious activity in the area of W El Camino Ave and Northgate Blvd"
+  },
+  {
+    "date": "20250417",
+    "time": "5:09 PM",
+    "neighborhood": "Med Center",
+    "beat": "6B",
+    "comments": "AIR1 was assisting ground units on a call in the area of Oak Park"
+  },
+  {
+    "date": "20250417",
+    "time": "6:38 PM",
+    "neighborhood": "Cal Expo",
+    "beat": "7B",
+    "comments": "STAR was assisting county rangers with a pursuit in the area of Paradise Beach"
+  },
+  {
+    "date": "20250417",
+    "time": "7:14 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "STAR assisted ground units with a pursuit in the area of El Camino Ave and Evergreen St"
   }
 ]
