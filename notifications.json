@@ -16815,6 +16815,13 @@
   },
   {
     "date": "20250417",
+    "time": "11:38 PM",
+    "neighborhood": "Colonial Manor",
+    "beat": "7C",
+    "comments": "Helicopter assisting ground units in locating a subject who shot at officers."
+  },
+  {
+    "date": "20250417",
     "time": "5:09 PM",
     "neighborhood": "Med Center",
     "beat": "6B",
@@ -16833,5 +16840,12 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "STAR assisted ground units with a pursuit in the area of El Camino Ave and Evergreen St"
+  },
+  {
+    "date": "20250418",
+    "time": "6:44 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air 1 assisted in detaining a subject with a firearm"
   }
 ]
