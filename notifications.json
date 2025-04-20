@@ -16843,9 +16843,79 @@
   },
   {
     "date": "20250418",
+    "time": "10:13 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 was checking the area of Stockton Blvd and Fruitridge Rd for a vehicle involved in an assault"
+  },
+  {
+    "date": "20250418",
+    "time": "10:21 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 responded to the area of W El Camino and Azevedo Dr for a large party"
+  },
+  {
+    "date": "20250418",
+    "time": "10:49 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "AIR1 responded for reports of shots fired in the area of Winamac Dr and Broadwater Dr but did not locate any signs of a shooting"
+  },
+  {
+    "date": "20250418",
+    "time": "10:59 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "AIR1 assisted ground units in checking the area of 5th St and N St for a robbery suspect"
+  },
+  {
+    "date": "20250418",
+    "time": "11:09 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisted units in a pursuit near El Camino Ave and Del Paso Blvd"
+  },
+  {
+    "date": "20250418",
     "time": "6:44 PM",
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Air 1 assisted in detaining a subject with a firearm"
+  },
+  {
+    "date": "20250418",
+    "time": "8:58 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "STAR assisted ground units in locating a possibly armed subject near 47th Ave and Stockton Blvd. The weapon was unfounded."
+  },
+  {
+    "date": "20250418",
+    "time": "9:29 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "STAR assisted ground units in locating an assault victim near Natoma St and Indiana Ave"
+  },
+  {
+    "date": "20250419",
+    "time": "6:38 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "Helicopter assisted ground units attempt to locate a domestic violence suspect."
+  },
+  {
+    "date": "20250419",
+    "time": "6:48 PM",
+    "neighborhood": "South City Farms",
+    "beat": "4B",
+    "comments": "Helicopter checked the area for reports of a possible armed subject."
+  },
+  {
+    "date": "20250419",
+    "time": "6:59 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air1 assisted ground units with a vehicle accident."
   }
 ]
