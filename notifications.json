@@ -16966,5 +16966,40 @@
     "neighborhood": "Freeport Manor",
     "beat": "4C",
     "comments": "AIR1 assisting ground units locating subjects that are fighting in the area of 38th ave and Belleau Wood Ln"
+  },
+  {
+    "date": "20250421",
+    "time": "9:08 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Rio Linda Blvd/Eleanor Ave - Helicopter responded out to assist ground units search for possible armed subject. Subject was located."
+  },
+  {
+    "date": "20250422",
+    "time": "4:56 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "AIR1 checked the area for reports of suspicious subjects in the area of Shoal Ct and Florin Rd."
+  },
+  {
+    "date": "20250422",
+    "time": "5:06 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisted ground units in locating people trespassing on private property in the area of J St and 52nd St"
+  },
+  {
+    "date": "20250422",
+    "time": "5:29 PM",
+    "neighborhood": "Med Center",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units in locating an armed subject in the area of Stockton Blvd and Miller Way"
+  },
+  {
+    "date": "20250422",
+    "time": "6:39 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "STAR assisted ground units in checking the area of University Ave and Adler Cir for an armed vehicle"
   }
 ]
