@@ -17001,5 +17001,33 @@
     "neighborhood": "Sierra Oaks",
     "beat": "7B",
     "comments": "STAR assisted ground units in checking the area of University Ave and Adler Cir for an armed vehicle"
+  },
+  {
+    "date": "20250423",
+    "time": "4:17 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "AIR1 is checking the area of N 16th St and McCormack St for subject involved in an assault"
+  },
+  {
+    "date": "20250423",
+    "time": "4:44 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "AIR1 assisted ground units in monitoring a suspicious situation in the area of Gateway Park Blvd and N Freeway Blvd"
+  },
+  {
+    "date": "20250423",
+    "time": "5:42 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 was put on a call in error"
+  },
+  {
+    "date": "20250423",
+    "time": "9:20 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "AIR1 is checking the area for suspicious activity near Florin Rd and Greenhaven Dr"
   }
 ]
