@@ -17029,5 +17029,40 @@
     "neighborhood": "South Land Park",
     "beat": "4C",
     "comments": "AIR1 is checking the area for suspicious activity near Florin Rd and Greenhaven Dr"
+  },
+  {
+    "date": "20250424",
+    "time": "5:51 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting in checking area after reports of suspicious activity"
+  },
+  {
+    "date": "20250424",
+    "time": "6:05 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisting after reports of an assault"
+  },
+  {
+    "date": "20250424",
+    "time": "6:07 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "Air unit assisted after reports of suspicious circumstances"
+  },
+  {
+    "date": "20250424",
+    "time": "7:40 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 is assisting the Sheriff's department on a perimeter where a subject took off on foot from units."
+  },
+  {
+    "date": "20250424",
+    "time": "9:06 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Air unit assisting after reports of a major vehicle accident"
   }
 ]
