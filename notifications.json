@@ -17067,9 +17067,51 @@
   },
   {
     "date": "20250425",
+    "time": "10:53 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "AIR1 assisting ground units with attempting to locate a possibly armed subject in the area of V St/15th St."
+  },
+  {
+    "date": "20250425",
+    "time": "11:35 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Milford St/65th Ave - Air support responded out to assist ground units after reports of an armed subject in the area."
+  },
+  {
+    "date": "20250425",
     "time": "7:17 PM",
     "neighborhood": "Central Oak Park",
     "beat": "6A",
     "comments": "AIR1 was en route to help officers find an assault suspect in the area of 10th Ave and 33rd St"
+  },
+  {
+    "date": "20250426",
+    "time": "4:25 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter responded to the area of 28th St and L St for reports of someone trying to steal a car.   Ground units detained the suspect."
+  },
+  {
+    "date": "20250426",
+    "time": "4:43 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "Helicopter responded to Ringlet Ave and Dos Rios St for reports of a physical assault."
+  },
+  {
+    "date": "20250426",
+    "time": "6:11 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter responded to the area of Power Inn Rd and Folsom Blvd for reports of a person with a weapon."
+  },
+  {
+    "date": "20250426",
+    "time": "6:32 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter responded to the area of Redwood Ave and Gibson St for reports of a suspicious person in the area that possibly have weapons.  Call was unfounded, neither officers nor helicopter were able to locate anyone."
   }
 ]
