@@ -17088,6 +17088,27 @@
   },
   {
     "date": "20250426",
+    "time": "10:25 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "STAR assisted ground units for a shot spotter activation, units did not find any evidence of a shooting."
+  },
+  {
+    "date": "20250426",
+    "time": "10:37 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "STAR assisted ground units on locating subjects that were looking into vehicles in the parking lot."
+  },
+  {
+    "date": "20250426",
+    "time": "10:59 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units on monitoring side show activity in the area."
+  },
+  {
+    "date": "20250426",
     "time": "4:25 PM",
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
@@ -17113,5 +17134,82 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
     "comments": "Helicopter responded to the area of Redwood Ave and Gibson St for reports of a suspicious person in the area that possibly have weapons.  Call was unfounded, neither officers nor helicopter were able to locate anyone."
+  },
+  {
+    "date": "20250427",
+    "time": "1:38 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter in the area assisting officers searching the area for a subject that fled from a stolen vehicle. The subject is now in custody."
+  },
+  {
+    "date": "20250427",
+    "time": "1:53 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Helicopter in the area of Frienza Ave/Van Ness St assisting officers responding to reports of domestic violence."
+  },
+  {
+    "date": "20250427",
+    "time": "2:04 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter in the area of Wind Creek Dr/Hunters Creek Dr assisting officers responding to reports of a subject lighting fires"
+  },
+  {
+    "date": "20250427",
+    "time": "3:10 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Helicopter in the area of N 6th St and Cannery Ave assisting officers responding to a disturbance."
+  },
+  {
+    "date": "20250427",
+    "time": "3:17 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Star assisted ground units in locating an armed subject near the area of power inn and howe ave."
+  },
+  {
+    "date": "20250427",
+    "time": "4:05 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Star assisted ground units in locating an armed vehicle near the area of florin perkins and younger creek dr."
+  },
+  {
+    "date": "20250427",
+    "time": "4:13 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Air 1 responded to a female waving a knife, the weapon was confiscated."
+  },
+  {
+    "date": "20250427",
+    "time": "4:14 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air 1 assisted units in locating a domestic violence suspect."
+  },
+  {
+    "date": "20250427",
+    "time": "5:19 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "air 1 helped officers in locating a mp"
+  },
+  {
+    "date": "20250427",
+    "time": "6:13 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "star helped assist officers with looking for a suspect"
+  },
+  {
+    "date": "20250427",
+    "time": "7:23 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "Air 1 assisted in locating a subject carrying a possible weapon."
   }
 ]
