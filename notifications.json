@@ -17235,6 +17235,13 @@
   },
   {
     "date": "20250429",
+    "time": "11:57 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Air unit assisting with a home burglary"
+  },
+  {
+    "date": "20250429",
     "time": "4:03 PM",
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
@@ -17274,5 +17281,19 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "6th St/Capitol Mall - Helicopter responded out to assist ground units search for stolen vehicle. Vehicle was located."
+  },
+  {
+    "date": "20250430",
+    "time": "2:32 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "The helicopter was in the area of Roberts River Way and Nadia Way assisting officers responding to reports of a missing person. The missing person was located."
+  },
+  {
+    "date": "20250430",
+    "time": "6:57 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Assisted ground units after reports of an assault near El Camino and Grove."
   }
 ]
