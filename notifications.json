@@ -17295,5 +17295,47 @@
     "neighborhood": "Noralto",
     "beat": "2B",
     "comments": "Assisted ground units after reports of an assault near El Camino and Grove."
+  },
+  {
+    "date": "20250430",
+    "time": "9:29 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter assisted w/ an occupied stolen vehicle."
+  },
+  {
+    "date": "20250501",
+    "time": "3:14 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit checking area after notification of a vehicle accident"
+  },
+  {
+    "date": "20250501",
+    "time": "3:16 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit assisting in checking area for a reckless vehicle"
+  },
+  {
+    "date": "20250501",
+    "time": "3:37 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit responded after reports of possible knife"
+  },
+  {
+    "date": "20250501",
+    "time": "5:47 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "STAR is assisting ground units with locating a subject who brandished a firearm inside the mall and subject was detained."
+  },
+  {
+    "date": "20250501",
+    "time": "6:11 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "STAR assisted ground units on a shots spotter activation. No signs of a shooting."
   }
 ]
