@@ -17305,6 +17305,27 @@
   },
   {
     "date": "20250501",
+    "time": "10:16 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "star was in the area of 23rd st/ o st assisted ground units with reports of several gunshots heard."
+  },
+  {
+    "date": "20250501",
+    "time": "10:38 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "star assisted ground units in the area of armadale way and coruna dr for reports of a shooting"
+  },
+  {
+    "date": "20250501",
+    "time": "11:05 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "air unit never marked on scene"
+  },
+  {
+    "date": "20250501",
     "time": "3:14 PM",
     "neighborhood": "East Sacramento",
     "beat": "7A",
@@ -17337,5 +17358,68 @@
     "neighborhood": "Strawberry Manor",
     "beat": "2B",
     "comments": "STAR assisted ground units on a shots spotter activation. No signs of a shooting."
+  },
+  {
+    "date": "20250501",
+    "time": "8:19 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "air1 assisted ground units with a wellfare check"
+  },
+  {
+    "date": "20250501",
+    "time": "8:29 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "air1 assisted ground units with a weapons call"
+  },
+  {
+    "date": "20250501",
+    "time": "9:06 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "air1 assisted ground units with a possible burglary in progress"
+  },
+  {
+    "date": "20250501",
+    "time": "9:26 PM",
+    "neighborhood": "Fairgrounds",
+    "beat": "6B",
+    "comments": "star assisted ground units with trying to locate a subject intentionally jumping in front of vehicles."
+  },
+  {
+    "date": "20250501",
+    "time": "9:37 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "star assisted ground units for reports of 2 males in the area of 18th / j st with 3d printed guns"
+  },
+  {
+    "date": "20250502",
+    "time": "12:49 PM",
+    "neighborhood": "",
+    "beat": "3M",
+    "comments": "H20 assisting units in the area of Jibboom St/I St Bridge locating a suspect."
+  },
+  {
+    "date": "20250502",
+    "time": "7:08 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisting ground units locating a wanted subject."
+  },
+  {
+    "date": "20250502",
+    "time": "7:38 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Helicopter assisting in checking area for a possible armed vehicle."
+  },
+  {
+    "date": "20250502",
+    "time": "8:57 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "Helicopter assist in trying to locate a possible armed subject."
   }
 ]
