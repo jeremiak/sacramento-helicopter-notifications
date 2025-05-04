@@ -17396,6 +17396,13 @@
   },
   {
     "date": "20250502",
+    "time": "10:58 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "air unit assisted ground units with reports of a possible armed subject"
+  },
+  {
+    "date": "20250502",
     "time": "12:49 PM",
     "neighborhood": "",
     "beat": "3M",
@@ -17421,5 +17428,47 @@
     "neighborhood": "Dos Rios Triangle",
     "beat": "3A",
     "comments": "Helicopter assist in trying to locate a possible armed subject."
+  },
+  {
+    "date": "20250503",
+    "time": "3:33 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of a fight outside"
+  },
+  {
+    "date": "20250503",
+    "time": "5:08 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units in a vehicle pursuit in the area of Altos Ave and Eleanor Ave for dirt bikes"
+  },
+  {
+    "date": "20250503",
+    "time": "5:16 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Helicopter responded to the Natomas Park Elementary School for reports of juveniles jumping the fence into the school causing the alarm to go off."
+  },
+  {
+    "date": "20250503",
+    "time": "6:43 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Helicopter searched the area of Jibboom St and Richards Blvd for reports of a physical assault.   All parties located"
+  },
+  {
+    "date": "20250503",
+    "time": "6:46 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Helicopter checked the area of Natomas Blvd and N Bend Dr. for reports of a physical assault in progress.  Units located all parties."
+  },
+  {
+    "date": "20250503",
+    "time": "9:32 AM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting on a major disturbance call"
   }
 ]
