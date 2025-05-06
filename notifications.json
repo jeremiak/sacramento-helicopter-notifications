@@ -17470,5 +17470,40 @@
     "neighborhood": "South Oak Park",
     "beat": "6A",
     "comments": "Air unit assisting on a major disturbance call"
+  },
+  {
+    "date": "20250505",
+    "time": "5:09 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20250505",
+    "time": "5:21 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units with locating a possible armed subject in the area of J St/7th St."
+  },
+  {
+    "date": "20250505",
+    "time": "7:17 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Air unit assisting after sighting of a subject who possibly has a gun"
+  },
+  {
+    "date": "20250505",
+    "time": "7:28 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "Air unit assisting in search for a missing person who has been located"
+  },
+  {
+    "date": "20250505",
+    "time": "8:25 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Air unit assisted after reports of possible assault"
   }
 ]
