@@ -17505,5 +17505,61 @@
     "neighborhood": "Point West",
     "beat": "2C",
     "comments": "Air unit assisted after reports of possible assault"
+  },
+  {
+    "date": "20250506",
+    "time": "1:17 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "air1 assisted officers in looking for a subj with a possible weapon"
+  },
+  {
+    "date": "20250506",
+    "time": "1:23 PM",
+    "neighborhood": "Scc",
+    "beat": "4A",
+    "comments": "air1 assisted officers in looking for a stolen vehicle"
+  },
+  {
+    "date": "20250506",
+    "time": "1:29 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "air1 assisted officers in looking for a location of a possible domestic dispute"
+  },
+  {
+    "date": "20250506",
+    "time": "3:48 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter in the area of Lampasas Ave/Rio Linda Blvd assisting officers responding to reports of domestic violence."
+  },
+  {
+    "date": "20250506",
+    "time": "4:05 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Helicopter in the area of University Ave/Breckenwood Way assisting with a vehicle and foot pursuit."
+  },
+  {
+    "date": "20250506",
+    "time": "4:58 PM",
+    "neighborhood": "",
+    "beat": "4B",
+    "comments": "STAR checked the area of 24th St and 22nd Ave for reports of an armed subject, patrol officers confirmed no crime occurred"
+  },
+  {
+    "date": "20250506",
+    "time": "7:59 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisted ground units in checking the area of W El Camino and I 5 for a suspicious person"
+  },
+  {
+    "date": "20250506",
+    "time": "8:13 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "AIR1 checked the area of H St and 18th St after reports of a possible vehicle burglary. Everything checked clear and no crime occurred."
   }
 ]
