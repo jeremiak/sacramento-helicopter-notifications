@@ -17564,9 +17564,65 @@
   },
   {
     "date": "20250507",
+    "time": "10:43 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisting ground units in locating a stolen vehicle that hit a license plate reader in the area."
+  },
+  {
+    "date": "20250507",
     "time": "7:19 PM",
     "neighborhood": "Point West",
     "beat": "2C",
     "comments": "Helicopter assisted ground units locate subjects reported to be armed with a firearm."
+  },
+  {
+    "date": "20250507",
+    "time": "9:24 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "STAR assisted ground units in locating possibly armed subjects in the area, all subjects were gone by the time units marked on scene."
+  },
+  {
+    "date": "20250508",
+    "time": "6:18 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Star responded in locating a possible subject with a gun."
+  },
+  {
+    "date": "20250508",
+    "time": "6:26 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Star responded to help locate a suspect involving a knife."
+  },
+  {
+    "date": "20250508",
+    "time": "7:57 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisted ground units on a possible break in in the area of Brookfield Dr and Mack Rd"
+  },
+  {
+    "date": "20250508",
+    "time": "8:19 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in trying to locate an armed subject near Norwood Ave and South Ave"
+  },
+  {
+    "date": "20250508",
+    "time": "8:23 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 checked the area for an assault suspect near Mack Rd and Center Pkwy"
+  },
+  {
+    "date": "20250508",
+    "time": "8:53 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air 1 assisted California Highway Patrol in detaining a subject."
   }
 ]
