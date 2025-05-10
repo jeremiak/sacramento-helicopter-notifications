@@ -17585,6 +17585,27 @@
   },
   {
     "date": "20250508",
+    "time": "10:43 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter assisting ground units in locating multiple subjects in a physical altercation."
+  },
+  {
+    "date": "20250508",
+    "time": "10:58 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisting ground units in locating subjects causing a disturbance with a security guard."
+  },
+  {
+    "date": "20250508",
+    "time": "11:08 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Assisted ground units after reports of someone with a weapon near 19th St. and K St."
+  },
+  {
+    "date": "20250508",
     "time": "6:18 PM",
     "neighborhood": "Greenhaven",
     "beat": "4C",
@@ -17624,5 +17645,61 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "Air 1 assisted California Highway Patrol in detaining a subject."
+  },
+  {
+    "date": "20250509",
+    "time": "1:19 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Air 1 assisted units in locating a stolen vehicle."
+  },
+  {
+    "date": "20250509",
+    "time": "1:34 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air 1 responded to a possible dog attack involving a weapon."
+  },
+  {
+    "date": "20250509",
+    "time": "1:58 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Air 1 assisted in locating a subject in someone's backyard involving a weapon."
+  },
+  {
+    "date": "20250509",
+    "time": "6:32 PM",
+    "neighborhood": "",
+    "beat": "1B",
+    "comments": "STAR assisting ground units with locating a possible intoxicated driver in the area of W El Camino Ave/Gateway Oaks Dr."
+  },
+  {
+    "date": "20250509",
+    "time": "7:28 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units locating an overturned vehicle in the area of Garden Hwy near Sand Cove Park."
+  },
+  {
+    "date": "20250509",
+    "time": "7:46 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground units with locating possible suspects of a robbery in the area of Northfield Dr/Northview Dr."
+  },
+  {
+    "date": "20250509",
+    "time": "7:55 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "AIR1 assisting ground units with locating a possible armed subject in the area of 79th St/35th Ave."
+  },
+  {
+    "date": "20250509",
+    "time": "9:08 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "STAR assisting ground units with locating a possibly armed individual in the area of Seavey Cir/ 5TH St."
   }
 ]
