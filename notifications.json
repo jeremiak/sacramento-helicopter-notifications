@@ -17648,6 +17648,27 @@
   },
   {
     "date": "20250509",
+    "time": "10:29 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "Truxel Rd/Arena Blvd - AIR1 - Air support responded out to assist ground units after reports of reckless driving in the area."
+  },
+  {
+    "date": "20250509",
+    "time": "11:34 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Jibboom St/Richards Blvd - AIR1 - Air support responded out to assist ground units search for subject having mental breakdown. Subject was located."
+  },
+  {
+    "date": "20250509",
+    "time": "11:41 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "2nd St/K St - AIR1 - Air responded to search the area after reports of possible reckless driving in the area."
+  },
+  {
+    "date": "20250509",
     "time": "1:19 PM",
     "neighborhood": "South Land Park",
     "beat": "4C",
@@ -17701,5 +17722,68 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "STAR assisting ground units with locating a possibly armed individual in the area of Seavey Cir/ 5TH St."
+  },
+  {
+    "date": "20250510",
+    "time": "3:02 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Star assisted in a fight involving a male and female."
+  },
+  {
+    "date": "20250510",
+    "time": "3:08 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Star assisted in locating juveniles on bikes."
+  },
+  {
+    "date": "20250510",
+    "time": "3:13 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Star assisted in locating a female being chased by a male."
+  },
+  {
+    "date": "20250510",
+    "time": "3:36 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Star assisted in locating an assault involving a weapon."
+  },
+  {
+    "date": "20250510",
+    "time": "5:27 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "Helicopter responded to the area of Howe Ave and Fair Oaks Blvd for reports of a physical assault after a vehicle accident."
+  },
+  {
+    "date": "20250510",
+    "time": "5:36 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter responded to the area of Ivy St and Roanoak Ave for reports of a suspicious person on top of a person's shed."
+  },
+  {
+    "date": "20250510",
+    "time": "5:49 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter responded to the area of La riveiera and Howe ave for reports of a person with a weapon."
+  },
+  {
+    "date": "20250510",
+    "time": "7:56 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter responded to the area of Traction Ave and Bowles St for reports of a person with a gun."
+  },
+  {
+    "date": "20250510",
+    "time": "8:39 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units with locating a vehicle possibly involved in a domestic violence incident in the area of Mack Rd/Valley Hi Dr."
   }
 ]
