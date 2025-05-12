@@ -17725,6 +17725,13 @@
   },
   {
     "date": "20250510",
+    "time": "11:38 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 is assisting ground units with a male seen in a residence vehicle."
+  },
+  {
+    "date": "20250510",
     "time": "3:02 PM",
     "neighborhood": "College / Glen",
     "beat": "7B",
@@ -17785,5 +17792,75 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "AIR1 assisting ground units with locating a vehicle possibly involved in a domestic violence incident in the area of Mack Rd/Valley Hi Dr."
+  },
+  {
+    "date": "20250510",
+    "time": "9:47 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisted ground units in locating an armed robbery suspect"
+  },
+  {
+    "date": "20250511",
+    "time": "1:30 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Air 1 assisted in locating a stolen vehicle."
+  },
+  {
+    "date": "20250511",
+    "time": "2:04 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "Air 1 assisted in a possible robbery in progress; no robbery found."
+  },
+  {
+    "date": "20250511",
+    "time": "2:14 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air 1 assisted in a multiple vehicle accident."
+  },
+  {
+    "date": "20250511",
+    "time": "2:17 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Air 1 assisted in locating a male for a welfare check."
+  },
+  {
+    "date": "20250511",
+    "time": "4:13 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Assisted officers doing a traffic stop on a stolen vehicle"
+  },
+  {
+    "date": "20250511",
+    "time": "4:22 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "assisted officer in locating a possibly burglary suspect"
+  },
+  {
+    "date": "20250511",
+    "time": "4:37 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "assisted units in an making an arrest"
+  },
+  {
+    "date": "20250511",
+    "time": "7:55 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "helped officers try and located an assault suspect"
+  },
+  {
+    "date": "20250511",
+    "time": "8:08 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "assisted officers in looking for a subject that possibly has a weapon"
   }
 ]
