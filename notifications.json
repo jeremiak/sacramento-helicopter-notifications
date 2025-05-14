@@ -17865,6 +17865,27 @@
   },
   {
     "date": "20250512",
+    "time": "10:22 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "STAR was assisting ground units in checking the area for a reported armed vehicle. STAR was unable to locate anything matching."
+  },
+  {
+    "date": "20250512",
+    "time": "10:44 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR was assisting ground units in checking the area for reports of a shooting that occurred."
+  },
+  {
+    "date": "20250512",
+    "time": "10:52 PM",
+    "neighborhood": "Gateway Center",
+    "beat": "1B",
+    "comments": "STAR was in the area checking for a possible arson suspect after receiving reports of a fire. STAR was unable to locate anyone matching."
+  },
+  {
+    "date": "20250512",
     "time": "3:14 PM",
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
@@ -17904,5 +17925,33 @@
     "neighborhood": "Lawrence Park",
     "beat": "6B",
     "comments": "Air unit assisting after reports of an assault in progress"
+  },
+  {
+    "date": "20250513",
+    "time": "1:55 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "assisted officers in an investigation"
+  },
+  {
+    "date": "20250513",
+    "time": "7:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Air unit assisting after reports of an armed vehicle"
+  },
+  {
+    "date": "20250513",
+    "time": "7:59 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "AIR1 is assisting ground units in the area of McMahon and 61st ST in locating an armed vehicle"
+  },
+  {
+    "date": "20250513",
+    "time": "8:16 PM",
+    "neighborhood": "Fairgrounds",
+    "beat": "6B",
+    "comments": "Air unit assisting after reports of a possible assault with a weapon"
   }
 ]
