@@ -17953,5 +17953,33 @@
     "neighborhood": "Fairgrounds",
     "beat": "6B",
     "comments": "Air unit assisting after reports of a possible assault with a weapon"
+  },
+  {
+    "date": "20250514",
+    "time": "12:43 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "assisted officers in trying to locate a subj that broke into a veh and took a crossbow"
+  },
+  {
+    "date": "20250514",
+    "time": "7:33 PM",
+    "neighborhood": "Johnson Heights",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of a vehicle fire"
+  },
+  {
+    "date": "20250514",
+    "time": "7:46 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of possible armed subjects"
+  },
+  {
+    "date": "20250514",
+    "time": "8:39 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Air unit assisted after reports of an attempt assault with a weapon"
   }
 ]
