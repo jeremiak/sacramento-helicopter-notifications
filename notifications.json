@@ -18005,6 +18005,34 @@
   },
   {
     "date": "20250515",
+    "time": "10:13 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "STAR was assisting units in a pursuit."
+  },
+  {
+    "date": "20250515",
+    "time": "10:27 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "STAR was assisting units on locating a stolen vehicle."
+  },
+  {
+    "date": "20250515",
+    "time": "10:46 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 was assisting units on a felony assault call."
+  },
+  {
+    "date": "20250515",
+    "time": "11:35 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 checked the area of 24th St and Florin Rd for suspicious activity"
+  },
+  {
+    "date": "20250515",
     "time": "3:17 PM",
     "neighborhood": "Upper Land Park",
     "beat": "4A",
@@ -18072,5 +18100,40 @@
     "neighborhood": "Parkway",
     "beat": "5C",
     "comments": "Air unit assisting after reports of a possibly armed subject"
+  },
+  {
+    "date": "20250516",
+    "time": "3:47 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Star assisted in overseeing a large event"
+  },
+  {
+    "date": "20250516",
+    "time": "5:29 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "cypress st/roanoke ave - helicopter assisted with a pursuit involving an armed subject"
+  },
+  {
+    "date": "20250516",
+    "time": "5:48 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "H20 assisted ground units in locating a subject in the area of Rio Linda Blvd and Arcade Blvd"
+  },
+  {
+    "date": "20250516",
+    "time": "9:16 AM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Air1 was assisting ground units on the 2600 block of Capitol Ave. There were reports of two males in a fight and one was armed with a pole."
+  },
+  {
+    "date": "20250516",
+    "time": "9:28 AM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Air1 was checking I 5 near Richards Blvd with reports of a pedestrian on the freeway. Subject appeared like they may have been attempting to jump off the freeway."
   }
 ]
