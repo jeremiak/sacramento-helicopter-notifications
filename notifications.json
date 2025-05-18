@@ -18103,6 +18103,13 @@
   },
   {
     "date": "20250516",
+    "time": "10:45 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "STAR requested ground units assistance with locating a subject shining a laser light at helicopter in the area of Bowling Green Dr."
+  },
+  {
+    "date": "20250516",
     "time": "3:47 PM",
     "neighborhood": "Hagginwood",
     "beat": "2B",
@@ -18135,5 +18142,26 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "Air1 was checking I 5 near Richards Blvd with reports of a pedestrian on the freeway. Subject appeared like they may have been attempting to jump off the freeway."
+  },
+  {
+    "date": "20250517",
+    "time": "3:26 PM",
+    "neighborhood": "West Tahoe Park",
+    "beat": "6B",
+    "comments": "Air unit assisting ground units after reports of a missing person in the area of 11th avenue and 52nd street, MP is 9 years old last seen wearing orange and beige pajama shirt and pants."
+  },
+  {
+    "date": "20250517",
+    "time": "3:44 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of an armed subject in the area of Oakmont Street and Plaza Avenue."
+  },
+  {
+    "date": "20250517",
+    "time": "7:06 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Star assisted in locating a possible subject with a weapon. No weapon was found."
   }
 ]
