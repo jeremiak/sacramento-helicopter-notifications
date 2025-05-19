@@ -18145,6 +18145,13 @@
   },
   {
     "date": "20250517",
+    "time": "11:28 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Seyferth Way/La Mancha Way - Air support responded out to assist ground units search for subject after receiving report of domestic violence. Subject was located."
+  },
+  {
+    "date": "20250517",
     "time": "3:26 PM",
     "neighborhood": "West Tahoe Park",
     "beat": "6B",
@@ -18163,5 +18170,82 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Star assisted in locating a possible subject with a weapon. No weapon was found."
+  },
+  {
+    "date": "20250517",
+    "time": "9:13 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Nogales St/Marysville Blvd - Air support responded out to search area for subject after receiving reports of a break in."
+  },
+  {
+    "date": "20250518",
+    "time": "12:53 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Sunbird Way/Lochinvar Way - Air responded out to assist ground units after reports of shots fired in the area."
+  },
+  {
+    "date": "20250518",
+    "time": "1:56 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Air unit assisting ground unit with a missing person in the area of Hogan Drive and 56th Avenue."
+  },
+  {
+    "date": "20250518",
+    "time": "2:02 PM",
+    "neighborhood": "Csus",
+    "beat": "7B",
+    "comments": "Air 1 checking the area of J Street and State University Drive for reports of suspicious activity."
+  },
+  {
+    "date": "20250518",
+    "time": "4:33 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "Helicopter assisted officers searching the area for a Sideshow.  50-75 vehicles were dispersing and were not doing any burnouts in the area."
+  },
+  {
+    "date": "20250518",
+    "time": "4:45 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "Helicopter assisting officers searching the area for a stolen vehicle."
+  },
+  {
+    "date": "20250518",
+    "time": "4:58 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Air 1 responded to a possible fight in the area."
+  },
+  {
+    "date": "20250518",
+    "time": "5:18 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air 1 assisted in locating an assault suspect."
+  },
+  {
+    "date": "20250518",
+    "time": "5:26 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air 1 assisted in finding a vehicle possibly following someone."
+  },
+  {
+    "date": "20250518",
+    "time": "7:44 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter assisted officers searching the area for a missing person."
+  },
+  {
+    "date": "20250518",
+    "time": "8:48 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air 1 assisted in locating a hit and run vehicle accident."
   }
 ]
