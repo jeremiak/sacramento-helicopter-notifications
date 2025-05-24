@@ -18310,5 +18310,47 @@
     "neighborhood": "",
     "beat": "4B",
     "comments": "air1 assisted officers with trying to locate an assault suspect"
+  },
+  {
+    "date": "20250523",
+    "time": "3:06 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisted ground patrol units in searching for a subject that was reported to have a weapon - Meadowview RD / Amherst ST"
+  },
+  {
+    "date": "20250523",
+    "time": "3:56 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "STAR assisted ground patrol units searching for a subject that was reported to be armed - 58th ST / 14th AVE"
+  },
+  {
+    "date": "20250523",
+    "time": "6:36 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "STAR assisting ground units with attempting to locate someone in the area of Franklin Blvd/Shining Star Dr."
+  },
+  {
+    "date": "20250523",
+    "time": "7:58 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Assisted ground units after reports of an assault in the area of Natomas Blvd and N Bend Dr."
+  },
+  {
+    "date": "20250523",
+    "time": "8:07 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "AIR1 assisting ground units with locating a possible suspect involved in a stabbing in the area of 12th St/ Fst."
+  },
+  {
+    "date": "20250523",
+    "time": "8:37 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "AIR1 assisting ground units with locating a vehicle possibly involved road rage incident in the area of Bell Ave/Raley Blvd."
   }
 ]
