@@ -18313,6 +18313,41 @@
   },
   {
     "date": "20250523",
+    "time": "10:51 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air1 was assisting Sheriffs Department with a possible kidnapping in the area of Florin rd and Florin Mall Dr"
+  },
+  {
+    "date": "20250523",
+    "time": "11:17 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Air1 assisting ground units in the area of 12th ave and 30th st with a traffic stop"
+  },
+  {
+    "date": "20250523",
+    "time": "11:24 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 was en route to assist ground units in locating a possible drunk driver in the area of Delta Shores and Cosumnes River Blvd"
+  },
+  {
+    "date": "20250523",
+    "time": "11:45 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "AIR1 checked the area for a possibly armed subject in the area of Capitol Mall and Neasham Circle"
+  },
+  {
+    "date": "20250523",
+    "time": "11:48 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 was checking the area of L St and 8th St for a large fight but was unable to locate anyone involved"
+  },
+  {
+    "date": "20250523",
     "time": "3:06 PM",
     "neighborhood": "Meadowview",
     "beat": "5A",
@@ -18352,5 +18387,82 @@
     "neighborhood": "Raley Industrial Park",
     "beat": "2A",
     "comments": "AIR1 assisting ground units with locating a vehicle possibly involved road rage incident in the area of Bell Ave/Raley Blvd."
+  },
+  {
+    "date": "20250523",
+    "time": "9:37 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "STAR in the area of Arden way and Exposition blvd assisting ground units with reports of a side show"
+  },
+  {
+    "date": "20250524",
+    "time": "3:23 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Star responded in locating a female with a stick."
+  },
+  {
+    "date": "20250524",
+    "time": "3:48 PM",
+    "neighborhood": "Fairgrounds",
+    "beat": "6B",
+    "comments": "3rd ave/stockton blvd - helicopter assisted with monitoring reports of a vehicle break-in"
+  },
+  {
+    "date": "20250524",
+    "time": "3:51 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "j st/alhambra blvd - helicopter assisted with monitoring reports of a vehicle break-in"
+  },
+  {
+    "date": "20250524",
+    "time": "3:57 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "47th ave/st hwy 99 - helicopter assisted with monitoring a domestic violence incident"
+  },
+  {
+    "date": "20250524",
+    "time": "4:55 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "winter park dr/bandon way - helicopter assisted with locating a missing toddler"
+  },
+  {
+    "date": "20250524",
+    "time": "5:23 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "6th st/uptown aly - helicopter assisted with monitoring reports of an armed subject"
+  },
+  {
+    "date": "20250524",
+    "time": "5:33 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "marysville blvd/los robles blvd - helicopter assisted with monitoring a hit and run accident"
+  },
+  {
+    "date": "20250524",
+    "time": "6:58 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR assisting ground units with locating a bus with possibly armed subjects on it in the area of 65th/Elder Creek Rd."
+  },
+  {
+    "date": "20250524",
+    "time": "7:02 PM",
+    "neighborhood": "Southeast Village",
+    "beat": "6C",
+    "comments": "elder creek rd/65th st expy - helicopter assisted with monitoring reports of an armed subject"
+  },
+  {
+    "date": "20250524",
+    "time": "8:10 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "howe ave/american river - helicopter assisted with monitoring reports of a subject on ledge of the american river bridge"
   }
 ]
