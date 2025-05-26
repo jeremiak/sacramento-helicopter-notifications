@@ -18397,6 +18397,20 @@
   },
   {
     "date": "20250524",
+    "time": "11:34 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 is assisting ground units in location a group of subjects that ran from a possibly stolen vehicle."
+  },
+  {
+    "date": "20250524",
+    "time": "11:55 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 is assisting ground units for a call regarding a suspicious male trying door handles in Delta Shores."
+  },
+  {
+    "date": "20250524",
     "time": "3:23 PM",
     "neighborhood": "Downtown",
     "beat": "3M",
@@ -18464,5 +18478,33 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "howe ave/american river - helicopter assisted with monitoring reports of a subject on ledge of the american river bridge"
+  },
+  {
+    "date": "20250525",
+    "time": "12:26 AM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "AIR1 assisted ground units with responding to a ringing alarm at a business and everything checked okay."
+  },
+  {
+    "date": "20250525",
+    "time": "12:28 AM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "AIR1 assisted ground units on an alarm call at a marijuana facility, everything checked okay."
+  },
+  {
+    "date": "20250525",
+    "time": "5:39 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "AIR UNIT WAS ASSISTING GROUND UNITS WITH LOCATING A VEHICLE"
+  },
+  {
+    "date": "20250525",
+    "time": "7:24 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "1B",
+    "comments": "AIR1 was assisting ground units for a call regarding a felony assault near Garden Hwy/Truxel Rd."
   }
 ]
