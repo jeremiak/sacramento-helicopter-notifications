@@ -18506,5 +18506,33 @@
     "neighborhood": "American River Parkway",
     "beat": "1B",
     "comments": "AIR1 was assisting ground units for a call regarding a felony assault near Garden Hwy/Truxel Rd."
+  },
+  {
+    "date": "20250526",
+    "time": "6:17 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter responded to the area of Jacinto Ave and Trammel Way for reports of a physical assault and a person vandalizing a car with a bat."
+  },
+  {
+    "date": "20250526",
+    "time": "7:28 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "Air unit assisting after reports of an attempt car theft"
+  },
+  {
+    "date": "20250526",
+    "time": "8:03 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of a possible stolen vehicle in the area"
+  },
+  {
+    "date": "20250526",
+    "time": "8:26 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisting ground units with monitoring someone being taken into custoday."
   }
 ]
