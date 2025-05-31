@@ -18586,6 +18586,13 @@
   },
   {
     "date": "20250529",
+    "time": "11:33 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Helicopter assisting ground units in locating gunshots in the area. No incidents. Nothing located."
+  },
+  {
+    "date": "20250529",
     "time": "12:48 AM",
     "neighborhood": "Woodbine",
     "beat": "4B",
@@ -18618,5 +18625,82 @@
     "neighborhood": "Old Sacramento",
     "beat": "3M",
     "comments": "STAR checked the bike trail near J St and Front St for an armed subject"
+  },
+  {
+    "date": "20250529",
+    "time": "9:36 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "air unit assisted ground units with checking area for reports of a fight"
+  },
+  {
+    "date": "20250530",
+    "time": "12:53 PM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "AIR1 assisted units checking the area of Stockton Blvd/39th St for a missing person."
+  },
+  {
+    "date": "20250530",
+    "time": "1:30 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "AIR1 assisted officers stopping a stolen vehicle in the area of El Centro Rd/Alcantar Cir."
+  },
+  {
+    "date": "20250530",
+    "time": "3:15 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "STAR checked the area of El Camino Ave/Hawthorne St for report of a reckless driver."
+  },
+  {
+    "date": "20250530",
+    "time": "4:40 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Assisted outside agencies in the area of Arena Blvd and E Commerce Way after reports of a stolen vehicle."
+  },
+  {
+    "date": "20250530",
+    "time": "4:58 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Assisted ground units in the area of Richards Blvd and Bercut Dr after reports of a stolen vehicle."
+  },
+  {
+    "date": "20250530",
+    "time": "5:36 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air 1 assisted in a vehicle pursuit."
+  },
+  {
+    "date": "20250530",
+    "time": "6:45 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Star responded in locating a robbery suspect."
+  },
+  {
+    "date": "20250530",
+    "time": "7:48 PM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "Air 1 responded to a hit and run report."
+  },
+  {
+    "date": "20250530",
+    "time": "7:49 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Air 1 responded in a possible dispute, nothing was found."
+  },
+  {
+    "date": "20250530",
+    "time": "8:13 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air 1 responded to a subject stop."
   }
 ]
