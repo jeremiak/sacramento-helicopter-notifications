@@ -18705,6 +18705,13 @@
   },
   {
     "date": "20250531",
+    "time": "11:26 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "H20 assisted ground units in checking the area for a suspicious person near Martin Luther King Jr Blvd and 12th Ave"
+  },
+  {
+    "date": "20250531",
     "time": "3:13 PM",
     "neighborhood": "Downtown",
     "beat": "3M",
@@ -18723,5 +18730,103 @@
     "neighborhood": "New Brighton",
     "beat": "7C",
     "comments": "Star assisted in doing a welfare check on a male."
+  },
+  {
+    "date": "20250531",
+    "time": "9:08 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "29th Ave/28th St - STAR - Air support responded out to assist ground units after receiving reports of an armed subject. Subject was never armed."
+  },
+  {
+    "date": "20250531",
+    "time": "9:37 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Vallecitos Way/Sun River Dr - STAR - Air support responded out to assist ground units after receiving reports of an armed subject. Subject was located."
+  },
+  {
+    "date": "20250531",
+    "time": "9:44 PM",
+    "neighborhood": "Southeast Village",
+    "beat": "6C",
+    "comments": "Glenhills Way/Dresher Park Way - STAR - Helicopter in the area to search for suspicious activity."
+  },
+  {
+    "date": "20250601",
+    "time": "2:17 AM",
+    "neighborhood": "Pell/Main Industrial Park",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units after reports of an alarm in the area of main ave and pell drive."
+  },
+  {
+    "date": "20250601",
+    "time": "4:17 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisted ground units locate a male and a female that were seen in an altercation. Units made contact without incident in the area of 24th St/Meadowview Rd"
+  },
+  {
+    "date": "20250601",
+    "time": "5:21 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units after reports of an armed subject in the area of Altos and Morrison Avenue"
+  },
+  {
+    "date": "20250601",
+    "time": "5:27 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Air unit assisting ground units after reports of a hit and run in the area of Valley Hi and Mack Road"
+  },
+  {
+    "date": "20250601",
+    "time": "5:46 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Air units assisting ground units after reports of an assault in the area of Exposition Boulevard and Heritage Lane"
+  },
+  {
+    "date": "20250601",
+    "time": "6:56 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Star assisted in a welfare check."
+  },
+  {
+    "date": "20250601",
+    "time": "8:25 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Air unit assisting ground units after reports of a disturbance in the area of Shadow Tree and Smoke Tree Drive"
+  },
+  {
+    "date": "20250601",
+    "time": "8:30 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "Air units assisting ground units after reports of an assault in the area of Millcreek Drive and Capital Park Drive"
+  },
+  {
+    "date": "20250601",
+    "time": "8:43 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units after reports of a suspicious subject in the area of Windsong Street and Brookdale Drive"
+  },
+  {
+    "date": "20250601",
+    "time": "8:57 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 responded to the area of Arcade Blvd and Rio Linda Blvd to assist patrol units on a disturbance at a residence."
+  },
+  {
+    "date": "20250601",
+    "time": "9:17 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Star responded to the area of Ramona Ave and Brighton Ave to assist patrol units on a large disturbance and physical fight."
   }
 ]
