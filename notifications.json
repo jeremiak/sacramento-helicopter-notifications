@@ -18754,6 +18754,20 @@
   },
   {
     "date": "20250601",
+    "time": "10:02 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Star responded to the area of Northgate Blvd and Rimmer Ave to assist patrol units in the area for reports of a possible theft or robbery."
+  },
+  {
+    "date": "20250601",
+    "time": "10:39 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Star responded to the area of Riverside Blvd and Greenhaven Dr to assist patrol units on reports of a stolen vehicle in the area."
+  },
+  {
+    "date": "20250601",
     "time": "2:17 AM",
     "neighborhood": "Pell/Main Industrial Park",
     "beat": "2A",
@@ -18828,5 +18842,33 @@
     "neighborhood": "Ramona Village",
     "beat": "7C",
     "comments": "Star responded to the area of Ramona Ave and Brighton Ave to assist patrol units on a large disturbance and physical fight."
+  },
+  {
+    "date": "20250601",
+    "time": "9:48 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Star responded to the area of 68th Ave and Henrietta Dr to assist patrol units for reports of a suspicious person outside a residence."
+  },
+  {
+    "date": "20250602",
+    "time": "2:16 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisted officers searching the area for a burglary suspect.  Suspect has been detained."
+  },
+  {
+    "date": "20250602",
+    "time": "2:38 PM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "Helicopter assisted officers searching area for a robbery suspect."
+  },
+  {
+    "date": "20250602",
+    "time": "7:38 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Candlewood Way/Sylvia Way - AIR1 - Air support responded out to assist ground units search for suspicious activity."
   }
 ]
