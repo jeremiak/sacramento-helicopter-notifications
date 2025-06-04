@@ -18852,6 +18852,13 @@
   },
   {
     "date": "20250602",
+    "time": "10:06 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "STAR assisted ground units in locating a possibly armed subject in the area of Willow St and Roanoke Ave."
+  },
+  {
+    "date": "20250602",
     "time": "2:16 PM",
     "neighborhood": "North Oak Park",
     "beat": "6A",
@@ -18870,5 +18877,40 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Candlewood Way/Sylvia Way - AIR1 - Air support responded out to assist ground units search for suspicious activity."
+  },
+  {
+    "date": "20250602",
+    "time": "9:38 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "STAR assisted ground units with checking the area after reports of subjects trespassing in the area of Cadillac Dr and Feature Dr, no one was found to be trespassing."
+  },
+  {
+    "date": "20250603",
+    "time": "3:05 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Helicopter in the area of Roseville Rd and Marconi Cir checking the area for an intoxicated driver."
+  },
+  {
+    "date": "20250603",
+    "time": "4:05 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Helicopter in the area of D St/12th St assisting officers responding to a report of child abuse."
+  },
+  {
+    "date": "20250603",
+    "time": "4:59 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "Assisted ground units after reports of someone possibly with a weapon near Florin Rd and Amherst St."
+  },
+  {
+    "date": "20250603",
+    "time": "5:26 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1B",
+    "comments": "Assisted ground units check for a possible armed subject in the area of San Juan Rd. and Duckhorn Dr."
   }
 ]
