@@ -18912,5 +18912,47 @@
     "neighborhood": "Gateway West",
     "beat": "1B",
     "comments": "Assisted ground units check for a possible armed subject in the area of San Juan Rd. and Duckhorn Dr."
+  },
+  {
+    "date": "20250604",
+    "time": "10:39 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisting ground units in locating a female who was screaming and crying in distress. Located female."
+  },
+  {
+    "date": "20250604",
+    "time": "9:36 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Helicopter assisting ground units in locating a hit and run suspect vehicle. No vehicle located, no incidents."
+  },
+  {
+    "date": "20250605",
+    "time": "3:04 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisted ground patrol units in searching the area for a subject reported to be armed - Meadowview RD / 24th ST"
+  },
+  {
+    "date": "20250605",
+    "time": "5:58 PM",
+    "neighborhood": "Regency Park",
+    "beat": "1A",
+    "comments": "Air unit assisting after reports of an assault"
+  },
+  {
+    "date": "20250605",
+    "time": "6:25 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "star assisted officer with looking for a suspect in a parking garage"
+  },
+  {
+    "date": "20250605",
+    "time": "8:09 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "Air unit assisted in searching for a subject who fled from officers"
   }
 ]
