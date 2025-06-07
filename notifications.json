@@ -18929,6 +18929,13 @@
   },
   {
     "date": "20250605",
+    "time": "10:28 PM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "34th St/Y St...STAR assisted ground units with subjects breaking into a building"
+  },
+  {
+    "date": "20250605",
     "time": "3:04 PM",
     "neighborhood": "Meadowview",
     "beat": "5A",
@@ -18954,5 +18961,26 @@
     "neighborhood": "Willowcreek",
     "beat": "1B",
     "comments": "Air unit assisted in searching for a subject who fled from officers"
+  },
+  {
+    "date": "20250606",
+    "time": "3:09 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "AIR21 assisted ground patrol units in searching the area for reports of a break in - Morrison AVE / Western AVE"
+  },
+  {
+    "date": "20250606",
+    "time": "6:34 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "AIR1 assisting ground units with attempting to locate a male and female in an altercation in the area of Havenside Dr/Gloria Dr."
+  },
+  {
+    "date": "20250606",
+    "time": "7:08 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "AIR1 assisting ground units with locating vehicles that were potentially racing in the area of Front St/Ramp Way."
   }
 ]
