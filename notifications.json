@@ -18964,6 +18964,34 @@
   },
   {
     "date": "20250606",
+    "time": "10:46 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Barrette Ave/Grove Ave - AIR1 - Air support responded out to assist ground units search for suspicious subject."
+  },
+  {
+    "date": "20250606",
+    "time": "10:54 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "El Centro Rd/Duckhorn Dr - AIR1 - Air support responded out to assist ground units search for armed subject."
+  },
+  {
+    "date": "20250606",
+    "time": "11:07 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "L St/10th St - AIR1 - Air support responded out to assist ground units after a subject failed to yield for officers."
+  },
+  {
+    "date": "20250606",
+    "time": "11:14 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "29th St/Meadowview Rd - AIR1 - Air support responded out to assist ground units search the area for suspicious activity."
+  },
+  {
+    "date": "20250606",
     "time": "3:09 PM",
     "neighborhood": "Oak Knoll",
     "beat": "2A",
@@ -18982,5 +19010,33 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "AIR1 assisting ground units with locating vehicles that were potentially racing in the area of Front St/Ramp Way."
+  },
+  {
+    "date": "20250607",
+    "time": "8:09 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air 1 assisted in a suspicious subject on a school roof."
+  },
+  {
+    "date": "20250607",
+    "time": "8:14 PM",
+    "neighborhood": "Noralto",
+    "beat": "2C",
+    "comments": "Star assisted in locating a stolen vehicle."
+  },
+  {
+    "date": "20250607",
+    "time": "8:27 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "Star responded in a domestic violence situation in progress."
+  },
+  {
+    "date": "20250607",
+    "time": "8:44 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air1 responded to a false felony assault report."
   }
 ]
