@@ -19041,9 +19041,37 @@
   },
   {
     "date": "20250608",
+    "time": "10:44 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Air1 responded to the area of Valley Hi Drive and Meadow Park Way to assist patrol units in the area for reports of reckless driving."
+  },
+  {
+    "date": "20250608",
+    "time": "11:19 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "Air1 responded to the area of Florin Perkins Rd and Specialty Cir to assist patrol units in the area for reports of a possible burglary."
+  },
+  {
+    "date": "20250608",
     "time": "4:20 PM",
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "air1 assisted ground units with looking for a suspect vehicle"
+  },
+  {
+    "date": "20250609",
+    "time": "4:03 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "AIR1 assisting units in the area of Mack Rd/Center Pkwy on report of someone with a weapon."
+  },
+  {
+    "date": "20250609",
+    "time": "5:12 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Helicopter assisted officers searching the area for a possible burglary suspect."
   }
 ]
