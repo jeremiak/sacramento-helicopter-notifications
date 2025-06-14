@@ -19111,6 +19111,20 @@
   },
   {
     "date": "20250612",
+    "time": "11:06 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Helicopter assisting ground units in locating a subject with a gun. No one located with a gun. No incidents."
+  },
+  {
+    "date": "20250612",
+    "time": "11:14 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter assisting ground units in locating an at risk missing person. Helicopter was unable to locate anyone matching the description of the missing person. Female, White, fourteen years old, 5'5/medium build, last seen wearing black shirt, and grey or black sweat pants."
+  },
+  {
+    "date": "20250612",
     "time": "3:09 PM",
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
@@ -19157,5 +19171,12 @@
     "neighborhood": "Regency Park",
     "beat": "1A",
     "comments": "Helicopter assisting ground units in locating a road rage incident. Vehicles located without incident."
+  },
+  {
+    "date": "20250612",
+    "time": "9:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Helicopter was in the area locating a stolen vehicle. Vehicle was not located."
   }
 ]
