@@ -19213,5 +19213,75 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "Air 1 assisted in a traffic stop."
+  },
+  {
+    "date": "20250615",
+    "time": "9:27 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "STAR assisted ground units in located a suspected drunk driver in the area of San Juan and El Centro."
+  },
+  {
+    "date": "20250616",
+    "time": "1:46 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air unit assisting ground units after reports of a stolen vehicle in the area of Arden Way and Heritage Lane"
+  },
+  {
+    "date": "20250616",
+    "time": "1:58 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of an armed subject in the area of Frienza Ave and Evergreen Street"
+  },
+  {
+    "date": "20250616",
+    "time": "2:08 PM",
+    "neighborhood": "Tahoe Park",
+    "beat": "6B",
+    "comments": "Air units assisting ground units on a traffic stop in the area of 59th street and Broadway"
+  },
+  {
+    "date": "20250616",
+    "time": "4:35 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Helicopter in the area assisted officers searching for an armed vehicle.  Vehicle is a white cadillac 4d sedan."
+  },
+  {
+    "date": "20250616",
+    "time": "4:37 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisting officers following an armed vehicle. vehicle last seen moving westbound on babel slough. Vehicle is a white 4 door Cadillac sedan."
+  },
+  {
+    "date": "20250616",
+    "time": "7:09 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "Helicopter assisted officers searching the area for suspect vehicle and suspect of a robbery at a business.  in the location of Stockton Blvd and Lemon Hill Ave."
+  },
+  {
+    "date": "20250616",
+    "time": "7:27 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter assisting outside agency searching the area for a robbery suspect."
+  },
+  {
+    "date": "20250616",
+    "time": "8:48 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisted officers searching the area for a stolen vehicle. Suspects have been detained."
+  },
+  {
+    "date": "20250616",
+    "time": "8:57 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "Helicopter assisted units in the area looking for subjects involved in domestic violence and one party brandished a gun. So far units are unable to locate suspect or victim."
   }
 ]
