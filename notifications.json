@@ -19293,6 +19293,41 @@
   },
   {
     "date": "20250618",
+    "time": "10:29 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in checking the area for a possible break in near Altos Ave and Eleanor Ave"
+  },
+  {
+    "date": "20250618",
+    "time": "10:58 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 is assisting ground units in checking the area for a suspect near Florin Rd and Franklin Blvd"
+  },
+  {
+    "date": "20250618",
+    "time": "11:07 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisted units in locating a suspect in the area of Mack Rd and Brookfield Dr"
+  },
+  {
+    "date": "20250618",
+    "time": "11:28 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "AIR1 checked the area of Center Pkwy and Mack Rd for possible shots fired"
+  },
+  {
+    "date": "20250618",
+    "time": "11:45 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 assisted ground units on a possible burglary in the area of La Riviera Dr and Occidental Dr"
+  },
+  {
+    "date": "20250618",
     "time": "5:47 PM",
     "neighborhood": "College / Glen",
     "beat": "7B",
@@ -19304,5 +19339,40 @@
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
     "comments": "Helicopter assisted with detaining female involved in assaulting her boyfriend."
+  },
+  {
+    "date": "20250619",
+    "time": "3:56 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Star assisting ground units with a missing juvenille in the area of Monogan and Gearny Dr"
+  },
+  {
+    "date": "20250619",
+    "time": "3:59 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Star in the area of El Camino and Clay, assisting ground units with a subject that brandished a gun"
+  },
+  {
+    "date": "20250619",
+    "time": "4:04 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Star assisting units on a Robbery suspect in the area of Richards and N 16th st"
+  },
+  {
+    "date": "20250619",
+    "time": "7:29 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisted ground units locate a stolen vehicle."
+  },
+  {
+    "date": "20250619",
+    "time": "9:27 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisted units in checking the area for a vehicle that was taken without permission, vehicle is a red 2015 Nissan Pathfinder"
   }
 ]
