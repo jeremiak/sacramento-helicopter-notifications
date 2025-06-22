@@ -19377,9 +19377,37 @@
   },
   {
     "date": "20250620",
+    "time": "10:37 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "AIR21 was assisting ground units in locating a possibly armed subject near Power Inn Rd and Ramona Ave"
+  },
+  {
+    "date": "20250620",
+    "time": "11:37 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "AIR1 assisted ground units in locating a subject trying to flee from an assault near O St and 23rd St"
+  },
+  {
+    "date": "20250620",
     "time": "8:17 PM",
     "neighborhood": "Parkway",
     "beat": "5C",
     "comments": "Air1 assisting ground units locate a stolen vehicle."
+  },
+  {
+    "date": "20250621",
+    "time": "1:09 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Unit assisted in locating a traffic stop suspect."
+  },
+  {
+    "date": "20250621",
+    "time": "4:39 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to the area of Ann  Arbor Way and Albion Way for reports of a physical assault."
   }
 ]
