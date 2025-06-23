@@ -19398,6 +19398,13 @@
   },
   {
     "date": "20250621",
+    "time": "10:11 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter was helping ground units search for a stolen vehicle. Vehicle was located."
+  },
+  {
+    "date": "20250621",
     "time": "1:09 PM",
     "neighborhood": "",
     "beat": "UI",
@@ -19409,5 +19416,33 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Helicopter responded to the area of Ann  Arbor Way and Albion Way for reports of a physical assault."
+  },
+  {
+    "date": "20250622",
+    "time": "3:37 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Helicopter assisted officers working demonstration."
+  },
+  {
+    "date": "20250622",
+    "time": "4:05 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Helicopter assisting officers working a active burglary in the area."
+  },
+  {
+    "date": "20250622",
+    "time": "6:23 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter assisted officers checking the area for subjects fighting."
+  },
+  {
+    "date": "20250622",
+    "time": "9:11 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted ground units to help locate and apprehend a domestic violence suspect."
   }
 ]
