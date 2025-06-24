@@ -19444,5 +19444,33 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "Helicopter assisted ground units to help locate and apprehend a domestic violence suspect."
+  },
+  {
+    "date": "20250623",
+    "time": "2:27 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "air1 assisted officers in checking the area for a possible vandalism suspect"
+  },
+  {
+    "date": "20250623",
+    "time": "6:32 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter was assisting ground units search for someone possibly in a vacant building. They were unable to locate."
+  },
+  {
+    "date": "20250623",
+    "time": "7:09 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting after reports of a break in."
+  },
+  {
+    "date": "20250623",
+    "time": "9:06 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of an assault"
   }
 ]
