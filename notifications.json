@@ -19486,5 +19486,40 @@
     "neighborhood": "Richardson Village",
     "beat": "2B",
     "comments": "Helicopter is assisting units with locating a possible kidnapping vehicle."
+  },
+  {
+    "date": "20250625",
+    "time": "5:48 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Helicopter assisted ground units with reports of a fight in the area of Del Paso Rd and Truxel Rd. Checked ok."
+  },
+  {
+    "date": "20250625",
+    "time": "6:19 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisting ground units attempt to locate a possible arson suspect."
+  },
+  {
+    "date": "20250625",
+    "time": "8:10 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 responded to the area of North Ave and Fig St to locate a female that was yelling for help"
+  },
+  {
+    "date": "20250625",
+    "time": "8:13 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "AIR1 assisted ground units in locating an armed subject in the area of S Land Park Dr and Fruitridge Rd"
+  },
+  {
+    "date": "20250625",
+    "time": "9:17 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "STAR is assisting ground units in locating a possibly armed subject near Vallejo and 5th St"
   }
 ]
