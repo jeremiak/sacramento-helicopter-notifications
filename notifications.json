@@ -19538,6 +19538,34 @@
   },
   {
     "date": "20250626",
+    "time": "10:10 PM",
+    "neighborhood": "Colonial Manor",
+    "beat": "7C",
+    "comments": "helicopter assisted pd with checking area for suspicious subject at a business."
+  },
+  {
+    "date": "20250626",
+    "time": "10:18 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Helicopter assisted with locating a male subject in the neighborhood acting suspicious."
+  },
+  {
+    "date": "20250626",
+    "time": "10:58 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Helicopter assisted with checking area for suspects involved in a burglary."
+  },
+  {
+    "date": "20250626",
+    "time": "11:49 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter assisted with checking the area for vehicles doing donuts. They were unable to locate."
+  },
+  {
+    "date": "20250626",
     "time": "2:52 PM",
     "neighborhood": "Morrison Creek",
     "beat": "6C",
