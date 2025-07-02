@@ -19605,5 +19605,33 @@
     "neighborhood": "Csus",
     "beat": "7B",
     "comments": "Air unit assisting ground units after reports of a domestic dispute in the area of Folsom Blvd and 69th Street"
+  },
+  {
+    "date": "20250630",
+    "time": "9:41 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Meadowview Rd/Freeport Blvd - STAR - Air support responded out to assist ground units search for robbery suspect. Suspect located."
+  },
+  {
+    "date": "20250701",
+    "time": "3:16 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisted after reports of a family disturbance"
+  },
+  {
+    "date": "20250701",
+    "time": "3:41 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3M",
+    "comments": "Air unit assisted after reports of a subject breaking into parking meters"
+  },
+  {
+    "date": "20250701",
+    "time": "6:04 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air united assisted ground units with searching for a subject throwing items over the freeway near Marysville Blvd."
   }
 ]
