@@ -19640,5 +19640,33 @@
     "neighborhood": "Arden Fair",
     "beat": "2C",
     "comments": "STAR is assisting ground units with shots heard in the area of Arden Fair Mall"
+  },
+  {
+    "date": "20250704",
+    "time": "11:17 AM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "Helicopter assisted ground units with a vehicle accident."
+  },
+  {
+    "date": "20250704",
+    "time": "11:34 AM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units with a suspicious subject."
+  },
+  {
+    "date": "20250704",
+    "time": "4:52 PM",
+    "neighborhood": "Carleton Tract",
+    "beat": "4A",
+    "comments": "STAR assisting ground units for unknown circumstances in the bathroom."
+  },
+  {
+    "date": "20250704",
+    "time": "8:15 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "AIR1 was assisting ground units in locating a possibly armed vehicle. Weapon was unfounded."
   }
 ]
