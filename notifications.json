@@ -19643,10 +19643,38 @@
   },
   {
     "date": "20250704",
+    "time": "10:56 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air1 was assisting ground units in the area of truxel rd and brewerton dr for a suspicious  subject."
+  },
+  {
+    "date": "20250704",
+    "time": "11:08 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Air1 was assisting ground units that were requesting additional units for an uncooperative female."
+  },
+  {
+    "date": "20250704",
     "time": "11:17 AM",
     "neighborhood": "Lawrence Park",
     "beat": "6B",
     "comments": "Helicopter assisted ground units with a vehicle accident."
+  },
+  {
+    "date": "20250704",
+    "time": "11:17 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Air1 assisted ground units in the area of Woodbine ave/Toy ave for reports of sounds of gunshots."
+  },
+  {
+    "date": "20250704",
+    "time": "11:21 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "Air1 assisted ground units in the area of Northview dr / Northfield dr for reports of subjects in the street with guns."
   },
   {
     "date": "20250704",
@@ -19668,5 +19696,68 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5B",
     "comments": "AIR1 was assisting ground units in locating a possibly armed vehicle. Weapon was unfounded."
+  },
+  {
+    "date": "20250705",
+    "time": "11:21 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "AIR1 was assisting for a call for service regarding an alarm at a business near Arden Way/Colfax St."
+  },
+  {
+    "date": "20250705",
+    "time": "2:45 PM",
+    "neighborhood": "Tallac Village",
+    "beat": "6B",
+    "comments": "STAR assisted ground units looking for a subject that was involved in an assault in the area of Valetta Way/21st Avenue."
+  },
+  {
+    "date": "20250705",
+    "time": "4:18 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air 1 responded to subjects stealing off of a property."
+  },
+  {
+    "date": "20250705",
+    "time": "4:55 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air 1 assisted in locating a suspect."
+  },
+  {
+    "date": "20250705",
+    "time": "4:58 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air 1 assisted in a possible kidnapping."
+  },
+  {
+    "date": "20250705",
+    "time": "6:48 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Star assisted in locating an at-risk missing person."
+  },
+  {
+    "date": "20250705",
+    "time": "8:04 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "AIR1 assisting units on the ground for an assault in the area of N 6th st/Vine"
+  },
+  {
+    "date": "20250705",
+    "time": "8:17 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 ASSISTING UNITS ON THE GROUND FOR ASSAULT IN THE AREA OF DELTA SHORES"
+  },
+  {
+    "date": "20250706",
+    "time": "9:28 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Cutter Way/7th Ave - STAR - Air support responded out to assist ground units search the area for suspicious activity."
   }
 ]
