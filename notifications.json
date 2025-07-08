@@ -19759,5 +19759,54 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "Cutter Way/7th Ave - STAR - Air support responded out to assist ground units search the area for suspicious activity."
+  },
+  {
+    "date": "20250706",
+    "time": "9:42 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Delta Shores Cir S/Cosumnes River Blvd - STAR - Air support responded out to assist ground units with a large crowd of juveniles in the shopping center."
+  },
+  {
+    "date": "20250706",
+    "time": "9:44 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Riverside Blvd/Broadway - STAR - Air support responded out to assist ground units after receiving a report about an armed subject. The subject was located unarmed."
+  },
+  {
+    "date": "20250707",
+    "time": "2:46 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "start assisted ground units with a domestic violence call"
+  },
+  {
+    "date": "20250707",
+    "time": "7:15 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units after reports of an assault in the area of Rosin Court and Dept of Trans Drwy"
+  },
+  {
+    "date": "20250707",
+    "time": "7:47 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of 6th ave and 33rd st"
+  },
+  {
+    "date": "20250707",
+    "time": "7:51 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground units after reports of a domestic disturbance in the area of Kenwood st and Judah St"
+  },
+  {
+    "date": "20250707",
+    "time": "7:57 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units after reports of a burglary in the area of 24th st and N Manor dr"
   }
 ]
