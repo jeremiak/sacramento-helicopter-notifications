@@ -19808,5 +19808,47 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Air unit assisting ground units after reports of a burglary in the area of 24th st and N Manor dr"
+  },
+  {
+    "date": "20250708",
+    "time": "1:01 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "air1 assisted ground units with looking for a possible armed vehicle"
+  },
+  {
+    "date": "20250708",
+    "time": "1:24 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "air 1 assisted ground units with looking for a possibly armed vehicle"
+  },
+  {
+    "date": "20250708",
+    "time": "4:19 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit helped ground units search for a subject swinging around a long metal pole near Del Paso Blvd."
+  },
+  {
+    "date": "20250708",
+    "time": "7:53 PM",
+    "neighborhood": "Cannon Industrial Park",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of a subject on the light rail tracks in the area of Auburn Blvd and Marconi Circle"
+  },
+  {
+    "date": "20250708",
+    "time": "8:19 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted with checking the area for a shooting suspect."
+  },
+  {
+    "date": "20250708",
+    "time": "9:26 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisted with checking the area for suspect armed with a knife."
   }
 ]
