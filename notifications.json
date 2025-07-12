@@ -19857,5 +19857,40 @@
     "neighborhood": "South Natomas",
     "beat": "1B",
     "comments": "Helicopter assisted ground units locate a domestic violence suspect."
+  },
+  {
+    "date": "20250711",
+    "time": "2:41 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "AIR1 responded to a report of a possible break-in in the area of Grove Ave/Lampasas Ave."
+  },
+  {
+    "date": "20250711",
+    "time": "4:07 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "arcade blvd/grove ave - helicopter assisted with monitoring reports of a shooting"
+  },
+  {
+    "date": "20250711",
+    "time": "4:41 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "fairfield st/lampasas ave - helicopter assisted with a pursuit of a potentially armed suspect"
+  },
+  {
+    "date": "20250711",
+    "time": "8:29 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "star assisting ground units with a suspicious vehicle in the area of Redwood and El Camino Ave"
+  },
+  {
+    "date": "20250711",
+    "time": "8:34 PM",
+    "neighborhood": "Elmhurst",
+    "beat": "6B",
+    "comments": "Air1 assisting ground units with a subject with a gun in the area of 57th and T st"
   }
 ]
