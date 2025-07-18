@@ -19955,5 +19955,26 @@
     "neighborhood": "Boulevard Park",
     "beat": "3B",
     "comments": "report of armed vehicle. vehicle pulled over by patrol. 6023"
+  },
+  {
+    "date": "20250717",
+    "time": "4:03 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "folsom blvd/50th st - helicopter assisted with monitoring reports of suspicious activity in the area"
+  },
+  {
+    "date": "20250717",
+    "time": "6:25 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "northgate blvd/i 80 - helicopter assisted with looking for a stolen vehicle"
+  },
+  {
+    "date": "20250717",
+    "time": "6:52 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "s st/23rd st - helicopter assisted with looking for suspicious subject"
   }
 ]
