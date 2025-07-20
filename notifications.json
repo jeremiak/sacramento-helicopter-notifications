@@ -19976,5 +19976,33 @@
     "neighborhood": "Newton Booth",
     "beat": "3B",
     "comments": "s st/23rd st - helicopter assisted with looking for suspicious subject"
+  },
+  {
+    "date": "20250718",
+    "time": "9:53 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "McGlashan St/Lawrence Dr - STAR - Air support responded out to assist ground units regarding suspicious activity."
+  },
+  {
+    "date": "20250719",
+    "time": "3:05 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisted units locating a missing person in the area of Mack Rd/Center Pkwy."
+  },
+  {
+    "date": "20250719",
+    "time": "3:08 PM",
+    "neighborhood": "Tahoe Park",
+    "beat": "6B",
+    "comments": "STAR assisted units detaining a crime suspect in the area of 8th Ave/61st St."
+  },
+  {
+    "date": "20250719",
+    "time": "3:39 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "STAR assisted locating a stolen vehicle in the area of Stockton Blvd/Riza Ave."
   }
 ]
