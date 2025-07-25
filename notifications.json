@@ -20039,5 +20039,19 @@
     "neighborhood": "Glenwood Meadows",
     "beat": "2A",
     "comments": "Air unit assisting after reports of a possible assault with unknown circumstances"
+  },
+  {
+    "date": "20250724",
+    "time": "3:18 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units locate an assault subject."
+  },
+  {
+    "date": "20250724",
+    "time": "3:54 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units locate a stolen vehicle."
   }
 ]
