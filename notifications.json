@@ -20053,5 +20053,47 @@
     "neighborhood": "Hagginwood",
     "beat": "2B",
     "comments": "Helicopter assisted ground units locate a stolen vehicle."
+  },
+  {
+    "date": "20250725",
+    "time": "10:09 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Assisted ground units in pursuit near Truxel and Del Paso Rd."
+  },
+  {
+    "date": "20250725",
+    "time": "9:57 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Assisted ground units after reports of a sideshow near Delta Shores."
+  },
+  {
+    "date": "20250726",
+    "time": "1:57 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisted officers looking for an armed subject in the area of Sheldon Rd/W Stockton Blvd."
+  },
+  {
+    "date": "20250726",
+    "time": "2:04 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "STAR assisted ground units locating a subject possibly involved in an arson."
+  },
+  {
+    "date": "20250726",
+    "time": "3:15 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "STAR assisted units looking for a suspect in the area of Gateway Park Blvd/Terracina Dr."
+  },
+  {
+    "date": "20250726",
+    "time": "7:17 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter was in the area assisting ground units search for potential armed subject. Subject was located."
   }
 ]
