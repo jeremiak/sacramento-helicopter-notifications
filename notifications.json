@@ -20116,5 +20116,26 @@
     "neighborhood": "Greenhaven",
     "beat": "4C",
     "comments": "Helicopter assisting officers searching the area for subject with a gun."
+  },
+  {
+    "date": "20250801",
+    "time": "6:19 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "STAR assisting ground units looking for an armed female subject in the area of Yvonne way"
+  },
+  {
+    "date": "20250801",
+    "time": "6:57 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisting ground units with a female with a weapon in the area of Center Pkwy and Bamford Dr"
+  },
+  {
+    "date": "20250801",
+    "time": "7:19 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "STAR assisting units on a pursuit of a motorcycle in the area of Del Paso Blvd and Arcade Blvd"
   }
 ]
