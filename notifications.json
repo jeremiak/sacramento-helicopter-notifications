@@ -20137,5 +20137,40 @@
     "neighborhood": "Hagginwood",
     "beat": "2B",
     "comments": "STAR assisting units on a pursuit of a motorcycle in the area of Del Paso Blvd and Arcade Blvd"
+  },
+  {
+    "date": "20250802",
+    "time": "1:12 AM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR21 - Winters/Roseville Rd - Air support responded out to assist ground units after receiving several reports of a major vehicle accident."
+  },
+  {
+    "date": "20250802",
+    "time": "2:59 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Air unit assisting ground units after reports of an assault in the area of N B St and Ahern St"
+  },
+  {
+    "date": "20250802",
+    "time": "6:18 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Helicopter assisted ground units with reports of an assault."
+  },
+  {
+    "date": "20250802",
+    "time": "8:08 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "Helicopter assisted ground units with reports of a suspicious subject."
+  },
+  {
+    "date": "20250802",
+    "time": "9:18 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "star assisted ground units with looking for a possible armed vehicle / suspect"
   }
 ]
