@@ -20193,5 +20193,54 @@
     "neighborhood": "Rp - Sports Complex",
     "beat": "1A",
     "comments": "Helicopter assisted officers in the area for locating a possible armed vehicle. Officers have vehicle detained"
+  },
+  {
+    "date": "20250804",
+    "time": "4:38 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit assisting ground units in pursuit of a subject on foot."
+  },
+  {
+    "date": "20250804",
+    "time": "5:16 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Helicopter assisting officers to locate a suspect in a domestic violence case. This is still an active scene."
+  },
+  {
+    "date": "20250804",
+    "time": "5:40 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting with locating a possibly armed subject."
+  },
+  {
+    "date": "20250804",
+    "time": "7:36 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Air unit is assisting ground units with locating a suspect vehicle."
+  },
+  {
+    "date": "20250804",
+    "time": "8:06 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units with search of armed suspect vehicle."
+  },
+  {
+    "date": "20250804",
+    "time": "8:28 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Air unit assisting after reports of suspicious subjects possibly engaging in vandalism."
+  },
+  {
+    "date": "20250804",
+    "time": "8:37 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units in attempting to detain an uncooperative subject."
   }
 ]
