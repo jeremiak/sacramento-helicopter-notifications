@@ -20242,5 +20242,47 @@
     "neighborhood": "American River Parkway",
     "beat": "1C",
     "comments": "Air unit assisting ground units in attempting to detain an uncooperative subject."
+  },
+  {
+    "date": "20250805",
+    "time": "3:31 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting ground units in checking the area for possibly armed vehicle."
+  },
+  {
+    "date": "20250805",
+    "time": "4:28 PM",
+    "neighborhood": "Mangan Park",
+    "beat": "4B",
+    "comments": "Air unit assisting ground units with the search of possible armed bicyclist."
+  },
+  {
+    "date": "20250805",
+    "time": "4:45 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "2C",
+    "comments": "Air unit assisting ground unit with pursuit."
+  },
+  {
+    "date": "20250805",
+    "time": "5:04 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting ground unit with the search of an armed subject."
+  },
+  {
+    "date": "20250805",
+    "time": "7:29 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Air unit assisting ground unit with search for an armed vehicle."
+  },
+  {
+    "date": "20250805",
+    "time": "8:28 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units in search for a subject."
   }
 ]
