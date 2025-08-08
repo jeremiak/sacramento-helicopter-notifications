@@ -20287,6 +20287,20 @@
   },
   {
     "date": "20250806",
+    "time": "10:48 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "air1 assisted ground units on a foot pursuit"
+  },
+  {
+    "date": "20250806",
+    "time": "11:25 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "air1 assisted units in trying to get a visual on a suspicious person in the area"
+  },
+  {
+    "date": "20250806",
     "time": "1:37 PM",
     "neighborhood": "South Natomas",
     "beat": "1C",
@@ -20312,5 +20326,54 @@
     "neighborhood": "Creekside",
     "beat": "1A",
     "comments": "Helicopter responded in the area of Pebble Banks way/Clouud Crest way , for a domestic assault call where on party was armed with a weapon."
+  },
+  {
+    "date": "20250807",
+    "time": "4:54 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting with ground units with searching for a missing female. The missing female is white, 65 years old, wearing a blue shirt and black tights."
+  },
+  {
+    "date": "20250807",
+    "time": "5:06 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting ground unit with the search of a missing person. Missing person was located."
+  },
+  {
+    "date": "20250807",
+    "time": "5:43 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Vehicle pursuit. Vehicle stopped by Sacramento Sheriff's Department."
+  },
+  {
+    "date": "20250807",
+    "time": "7:47 PM",
+    "neighborhood": "Freeport Manor",
+    "beat": "4C",
+    "comments": "Air units assisting ground units with searching for a suspect involved with an assault."
+  },
+  {
+    "date": "20250807",
+    "time": "8:19 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units with locating a large group of individuals near Meadowview Rd."
+  },
+  {
+    "date": "20250807",
+    "time": "8:56 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "NORTHGATE BLVD/SAN JUAN RD...STAR responded for a possible shooting"
+  },
+  {
+    "date": "20250807",
+    "time": "9:19 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "COLONIAL PARK 5315 19TH AVE...STAR responded for a possibly armed subject"
   }
 ]
