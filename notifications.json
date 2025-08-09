@@ -20329,6 +20329,27 @@
   },
   {
     "date": "20250807",
+    "time": "10:58 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "26TH ST/S ST...AIR1 checked the area for suspicious activity"
+  },
+  {
+    "date": "20250807",
+    "time": "11:00 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "RICHARDS BLVD/N 16TH ST...AIR1 checked the area for a person throwing items in the road"
+  },
+  {
+    "date": "20250807",
+    "time": "11:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "MACK RD/CENTER PKWY...AIR1 checked the area for subjects looking into vehicles"
+  },
+  {
+    "date": "20250807",
     "time": "4:54 PM",
     "neighborhood": "Gardenland",
     "beat": "1C",
@@ -20375,5 +20396,33 @@
     "neighborhood": "Colonial Heights",
     "beat": "6B",
     "comments": "COLONIAL PARK 5315 19TH AVE...STAR responded for a possibly armed subject"
+  },
+  {
+    "date": "20250808",
+    "time": "2:39 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR checked the area of P St/30th St for a possible assault."
+  },
+  {
+    "date": "20250808",
+    "time": "7:29 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisting ground units locate a runaway juvenile."
+  },
+  {
+    "date": "20250808",
+    "time": "8:55 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "STAR assisting ground units with attempting to locate a robbery suspect in the area of New Market and Town Center Dr"
+  },
+  {
+    "date": "20250808",
+    "time": "9:11 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "STAR assisting units on the ground trying to locate a suspect with a baseball bat in the area of 35th st and 5th ave"
   }
 ]
