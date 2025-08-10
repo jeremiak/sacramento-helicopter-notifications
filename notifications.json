@@ -20399,6 +20399,20 @@
   },
   {
     "date": "20250808",
+    "time": "10:19 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "AIR1 assisting units on the ground, trying to locate an armed subject in the area of Danville Way and Cookingham Way"
+  },
+  {
+    "date": "20250808",
+    "time": "10:26 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units to locate an armed subject in the area of La Rivera Dr and Alvarado Blvd"
+  },
+  {
+    "date": "20250808",
     "time": "2:39 PM",
     "neighborhood": "East Sacramento",
     "beat": "7A",
@@ -20424,5 +20438,40 @@
     "neighborhood": "North Oak Park",
     "beat": "6A",
     "comments": "STAR assisting units on the ground trying to locate a suspect with a baseball bat in the area of 35th st and 5th ave"
+  },
+  {
+    "date": "20250808",
+    "time": "9:59 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "AIR1 assisting ground units for a domestic violence situation in the area of Rush River Dr and Windbridge Dr"
+  },
+  {
+    "date": "20250809",
+    "time": "2:48 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Air units assisting ground units after reports of a subject vandalizing property in the area of Tierra Arbor way and Pony Trail Way"
+  },
+  {
+    "date": "20250809",
+    "time": "3:18 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of 53rd ave and Golf View Dr"
+  },
+  {
+    "date": "20250809",
+    "time": "3:32 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air unit in the area of X st and 8th st looking for a stolen vehicle"
+  },
+  {
+    "date": "20250809",
+    "time": "6:59 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR assisting ground units around 7th St and J St, looking for 2 subjects that took off in a pursuit"
   }
 ]
