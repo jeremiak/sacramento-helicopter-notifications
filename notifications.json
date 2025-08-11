@@ -20473,5 +20473,26 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "STAR assisting ground units around 7th St and J St, looking for 2 subjects that took off in a pursuit"
+  },
+  {
+    "date": "20250809",
+    "time": "9:05 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisted officers for a domestic violence situation. Subject has been arrested."
+  },
+  {
+    "date": "20250809",
+    "time": "9:23 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisted officers searching the area for a possible assault suspect. Assault determined to be unfounded."
+  },
+  {
+    "date": "20250810",
+    "time": "7:38 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisted units in the area to help search for an assault suspect. This is still an active scene, units are still trying to locate suspects."
   }
 ]
