@@ -20494,5 +20494,75 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Helicopter assisted units in the area to help search for an assault suspect. This is still an active scene, units are still trying to locate suspects."
+  },
+  {
+    "date": "20250811",
+    "time": "1:56 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting officers with locating a suspicious subject in the area. Officers are still working the scene."
+  },
+  {
+    "date": "20250811",
+    "time": "2:25 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisted officers with trying to locate a possibly armed vehicle in a domestic violence case. Officers are still working the scene."
+  },
+  {
+    "date": "20250811",
+    "time": "5:22 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground unit with detaining a subject."
+  },
+  {
+    "date": "20250811",
+    "time": "5:35 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting ground units with locating a suspect vehicle."
+  },
+  {
+    "date": "20250811",
+    "time": "5:49 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Air unit assisting ground units with locating armed suspects and suspect vehicles."
+  },
+  {
+    "date": "20250811",
+    "time": "6:34 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Helicopter assisted officers on a subject stop."
+  },
+  {
+    "date": "20250811",
+    "time": "7:05 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit was assisting officers after possible gunfire was heard. Officers are still working the scene."
+  },
+  {
+    "date": "20250811",
+    "time": "7:40 PM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "Helicopter was assisting officers with locating a possible burglary suspect. The call has been cleared."
+  },
+  {
+    "date": "20250811",
+    "time": "8:07 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter was assisting units with locating a domestic violence subject. Officers are still working the call."
+  },
+  {
+    "date": "20250811",
+    "time": "8:44 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit was assisting officers with locating an at-risk missing person. The missing person was located."
   }
 ]
