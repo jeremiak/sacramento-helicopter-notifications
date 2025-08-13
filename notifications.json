@@ -20564,5 +20564,47 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Air unit was assisting officers with locating an at-risk missing person. The missing person was located."
+  },
+  {
+    "date": "20250812",
+    "time": "12:45 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter assisting officers in the area with a task."
+  },
+  {
+    "date": "20250812",
+    "time": "1:26 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "Air unit assisting ground unit with the search of an armed suspect."
+  },
+  {
+    "date": "20250812",
+    "time": "1:37 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Air units assisting in locating a vandalism suspect."
+  },
+  {
+    "date": "20250812",
+    "time": "4:17 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Helicopter assisting officers with locating a stolen vehicle that was just taken. Officers are still working the call."
+  },
+  {
+    "date": "20250812",
+    "time": "4:59 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground unit with locating bicyclists going against traffic near Del Paso Blvd and Arcade Blvd."
+  },
+  {
+    "date": "20250812",
+    "time": "5:23 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units with searching for an arson suspect."
   }
 ]
