@@ -20606,5 +20606,54 @@
     "neighborhood": "Village 5",
     "beat": "1A",
     "comments": "Air unit assisting ground units with searching for an arson suspect."
+  },
+  {
+    "date": "20250812",
+    "time": "9:33 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "STAR assisted ground units in locating a stolen vehicle in the area of 21st St and X St"
+  },
+  {
+    "date": "20250812",
+    "time": "9:47 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "STAR was assisting CHP with locating a speeding vehicle on Business 80 Westbound near Exposition Blvd"
+  },
+  {
+    "date": "20250812",
+    "time": "9:56 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "STAR assisted ground units by checking the area of Del Paso Rd and El Centro Rd for a stolen vehicle"
+  },
+  {
+    "date": "20250813",
+    "time": "3:36 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "richards blvd and n 6th reports of an armed subject"
+  },
+  {
+    "date": "20250813",
+    "time": "3:46 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "fruitridge and stockton reports of an armed subject"
+  },
+  {
+    "date": "20250813",
+    "time": "3:59 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "47th ave and redding reports of subject using drugs"
+  },
+  {
+    "date": "20250813",
+    "time": "7:09 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "northview and garden hwy checked for subject that were possibly trying to kick in a door"
   }
 ]
