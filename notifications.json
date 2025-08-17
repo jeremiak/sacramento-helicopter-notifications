@@ -20679,6 +20679,13 @@
   },
   {
     "date": "20250815",
+    "time": "10:02 PM",
+    "neighborhood": "West Tahoe Park",
+    "beat": "6B",
+    "comments": "STAR assisted ground units in checking the area of Stockton Blvd and 12th Ave for suspicious activity"
+  },
+  {
+    "date": "20250815",
     "time": "3:06 PM",
     "neighborhood": "Downtown",
     "beat": "3M",
@@ -20711,5 +20718,12 @@
     "neighborhood": "Valleyview Acres",
     "beat": "1A",
     "comments": "AIR1 assisting ground units in the area of E Levee Rd and Barros Dr for shots heard in the area"
+  },
+  {
+    "date": "20250816",
+    "time": "8:49 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Empress / Dixieanne - Monitoring a barricaded subject armed with a weapon inside a residence."
   }
 ]
