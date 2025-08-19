@@ -20767,5 +20767,40 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "Air unit assisting ground unit with locating a large quantity of vehicles near Watt Ave and La Rivera Dr"
+  },
+  {
+    "date": "20250818",
+    "time": "1:56 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisting in search for an assault suspect in area of Woodland Oaks Way and Stonecreek Dr"
+  },
+  {
+    "date": "20250818",
+    "time": "4:08 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Air unit assisting in checking area for a suspicious subj in the area of W st/ 14th st"
+  },
+  {
+    "date": "20250818",
+    "time": "4:15 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting in checking the area for a robbery suspect shining star dr/ franklin blvd"
+  },
+  {
+    "date": "20250818",
+    "time": "8:14 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting in search for suspicious vehicle in the area 7th st and K st"
+  },
+  {
+    "date": "20250818",
+    "time": "8:24 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting in attempt to catch up to a suspect vehicle in area of Power Inn Rd and Calvine Rd"
   }
 ]
