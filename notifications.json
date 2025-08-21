@@ -20809,5 +20809,47 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "Air Unit is assisting in looking for suspicious suspects in the area of Belden St and Acacia Ave"
+  },
+  {
+    "date": "20250820",
+    "time": "1:47 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Helicopter looking for 2 missing juveniles from a school, in the area of Northgate blvd / Wilson ave"
+  },
+  {
+    "date": "20250820",
+    "time": "2:17 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter was looking for a robbery suspect in the area of Arden way/Colfax st"
+  },
+  {
+    "date": "20250820",
+    "time": "3:28 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "Air Unit is assisting in finding a suspicious subject in the area of Freeport Blvd and Florin RD"
+  },
+  {
+    "date": "20250820",
+    "time": "4:49 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting in search for subject who fled from officers in the area of 12TH AVE and 44TH ST"
+  },
+  {
+    "date": "20250820",
+    "time": "5:06 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Alarm call. Checked okay.  6023"
+  },
+  {
+    "date": "20250820",
+    "time": "5:27 PM",
+    "neighborhood": "Tahoe Park",
+    "beat": "6B",
+    "comments": "Assist SSD with an occupied stolen vehicle.  6023"
   }
 ]
