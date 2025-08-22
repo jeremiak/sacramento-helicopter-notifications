@@ -20812,6 +20812,13 @@
   },
   {
     "date": "20250820",
+    "time": "10:28 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Assisted ground units after reports of a stolen vehicle in the area of 16th St. and W St."
+  },
+  {
+    "date": "20250820",
     "time": "1:47 PM",
     "neighborhood": "Northgate",
     "beat": "1C",
@@ -20851,5 +20858,68 @@
     "neighborhood": "Tahoe Park",
     "beat": "6B",
     "comments": "Assist SSD with an occupied stolen vehicle.  6023"
+  },
+  {
+    "date": "20250820",
+    "time": "9:49 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Assisted ground units after reports of someone outside someone's residence in the area of Seavey Cir and McClatchy Way."
+  },
+  {
+    "date": "20250821",
+    "time": "1:38 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "Air unit assisting in searching area of W El Camino Ave and Timberwood Ct for a suspect vehicle."
+  },
+  {
+    "date": "20250821",
+    "time": "1:48 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Check on incomplete 911 call. 6023"
+  },
+  {
+    "date": "20250821",
+    "time": "1:49 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "Air unit assisting after reports of a DUI driver in area of Messina Dr and Carlson Dr"
+  },
+  {
+    "date": "20250821",
+    "time": "1:54 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting in searching area of Harris Ave and Norwood Ave for a robbery suspect."
+  },
+  {
+    "date": "20250821",
+    "time": "3:19 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Air unit assisted in checking area after reports of suspicious activity in area of Lemon Hill Ave and Wilkinson St"
+  },
+  {
+    "date": "20250821",
+    "time": "3:23 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit searching for suspicious subject in area of 58th St and M St"
+  },
+  {
+    "date": "20250821",
+    "time": "3:47 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit assisting after vehicle fled from officers in area of 26th St and J St"
+  },
+  {
+    "date": "20250821",
+    "time": "9:19 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "STAR in the area of Riza ave/ Stockton blvd assisting ground units with reports of a male with a firearm"
   }
 ]
