@@ -20868,6 +20868,34 @@
   },
   {
     "date": "20250821",
+    "time": "10:46 PM",
+    "neighborhood": "",
+    "beat": "2C",
+    "comments": "AIR1 was in the area of Bus 80 eb/ Marconi Ave assisting SSD with a pursuit"
+  },
+  {
+    "date": "20250821",
+    "time": "10:56 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 was in the area of 1532 W El Camino Ave assisting ground units with an assault with injuries"
+  },
+  {
+    "date": "20250821",
+    "time": "11:11 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 assisted ground units in locating a male and female in an argument."
+  },
+  {
+    "date": "20250821",
+    "time": "11:18 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 assisted ground units in looking for a male strangling a female. Units located female and she was not being strangled."
+  },
+  {
+    "date": "20250821",
     "time": "1:38 PM",
     "neighborhood": "Natomas Corporate Center",
     "beat": "1B",
@@ -20921,5 +20949,40 @@
     "neighborhood": "",
     "beat": "6C",
     "comments": "STAR in the area of Riza ave/ Stockton blvd assisting ground units with reports of a male with a firearm"
+  },
+  {
+    "date": "20250822",
+    "time": "2:50 PM",
+    "neighborhood": "",
+    "beat": "7B",
+    "comments": "STAR checked area for an assault suspect."
+  },
+  {
+    "date": "20250822",
+    "time": "3:49 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter assisting ground units with reports of an armed subject in the area of Plaza Ave and Oakmont St. Subjects detained without incident."
+  },
+  {
+    "date": "20250822",
+    "time": "4:29 PM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "Air unit assisting ground unit in locating a suspect vehicle near 60th street and 17th ave"
+  },
+  {
+    "date": "20250822",
+    "time": "9:08 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "Report of subjects possibly trying to break into a business. 6023"
+  },
+  {
+    "date": "20250822",
+    "time": "9:16 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "AIR1 assisted ground units in searching the area for an assault suspect near Arden Way and Harvard St"
   }
 ]
