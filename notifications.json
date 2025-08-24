@@ -20952,6 +20952,20 @@
   },
   {
     "date": "20250822",
+    "time": "10:24 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units in locating a robbery suspect vehicle in the area of Fruitridge Rd and Stockton Blvd"
+  },
+  {
+    "date": "20250822",
+    "time": "10:29 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "AIR1 assisted ground units in checking the area of 6th St and W St for a disturbance"
+  },
+  {
+    "date": "20250822",
     "time": "2:50 PM",
     "neighborhood": "",
     "beat": "7B",
@@ -20984,5 +20998,61 @@
     "neighborhood": "Erikson Industrial Park",
     "beat": "2C",
     "comments": "AIR1 assisted ground units in searching the area for an assault suspect near Arden Way and Harvard St"
+  },
+  {
+    "date": "20250822",
+    "time": "9:20 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "AIR1 assisted ground units in searching the area for an at risk missing person near La Mancha Way and Tangerine Ave"
+  },
+  {
+    "date": "20250823",
+    "time": "2:29 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "The air unit was assisting officers with locating a possible domestic violence suspect in the area. Officers are still working the call."
+  },
+  {
+    "date": "20250823",
+    "time": "3:45 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air unit is assisting officers in the area to locate an at-risk missing person. Police are still working the call."
+  },
+  {
+    "date": "20250823",
+    "time": "3:56 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Air unit was assisting officers for a reported burglary. Officers are still working through the call."
+  },
+  {
+    "date": "20250823",
+    "time": "4:08 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit was helping officers with locating a possibly armed vehicle."
+  },
+  {
+    "date": "20250823",
+    "time": "4:13 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit was assisting officers with locating a domestic violence suspect. Officers are still working the call."
+  },
+  {
+    "date": "20250823",
+    "time": "6:49 PM",
+    "neighborhood": "Greenbrier",
+    "beat": "1A",
+    "comments": "air unit assisted ground units for a possible home invasion near the area of martina ave and highport dr."
+  },
+  {
+    "date": "20250823",
+    "time": "7:48 AM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit was assisting officers with a traffic stop suspect who was uncooperative. Officers are still working the scene."
   }
 ]
