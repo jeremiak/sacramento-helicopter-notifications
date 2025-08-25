@@ -21008,6 +21008,62 @@
   },
   {
     "date": "20250823",
+    "time": "10:51 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air unit assisting ground units with locating a large party near La Riviera Dr and Occidental Dr"
+  },
+  {
+    "date": "20250823",
+    "time": "11:09 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Air unit assisting ground units with located an armed subject near K St and 3rd St"
+  },
+  {
+    "date": "20250823",
+    "time": "11:17 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit assisting ground unit a large group of people in a parking lot near Folsom Blvd and 65th St"
+  },
+  {
+    "date": "20250823",
+    "time": "11:26 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Air unit assisting ground units with locating subjects vandalizing near Folsom Blvd and Ramona Ave"
+  },
+  {
+    "date": "20250823",
+    "time": "11:36 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit assisting ground unit with locating a large party near Folsom Blvd and Santa Ynez Way"
+  },
+  {
+    "date": "20250823",
+    "time": "11:39 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air unit assisting ground unit with locating a large party near La Riviera Dr and Lido Cir"
+  },
+  {
+    "date": "20250823",
+    "time": "11:45 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units with locating possible sounds of gunfire near Marysville Blvd and Grand Ave"
+  },
+  {
+    "date": "20250823",
+    "time": "11:51 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units with locating a suspect near Marysville Blvd and Acacia Ave"
+  },
+  {
+    "date": "20250823",
     "time": "2:29 PM",
     "neighborhood": "Parkway",
     "beat": "5B",
@@ -21054,5 +21110,47 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "Air unit was assisting officers with a traffic stop suspect who was uncooperative. Officers are still working the scene."
+  },
+  {
+    "date": "20250823",
+    "time": "8:47 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Star checking the area after receiving reports of suspicious activity."
+  },
+  {
+    "date": "20250824",
+    "time": "1:42 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit was assisting officers with locating an assault suspect. Officers are still working the call."
+  },
+  {
+    "date": "20250824",
+    "time": "1:57 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter was assisting other units during a vehicle pursuit."
+  },
+  {
+    "date": "20250824",
+    "time": "2:19 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Air unit assisting ground units after reports of a vehicle burglary in the area of W Curtis Dr and 10th Ave"
+  },
+  {
+    "date": "20250824",
+    "time": "2:32 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Air unit assisting ground units with a welfare check in the area of Jibbom street and I st bridge"
+  },
+  {
+    "date": "20250824",
+    "time": "9:22 PM",
+    "neighborhood": "Johnson Heights",
+    "beat": "2B",
+    "comments": "silver eagle rd/mabel st - helicopter assisted with monitoring reports of suspicious activity in the area"
   }
 ]
