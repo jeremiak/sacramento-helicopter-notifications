@@ -21152,5 +21152,26 @@
     "neighborhood": "Johnson Heights",
     "beat": "2B",
     "comments": "silver eagle rd/mabel st - helicopter assisted with monitoring reports of suspicious activity in the area"
+  },
+  {
+    "date": "20250825",
+    "time": "1:57 PM",
+    "neighborhood": "Noralto",
+    "beat": "2C",
+    "comments": "Air unit assisting in looking for robbery suspects in the area of El Camino Ave and Grove Ave"
+  },
+  {
+    "date": "20250825",
+    "time": "2:19 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air unit is assisting in looking for a robbery suspect in the area of Riverside Blvd and Broadway"
+  },
+  {
+    "date": "20250825",
+    "time": "8:32 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "air unit assisted ground units with searching for a stolen vehicle in the area of  florin rd and 24th st."
   }
 ]
