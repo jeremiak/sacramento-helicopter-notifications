@@ -21173,5 +21173,40 @@
     "neighborhood": "Golf Course Terrace",
     "beat": "4B",
     "comments": "air unit assisted ground units with searching for a stolen vehicle in the area of  florin rd and 24th st."
+  },
+  {
+    "date": "20250826",
+    "time": "2:23 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Checking for stolen vehicle. 6023"
+  },
+  {
+    "date": "20250826",
+    "time": "3:16 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Report of two males in a physical altercation. Parties separated per helicopter. 6023"
+  },
+  {
+    "date": "20250826",
+    "time": "3:47 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit is helping ground units with a call for service in the area"
+  },
+  {
+    "date": "20250826",
+    "time": "7:16 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter responded to the area of Marysville Blvd and Arcade Blvd for reports of a person with a gun.  Ground units located the person in question."
+  },
+  {
+    "date": "20250826",
+    "time": "9:18 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "Air unit assisted with checking area for an attempt robbery suspect in the area of Howe ave/Fair Oaks Blvd"
   }
 ]
