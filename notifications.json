@@ -21208,5 +21208,61 @@
     "neighborhood": "Campus Commons",
     "beat": "7B",
     "comments": "Air unit assisted with checking area for an attempt robbery suspect in the area of Howe ave/Fair Oaks Blvd"
+  },
+  {
+    "date": "20250827",
+    "time": "2:40 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air Unit assisting in locating the location of an incident"
+  },
+  {
+    "date": "20250827",
+    "time": "2:49 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air Unit assisting in the search for a possibly armed suspect in the area of Arden Way and Heritage LN"
+  },
+  {
+    "date": "20250827",
+    "time": "3:10 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Air unit is assisting in the search for a subject in the area of 3RD ST and Q ST"
+  },
+  {
+    "date": "20250827",
+    "time": "3:14 PM",
+    "neighborhood": "Scc",
+    "beat": "4A",
+    "comments": "Air unit assisting in searching for a vehicle in the area of Freeport BLVD and Sutterville RD"
+  },
+  {
+    "date": "20250827",
+    "time": "7:09 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units attempt to locate juveniles riding their bikes in the Downtown Commons."
+  },
+  {
+    "date": "20250827",
+    "time": "7:32 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisted the Sacramento Sheriff Department with a failure to yield."
+  },
+  {
+    "date": "20250827",
+    "time": "8:54 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Air unit assisting in the search for multiple vehicles involved with a sideshow in the area of Arden Way and Heritage Ln"
+  },
+  {
+    "date": "20250827",
+    "time": "8:59 PM",
+    "neighborhood": "Parker Homes",
+    "beat": "2A",
+    "comments": "Air unit assisting in the search for a missing person in the area of Macarthur ST and Doolittle ST"
   }
 ]
