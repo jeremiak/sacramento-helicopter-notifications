@@ -21211,6 +21211,20 @@
   },
   {
     "date": "20250827",
+    "time": "10:19 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "STAR is assisting ground units in monitoring subject who pushed a family member and possibly has a knife on him."
+  },
+  {
+    "date": "20250827",
+    "time": "10:43 PM",
+    "neighborhood": "Youngs Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in locating a subject armed with a gun- fun was unfounded."
+  },
+  {
+    "date": "20250827",
     "time": "2:40 PM",
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
@@ -21264,5 +21278,33 @@
     "neighborhood": "Parker Homes",
     "beat": "2A",
     "comments": "Air unit assisting in the search for a missing person in the area of Macarthur ST and Doolittle ST"
+  },
+  {
+    "date": "20250828",
+    "time": "5:50 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Air unit assisting ground unit with locating an armed suspect near Capitol Ave and 18th St"
+  },
+  {
+    "date": "20250828",
+    "time": "7:56 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit checking the area of El Camino and Lexington Street after reports of suspicious activity."
+  },
+  {
+    "date": "20250828",
+    "time": "8:09 PM",
+    "neighborhood": "Freeport Manor",
+    "beat": "4C",
+    "comments": "Air unit assisting ground unit with locating a suspect near Freeport Blvd and Blair Ave"
+  },
+  {
+    "date": "20250828",
+    "time": "8:51 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit checking the area of Roseville Rd and Longview Drive after reports of a possible person in distress."
   }
 ]
