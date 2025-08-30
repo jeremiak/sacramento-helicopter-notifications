@@ -21306,5 +21306,47 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air unit checking the area of Roseville Rd and Longview Drive after reports of a possible person in distress."
+  },
+  {
+    "date": "20250829",
+    "time": "12:39 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 is assisting ground units in searching the area of W El Camino Ave and Truxel Rd for a stolen vehicle"
+  },
+  {
+    "date": "20250829",
+    "time": "1:18 AM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air1 was in the area of 10th/ k st assisting ground units with reports of gunshots. But units did not locate any gunfire."
+  },
+  {
+    "date": "20250829",
+    "time": "2:07 AM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Air1 assisting ground units with a pursuit in the area of Fruitridge rd/Florin Perkins Rd"
+  },
+  {
+    "date": "20250829",
+    "time": "2:29 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit was assisting officers with a critical incident tip at a school. Officers are still working the call to ensure student/citizen safety."
+  },
+  {
+    "date": "20250829",
+    "time": "3:54 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Helicopter unit was assisting officers with a dirt bike pursuit. Officers are still working the call."
+  },
+  {
+    "date": "20250829",
+    "time": "6:51 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Assisted ground units after reports of a sexual assault in the area of Jibboom and Richards."
   }
 ]
