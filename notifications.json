@@ -21309,6 +21309,20 @@
   },
   {
     "date": "20250829",
+    "time": "10:08 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Helicopter assisting ground units in locating a vehicle with a subject who has a felony warrant. Occupants detained, no further incidents."
+  },
+  {
+    "date": "20250829",
+    "time": "10:19 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "Helicopter assisting ground units in locating vehicles involved in a sideshow."
+  },
+  {
+    "date": "20250829",
     "time": "12:39 AM",
     "neighborhood": "South Natomas",
     "beat": "1B",
@@ -21348,5 +21362,54 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "Assisted ground units after reports of a sexual assault in the area of Jibboom and Richards."
+  },
+  {
+    "date": "20250829",
+    "time": "9:24 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Helicopter assisting ground units in locating a subject who was seen trying to break into vehicles. No incidents."
+  },
+  {
+    "date": "20250830",
+    "time": "1:06 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit assisting ground unit with locating a suspect in a pursuit near Bruceville Rd and Jacinto Rd"
+  },
+  {
+    "date": "20250830",
+    "time": "3:54 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter responded to the area of 65th St and Broadway for reports of a stolen car in the area.   Ground units located the car and detained all persons inside the car."
+  },
+  {
+    "date": "20250830",
+    "time": "4:09 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Helicopter responded to the area of Windbridge Dr. and Rush River Dr. for reports of a burglary in progress.  Call was unfounded."
+  },
+  {
+    "date": "20250830",
+    "time": "4:40 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting ground unit with locating a suspicious subject near Rio Linda Blvd and Lampasas Ave."
+  },
+  {
+    "date": "20250830",
+    "time": "6:45 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter responded to the area of 28th St. and P St. to assist an officer on a traffic stop."
+  },
+  {
+    "date": "20250830",
+    "time": "6:53 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter responded to the area of 47th St and Freeman Way for reports of a theft in progress.   Ground units located the suspect."
   }
 ]
