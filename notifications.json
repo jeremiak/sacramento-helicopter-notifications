@@ -21372,6 +21372,13 @@
   },
   {
     "date": "20250830",
+    "time": "10:14 PM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "AIR1 was helping ground units for a call regarding suspicious subjects hiding in a resident's backyard near Kelton Way/Cappucino Way."
+  },
+  {
+    "date": "20250830",
     "time": "1:06 AM",
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
@@ -21411,5 +21418,82 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Helicopter responded to the area of 47th St and Freeman Way for reports of a theft in progress.   Ground units located the suspect."
+  },
+  {
+    "date": "20250831",
+    "time": "12:36 AM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR21 assisting ground units after SHOTSPOTTER activation."
+  },
+  {
+    "date": "20250831",
+    "time": "1:04 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR21 assisting ground units locating a possible armed vehicle in the area of San Juan Rd/Soda Way."
+  },
+  {
+    "date": "20250831",
+    "time": "1:33 AM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "AIR1 - 28th St/J St - Air support responded out to assist ground units disperse a large crowd in the area."
+  },
+  {
+    "date": "20250831",
+    "time": "1:47 AM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "AIR1 - Woodbine Ave/51st Ave - Air support responded out to assist ground units after reports of shots fired in the area. Units still on scene, air support clear from the area."
+  },
+  {
+    "date": "20250831",
+    "time": "3:14 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Air unit was assisting officers with locating a suspect vehicle for a hit and run and an assault. Officers are still working the call."
+  },
+  {
+    "date": "20250831",
+    "time": "3:21 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "Air unit assisting in the search for a possible armed subj in the area of Fair Oaks Blvd and Howe Ave"
+  },
+  {
+    "date": "20250831",
+    "time": "3:47 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Air unit assisting in the search for a reckless driver in the area of I80 EB and Truxel Rd"
+  },
+  {
+    "date": "20250831",
+    "time": "6:02 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "Air unit assisting ground units with locating a subject near R st and 26th st."
+  },
+  {
+    "date": "20250831",
+    "time": "6:08 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting in the search of a possible armed subj in the area of 6TH ST and Capitol Mall"
+  },
+  {
+    "date": "20250831",
+    "time": "6:38 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit in assisting in the search for a stolen vehicle in the area of Boxwood ST and Dixieanne AVE"
+  },
+  {
+    "date": "20250831",
+    "time": "8:09 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground unit with locating a reckless driver near Marysville Blvd and Arcade Blvd"
   }
 ]
