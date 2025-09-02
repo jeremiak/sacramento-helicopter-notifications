@@ -21495,5 +21495,19 @@
     "neighborhood": "Hagginwood",
     "beat": "2B",
     "comments": "Air unit assisting ground unit with locating a reckless driver near Marysville Blvd and Arcade Blvd"
+  },
+  {
+    "date": "20250901",
+    "time": "4:28 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Helicopter assisted officers searching the area for a subject with mental health issues.  Officers are still searching the area for them."
+  },
+  {
+    "date": "20250901",
+    "time": "7:38 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisting officers searching the area for suspicious subject who ran from them."
   }
 ]
