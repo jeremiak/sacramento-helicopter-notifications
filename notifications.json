@@ -21509,5 +21509,54 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "Helicopter assisting officers searching the area for suspicious subject who ran from them."
+  },
+  {
+    "date": "20250902",
+    "time": "1:05 PM",
+    "neighborhood": "Colonial Village",
+    "beat": "7C",
+    "comments": "Air Unit assisting in the search for a wanted subj in the area of Vanderberg Dr and 73rd ST"
+  },
+  {
+    "date": "20250902",
+    "time": "3:18 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "1C",
+    "comments": "Air unit assisting in the search for a possible armed subject in the area of Northgate Blvd and Garden Hwy"
+  },
+  {
+    "date": "20250902",
+    "time": "4:38 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Possible burglary in progress. 6023"
+  },
+  {
+    "date": "20250902",
+    "time": "5:55 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Vehicle pursuit. 6023"
+  },
+  {
+    "date": "20250902",
+    "time": "7:35 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "air unit assisting ground units with searching for a subject that was possibly stealing items in the area of Natomas Blvd."
+  },
+  {
+    "date": "20250902",
+    "time": "7:52 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Assisting SSD with pursuit. 6023"
+  },
+  {
+    "date": "20250902",
+    "time": "8:54 PM",
+    "neighborhood": "Elder Creek",
+    "beat": "6C",
+    "comments": "air assisted ground units searching for a subject trespassing in the area of signal ct."
   }
 ]
