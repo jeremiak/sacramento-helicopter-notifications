@@ -21645,6 +21645,13 @@
   },
   {
     "date": "20250905",
+    "time": "10:34 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 assisted ground units in the area of Watt ave and El camino ave with locating a vehicle regarding a crime in progress."
+  },
+  {
+    "date": "20250905",
     "time": "1:47 PM",
     "neighborhood": "Natomas Creek",
     "beat": "1A",
@@ -21691,5 +21698,82 @@
     "neighborhood": "North City Farms",
     "beat": "4B",
     "comments": "AIR1 assisted ground units in searching the area for assault suspects near Sutterville Rd and Franklin Blvd"
+  },
+  {
+    "date": "20250905",
+    "time": "9:35 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "Air unit assisting ground units with reports of a home break in"
+  },
+  {
+    "date": "20250905",
+    "time": "9:48 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "air unit assisted ground units for reports of a potential break in"
+  },
+  {
+    "date": "20250906",
+    "time": "1:06 AM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air assisted ground units with locating a subject that was running from police"
+  },
+  {
+    "date": "20250906",
+    "time": "1:16 AM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "air assisted ground units with checking area for subjects that ran away from a vehicle accident"
+  },
+  {
+    "date": "20250906",
+    "time": "1:28 AM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air assisting ground units for reports of a subject setting fires"
+  },
+  {
+    "date": "20250906",
+    "time": "3:01 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "riverside and broadway assisting in a mental health issue"
+  },
+  {
+    "date": "20250906",
+    "time": "3:08 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "laguna ranch cir and carlin ave assisting in a domestic violence"
+  },
+  {
+    "date": "20250906",
+    "time": "3:38 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting ground units with locating a trespassed subject near Richards Blvd and Bercut Dr"
+  },
+  {
+    "date": "20250906",
+    "time": "7:03 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units with locating an at-risk missing child near Meadowview Rd / 24th St"
+  },
+  {
+    "date": "20250906",
+    "time": "7:40 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units with locating a suspicious vehicle near Rio Linda Blvd and Grand Ave"
+  },
+  {
+    "date": "20250906",
+    "time": "7:46 PM",
+    "neighborhood": "Richardson Village",
+    "beat": "2B",
+    "comments": "Air Unit assisting ground units with locating suspicious subjects in a backyard near Altos Ave / Acacia Ave"
   }
 ]
