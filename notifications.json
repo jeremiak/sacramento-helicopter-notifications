@@ -21775,5 +21775,68 @@
     "neighborhood": "Richardson Village",
     "beat": "2B",
     "comments": "Air Unit assisting ground units with locating suspicious subjects in a backyard near Altos Ave / Acacia Ave"
+  },
+  {
+    "date": "20250907",
+    "time": "1:09 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "The air unit was assisting officers with reports of a vehicle that crashed into a yard. Officers are still working through the call."
+  },
+  {
+    "date": "20250907",
+    "time": "1:15 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "Air unit was assisting officers with reports of an armed subject. Officers have cleared the area."
+  },
+  {
+    "date": "20250907",
+    "time": "1:57 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit was assisting officers with reports of an armed subject."
+  },
+  {
+    "date": "20250907",
+    "time": "2:15 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter was assisting officers with locating the victim and suspect of an alleged robbery near 28th St."
+  },
+  {
+    "date": "20250907",
+    "time": "2:29 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter was assisting units with a panic alarm at a business. The call has been cleared."
+  },
+  {
+    "date": "20250907",
+    "time": "4:37 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Helicopter assisting another agency on an active call."
+  },
+  {
+    "date": "20250907",
+    "time": "5:20 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "Air unit assisting ground unit with locating an assault suspect near W St and 9th St"
+  },
+  {
+    "date": "20250907",
+    "time": "5:31 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "Air unit assisting ground unit with locating a suspicious subject on 16th St and D st"
+  },
+  {
+    "date": "20250907",
+    "time": "5:46 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting ground unit with locating a stolen vehicle near Bartlett Ln and Royal Rd"
   }
 ]
