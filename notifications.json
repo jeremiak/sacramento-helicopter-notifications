@@ -22027,5 +22027,61 @@
     "neighborhood": "South Natomas",
     "beat": "1C",
     "comments": "STAR assisted ground units in locating a possibly armed person near Northgate Blvd and San Juan Rd"
+  },
+  {
+    "date": "20250911",
+    "time": "9:31 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "STAR helped search the area of Winters St and North Ave for a vehicle involved in a hit and run"
+  },
+  {
+    "date": "20250911",
+    "time": "9:48 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "STAR was checking the area of Broadway and Martin Luther King Jr Blvd for an at risk missing person"
+  },
+  {
+    "date": "20250912",
+    "time": "12:28 AM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 searched the area for a possibly armed subject near Florin Rd and 24th St"
+  },
+  {
+    "date": "20250912",
+    "time": "1:03 AM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 was assisting units on a suspicious activity call."
+  },
+  {
+    "date": "20250912",
+    "time": "1:39 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "AIR1 was assisting units on a SHOTSPOTTER activation."
+  },
+  {
+    "date": "20250912",
+    "time": "1:57 AM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 was assisting units on a felony assault call."
+  },
+  {
+    "date": "20250912",
+    "time": "7:09 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air unit assisting ground units with locating a fleeing suspect vehicle near Riverside Blvd and Lazy River Way"
+  },
+  {
+    "date": "20250912",
+    "time": "9:18 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units to locate a suspect accused of a robbery at knifepoint."
   }
 ]
