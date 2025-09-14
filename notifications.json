@@ -22044,6 +22044,20 @@
   },
   {
     "date": "20250912",
+    "time": "10:17 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisted ground units in trying to find a suicidal subject near Bruceville Rd and Kaiser Driveway"
+  },
+  {
+    "date": "20250912",
+    "time": "11:17 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter responded out for a Shotspotter activation to survey signs of a shooting."
+  },
+  {
+    "date": "20250912",
     "time": "12:28 AM",
     "neighborhood": "Meadowview",
     "beat": "5A",
@@ -22083,5 +22097,68 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Helicopter assisted ground units to locate a suspect accused of a robbery at knifepoint."
+  },
+  {
+    "date": "20250912",
+    "time": "9:30 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Helicopter responded to check for trespassing subjects at a business property."
+  },
+  {
+    "date": "20250913",
+    "time": "12:32 AM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "AIR21 assisted ground units in checking the area of Arena Blvd and Truxel Rd for evidence of a shooting"
+  },
+  {
+    "date": "20250913",
+    "time": "3:18 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 responded for reports of someone with a weapon in the area of Beeston Ave/Melinda Way."
+  },
+  {
+    "date": "20250913",
+    "time": "5:46 PM",
+    "neighborhood": "Tallac Village",
+    "beat": "6B",
+    "comments": "Air unit assisting in the search for a possible robbery suspect in the area of Fruitridge RD and 64TH ST"
+  },
+  {
+    "date": "20250913",
+    "time": "5:57 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air unit assisting in the search for a suspicious subject in the area of Freeport Blvd and 13TH Ave"
+  },
+  {
+    "date": "20250913",
+    "time": "6:46 PM",
+    "neighborhood": "",
+    "beat": "1C",
+    "comments": "Air unit assisting in the search for a possible armed vehicle in the area of Northgate Blvd and N Market Blvd"
+  },
+  {
+    "date": "20250913",
+    "time": "8:58 AM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisted our ground units in the area attempting to locate a stolen vehicle."
+  },
+  {
+    "date": "20250913",
+    "time": "9:01 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Air unit assisting ground unit with locating a vehicle near El Camino Ave and Grove Ave"
+  },
+  {
+    "date": "20250913",
+    "time": "9:10 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground unit with location a missing person near 18th st and 71st Ave"
   }
 ]
