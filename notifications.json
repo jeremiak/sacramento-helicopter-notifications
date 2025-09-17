@@ -22223,5 +22223,54 @@
     "neighborhood": "Village 5",
     "beat": "1A",
     "comments": "AIR1 assisted ground units in locating a stolen vehicle in the area of Del Paso Rd and Truxel Rd"
+  },
+  {
+    "date": "20250916",
+    "time": "3:58 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter responded to the area of 2308 Del Paso Blvd for reports of a robbery in progress"
+  },
+  {
+    "date": "20250916",
+    "time": "6:37 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Helicopter assisted officers in the area searching for a possible robbery suspect.  This was unfounded it was a shoplifting."
+  },
+  {
+    "date": "20250916",
+    "time": "7:39 PM",
+    "neighborhood": "Richardson Village",
+    "beat": "2B",
+    "comments": "Helicopter assisted officers searching for armed subject.  Officers are still working."
+  },
+  {
+    "date": "20250916",
+    "time": "7:47 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "Helicopter assisting officers working a sideshow."
+  },
+  {
+    "date": "20250916",
+    "time": "7:58 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Helicopter assisted officers searching the are after reports of gunshots and were unable to locate."
+  },
+  {
+    "date": "20250916",
+    "time": "8:38 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Assisted ground units after reports of a reckless driver in the area of 44th Ave and Welty Way."
+  },
+  {
+    "date": "20250916",
+    "time": "9:09 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Assisted ground units after reports of a vehicle that was involved in a theft in the area of 19th and Broadway."
   }
 ]
