@@ -22272,5 +22272,33 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "Assisted ground units after reports of a vehicle that was involved in a theft in the area of 19th and Broadway."
+  },
+  {
+    "date": "20250916",
+    "time": "9:19 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "air unit assisted ground units for reports of a fight"
+  },
+  {
+    "date": "20250917",
+    "time": "11:47 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter in the area of Weatherford Way/Grandstaff Dr assisting officer responding to reports of an armed subject."
+  },
+  {
+    "date": "20250917",
+    "time": "12:07 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter in the area of Brentwick Way/Dartford Dr assisting officers responding to a report of a possible prowler."
+  },
+  {
+    "date": "20250917",
+    "time": "8:27 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "air1 assisted ground units with stopping a stolen vehicle"
   }
 ]
