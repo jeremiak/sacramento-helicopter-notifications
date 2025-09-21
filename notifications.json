@@ -22331,9 +22331,58 @@
   },
   {
     "date": "20250919",
+    "time": "10:51 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 was in the area of El camino ave/Erickson st assisting ground units with attempting to locate a domestic violence suspect."
+  },
+  {
+    "date": "20250919",
     "time": "3:09 PM",
     "neighborhood": "Land Park",
     "beat": "4A",
     "comments": "Air unit was assisting officers with locating a reported burglary suspect in the area. Officers have cleared the call."
+  },
+  {
+    "date": "20250920",
+    "time": "10:17 AM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting in the search for a possible stolen vehicle in the area of Howe AVE and EL Camino AVE"
+  },
+  {
+    "date": "20250920",
+    "time": "1:14 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 checked the area for a subject involved in an assault in the area of Valley Hi Dr/Bruceville Rd."
+  },
+  {
+    "date": "20250920",
+    "time": "2:59 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting in the search for a stolen vehicle in the area of Maysville BLVD and South Ave"
+  },
+  {
+    "date": "20250920",
+    "time": "3:19 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisted checking the area of Center Pkwy/Mack Rd for suspicious activity reported."
+  },
+  {
+    "date": "20250920",
+    "time": "3:30 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "STAR checked the area of Norwood Ave/Jessie Ave for a suspect in an assault."
+  },
+  {
+    "date": "20250920",
+    "time": "8:57 AM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting in the search for a suspicious subject in the area of 68TH AVE and 24TH ST"
   }
 ]
