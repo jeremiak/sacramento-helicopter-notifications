@@ -22345,10 +22345,24 @@
   },
   {
     "date": "20250920",
+    "time": "10:16 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "Helicopter assisted to survey area as units were attempting to stop a vehicle that was excessively speeding on the highway."
+  },
+  {
+    "date": "20250920",
     "time": "10:17 AM",
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air unit assisting in the search for a possible stolen vehicle in the area of Howe AVE and EL Camino AVE"
+  },
+  {
+    "date": "20250920",
+    "time": "10:57 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted ground units to survey reports of a sideshow."
   },
   {
     "date": "20250920",
@@ -22384,5 +22398,89 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Air unit assisting in the search for a suspicious subject in the area of 68TH AVE and 24TH ST"
+  },
+  {
+    "date": "20250920",
+    "time": "9:45 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter assisted to survey the area when a reckless driver ran away from officers."
+  },
+  {
+    "date": "20250920",
+    "time": "9:59 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units to survey area for reports of a subject armed with a firearm."
+  },
+  {
+    "date": "20250921",
+    "time": "2:38 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "Air unit was assisting officers with locating a subject reported to be holding a firearm near W El Camino Ave. The subject was unable to be located in the area."
+  },
+  {
+    "date": "20250921",
+    "time": "2:48 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "Helicopter was assisting officers with reports of an assault using a vehicle. Officers are still working through the call."
+  },
+  {
+    "date": "20250921",
+    "time": "2:55 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter was assisting officers with locating a domestic violence suspect in the area. Officers are still working through the call."
+  },
+  {
+    "date": "20250921",
+    "time": "3:55 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter was assisting officers with a misdemeanor assault call in the area of Florin and Franklin. Officers are still handling the call."
+  },
+  {
+    "date": "20250921",
+    "time": "4:34 PM",
+    "neighborhood": "Power Ridge",
+    "beat": "7C",
+    "comments": "Helicopter checked the area of Fruitridge and Power Inn Rd for reports of a child near the railroad tracks.  Neither ground units nor helicopter were unable to locate anything suspicious."
+  },
+  {
+    "date": "20250921",
+    "time": "4:57 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter in the area of Winters St. and I 80 for reports of a person with a rifle/gun.  Ground units located the subject, and it was just a long stick."
+  },
+  {
+    "date": "20250921",
+    "time": "7:06 PM",
+    "neighborhood": "",
+    "beat": "7B",
+    "comments": "Helicopter responded to the area of Jackson Dr. and Florin Perkins Rd. for reports of a side show"
+  },
+  {
+    "date": "20250921",
+    "time": "7:44 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter responded to the area of Tenaya Ave and Natoma St for reports of 2 people in a physical fight."
+  },
+  {
+    "date": "20250921",
+    "time": "8:05 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter responded to the area of Front St and L St for reports of intoxicated citizens that climbed onto construction equipment on the barge along the river."
+  },
+  {
+    "date": "20250921",
+    "time": "8:09 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Helicopter responded to the area of Fruitridge Rd and 65th St. Expy for reports of a possible vehicle accident with injuries."
   }
 ]
