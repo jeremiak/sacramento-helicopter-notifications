@@ -22415,6 +22415,13 @@
   },
   {
     "date": "20250921",
+    "time": "10:08 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Helicopter responded to the area for reports of a male brandishing a firearm."
+  },
+  {
+    "date": "20250921",
     "time": "2:38 PM",
     "neighborhood": "Willowcreek",
     "beat": "1B",
@@ -22482,5 +22489,26 @@
     "neighborhood": "",
     "beat": "7C",
     "comments": "Helicopter responded to the area of Fruitridge Rd and 65th St. Expy for reports of a possible vehicle accident with injuries."
+  },
+  {
+    "date": "20250921",
+    "time": "8:29 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "air unit assisted ground units with an armed vehicle in the area of fowler ave. units stopped the vehicle and located the firearm."
+  },
+  {
+    "date": "20250921",
+    "time": "9:58 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "air unit assisted ground units in the area of power inn rd and ramona ave for a domestic violence call involving a pole."
+  },
+  {
+    "date": "20250922",
+    "time": "1:09 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "Helicopter was assisting officers with locating a suspicious vehicle in the area of Main and Raley Blvd. Officers were unable to locate the vehicle."
   }
 ]
