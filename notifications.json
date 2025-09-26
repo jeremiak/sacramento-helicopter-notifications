@@ -22580,5 +22580,26 @@
     "neighborhood": "Robla",
     "beat": "2A",
     "comments": "Air unit assisting after a large vehicle accident"
+  },
+  {
+    "date": "20250924",
+    "time": "9:39 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "STAR assisted ground units in locating an assault suspect in the area of 43rd Ave and Gloria Dr"
+  },
+  {
+    "date": "20250925",
+    "time": "3:09 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Air unit assisting after reports of a possible wanted subject in area"
+  },
+  {
+    "date": "20250925",
+    "time": "6:38 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Air unit assisting after reports of a robbery"
   }
 ]
