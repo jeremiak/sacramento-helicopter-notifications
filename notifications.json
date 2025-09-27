@@ -22590,6 +22590,13 @@
   },
   {
     "date": "20250925",
+    "time": "10:19 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "STAR assisted ground units who were responding for someone breaking into a vacant house, units were unable to locate anyone."
+  },
+  {
+    "date": "20250925",
     "time": "3:09 PM",
     "neighborhood": "Mansion Flats",
     "beat": "3A",
@@ -22601,5 +22608,47 @@
     "neighborhood": "Northgate",
     "beat": "1C",
     "comments": "Air unit assisting after reports of a robbery"
+  },
+  {
+    "date": "20250926",
+    "time": "1:08 AM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "AIR1 assisted ground units on locating a subject was trying a resident's front door handle, subject was detained."
+  },
+  {
+    "date": "20250926",
+    "time": "3:45 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Air unit assisting in the search for a possible burglary suspect in the area of Armdale Way and Farnell Way"
+  },
+  {
+    "date": "20250926",
+    "time": "7:59 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 was going to assist ground units in searching for a suspicious person near Broadway and Martin Luther King Jr Blvd but was advised to cancel by ground units"
+  },
+  {
+    "date": "20250926",
+    "time": "8:17 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "AIR1 is assisting units in searching the area of Elder Creek Rd and Power Inn Rd for a black SUV"
+  },
+  {
+    "date": "20250926",
+    "time": "8:41 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 checked the area of Presidio St and Roanoke Ave for an armed subject"
+  },
+  {
+    "date": "20250926",
+    "time": "8:43 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "1C",
+    "comments": "AIR1 helped check the area of the bike trail near Del Paso Blvd and Northgate Blvd for a suspicious person"
   }
 ]
