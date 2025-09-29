@@ -22653,6 +22653,34 @@
   },
   {
     "date": "20250927",
+    "time": "10:24 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air Unit assisting ground unit with locating a stolen vehicle near Folsom Blvd and 65th St."
+  },
+  {
+    "date": "20250927",
+    "time": "10:53 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air Unit assisting ground unit with locating a suspect near Rio Linda Blvd and Ford Rd"
+  },
+  {
+    "date": "20250927",
+    "time": "11:09 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Air Unit assisting ground units with locating reckless drivers near Younger Creek Dr and Light Sky Ct"
+  },
+  {
+    "date": "20250927",
+    "time": "11:14 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air Unit assisting ground units with location reckless drivers near Florin Rd and Power Inn Rd"
+  },
+  {
+    "date": "20250927",
     "time": "2:51 PM",
     "neighborhood": "West Del Paso Heights",
     "beat": "2B",
@@ -22664,5 +22692,33 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "Air unit assisting in the search for a suspicious vehicle in the area of 7 St and Railyards Blvd"
+  },
+  {
+    "date": "20250927",
+    "time": "9:49 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Air Unit assisting ground units with locating reckless driving vehicles"
+  },
+  {
+    "date": "20250928",
+    "time": "4:19 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting ground unit with locating a suspect near Vine St and N 7th St"
+  },
+  {
+    "date": "20250928",
+    "time": "6:25 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units with locating a vehicle of interest on Lampasas ave near Edgewater Rd"
+  },
+  {
+    "date": "20250928",
+    "time": "9:08 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting ground unit with locating 2 individuals near Richards Blvd and N 7th St"
   }
 ]
