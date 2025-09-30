@@ -22720,5 +22720,47 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "Air unit assisting ground unit with locating 2 individuals near Richards Blvd and N 7th St"
+  },
+  {
+    "date": "20250929",
+    "time": "1:21 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Helicopter was assisting officers with locating a juvenile who threatened use of a firearm. Officers have detained the subject."
+  },
+  {
+    "date": "20250929",
+    "time": "1:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter was assisting officers with reports of a disturbance between family members. Officers have cleared the call."
+  },
+  {
+    "date": "20250929",
+    "time": "5:35 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "air unit assisted ground units searching the area for a stabbing, nothing found and ground units confirmed no stabbing occured. in the area of r st."
+  },
+  {
+    "date": "20250929",
+    "time": "7:19 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter assisting officers search the area for a missing juvenile."
+  },
+  {
+    "date": "20250929",
+    "time": "8:07 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisting officers on a felony assault traffic stop."
+  },
+  {
+    "date": "20250929",
+    "time": "8:16 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted officers at a vehicle accident. None injury."
   }
 ]
