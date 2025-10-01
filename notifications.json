@@ -22762,5 +22762,68 @@
     "neighborhood": "Hagginwood",
     "beat": "2B",
     "comments": "Helicopter assisted officers at a vehicle accident. None injury."
+  },
+  {
+    "date": "20250930",
+    "time": "2:01 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "Helicopter in the area of Floring Rd/Freeport Blvd assisting officers responding to reports of a person armed with a bat."
+  },
+  {
+    "date": "20250930",
+    "time": "2:27 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter in the area of Harbor Blvd/Evergreen Ave assisting officers making a felony vehicle stop."
+  },
+  {
+    "date": "20250930",
+    "time": "3:39 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Air unit assisted after reports of a possibly armed subject"
+  },
+  {
+    "date": "20250930",
+    "time": "5:07 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "air unit assisted ground units with searching the area for a subject possibly wielding a knife near logan st."
+  },
+  {
+    "date": "20250930",
+    "time": "5:15 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "air unit searching the area for a stolen vehicle, near stockton and gerber."
+  },
+  {
+    "date": "20250930",
+    "time": "5:53 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "air unit searched area for possible drunk driver involved in a hit and run near norwood ave and bell ave."
+  },
+  {
+    "date": "20250930",
+    "time": "7:36 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "air unit searching area for subject possibly armed with a knife near del paso blvd."
+  },
+  {
+    "date": "20250930",
+    "time": "7:40 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "2C",
+    "comments": "Searching for 75 year old missing person."
+  },
+  {
+    "date": "20250930",
+    "time": "8:24 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "air unit assisted ground units with searching for a subjects that possibly broke into a home, no subjects located in the area, near lunar sky walk."
   }
 ]
