@@ -22835,6 +22835,13 @@
   },
   {
     "date": "20251001",
+    "time": "10:22 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in checking the area of Dry Creek Rd and Grace Ave for subjects possibly engaging in theft"
+  },
+  {
+    "date": "20251001",
     "time": "2:51 PM",
     "neighborhood": "",
     "beat": "6C",
@@ -22846,5 +22853,33 @@
     "neighborhood": "Land Park",
     "beat": "4A",
     "comments": "Air unit assisting in the search for a possible armed suspect in the \narea of 5th ST and Broadway"
+  },
+  {
+    "date": "20251002",
+    "time": "5:39 PM",
+    "neighborhood": "Richardson Village",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in looking for an assault suspect near Rio Linda Blvd and Eleanor Ave"
+  },
+  {
+    "date": "20251002",
+    "time": "5:59 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "STAR assisted ground units in checking the area of New Market Dr and Natomas Blvd after reports of a possibly armed subject"
+  },
+  {
+    "date": "20251002",
+    "time": "6:31 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 checked the area of Alhambra Blvd and F St for an armed"
+  },
+  {
+    "date": "20251002",
+    "time": "8:58 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "STAR assisted ground units in trying to locate subjects at a vacant property near Norwood Ave and Jessie Ave"
   }
 ]
