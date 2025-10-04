@@ -22881,5 +22881,61 @@
     "neighborhood": "Glenwood Meadows",
     "beat": "2A",
     "comments": "STAR assisted ground units in trying to locate subjects at a vacant property near Norwood Ave and Jessie Ave"
+  },
+  {
+    "date": "20251003",
+    "time": "1:14 AM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter responded to assist units in surveying the scene for a domestic violence suspect."
+  },
+  {
+    "date": "20251003",
+    "time": "3:11 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit in the area searching for a possible stolen vehicle in the area of Mack Rd and Valley Hi Dr"
+  },
+  {
+    "date": "20251003",
+    "time": "3:19 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Air unit assisting in the search for a possible stolen vehicle in the area of Florin Rd and Greenhaven DR"
+  },
+  {
+    "date": "20251003",
+    "time": "3:52 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting in the search for a possible armed subject in the area of Rio Linda Blvd and Eleanor Ave"
+  },
+  {
+    "date": "20251003",
+    "time": "7:57 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Assisted ground units after reports of an armed vehicle in the area of 28th St and N St."
+  },
+  {
+    "date": "20251003",
+    "time": "8:05 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Assisted ground units after reports of a domestic violence call in the area of Meadowview and 24th St."
+  },
+  {
+    "date": "20251003",
+    "time": "8:20 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3M",
+    "comments": "Assisted ground units after reports of an assault in the area of 14th St and J St."
+  },
+  {
+    "date": "20251003",
+    "time": "8:56 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 was put on a call in error"
   }
 ]
