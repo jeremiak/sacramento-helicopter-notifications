@@ -22937,5 +22937,26 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "AIR1 was put on a call in error"
+  },
+  {
+    "date": "20251004",
+    "time": "12:20 AM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground units with locating reckless drivers"
+  },
+  {
+    "date": "20251004",
+    "time": "12:27 AM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units with locating a vehicle accident near Winterhaven Ave and Northgate Blvd"
+  },
+  {
+    "date": "20251004",
+    "time": "6:31 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground units with locating an armed suspect near Martin Luther King Jr Blvd and Fruitridge Rd"
   }
 ]
