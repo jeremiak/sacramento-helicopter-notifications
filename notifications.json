@@ -23063,5 +23063,61 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "Air unit assisting ground unit a suspect in a vehicle"
+  },
+  {
+    "date": "20251006",
+    "time": "1:38 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Air unit was assisting officers with a burglary in progress call. The residence was clear, and the reported burglary suspect was not located."
+  },
+  {
+    "date": "20251006",
+    "time": "1:48 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter was assisting units with locating a reported subject with a firearm. Officers have since detained this subject."
+  },
+  {
+    "date": "20251006",
+    "time": "1:57 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit was assisting officers with reports of a suspicious subject at a property on Weatherford Way. The subject ended up being an electrical worker replacing meter."
+  },
+  {
+    "date": "20251006",
+    "time": "2:03 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter was assisting officers with reports of a burglary on Westham Way. Officers are still working through the call."
+  },
+  {
+    "date": "20251006",
+    "time": "2:09 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter was assisting officers with searching for a subject reported to have a weapon. The subject has not been located yet."
+  },
+  {
+    "date": "20251006",
+    "time": "2:31 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter was assisting officers with locating a reported suspicious subject near a school off Martin Luther King Jr. Blvd. Officers were not able to locate the subject."
+  },
+  {
+    "date": "20251006",
+    "time": "7:04 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Helicopter assisted officers detaining a male brandishing a knife.  Subject has been detained."
+  },
+  {
+    "date": "20251006",
+    "time": "7:18 PM",
+    "neighborhood": "Elmhurst",
+    "beat": "6B",
+    "comments": "Helicopter is assisting officers working a Helicopter crash."
   }
 ]
