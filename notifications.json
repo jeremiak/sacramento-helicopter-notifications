@@ -23129,9 +23129,72 @@
   },
   {
     "date": "20251008",
+    "time": "11:47 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisting ground units in locating a physical altercation between two males and one male possibly armed with an object. Subjects detained."
+  },
+  {
+    "date": "20251008",
+    "time": "11:56 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter assisting ground units in locating a subject with a gun. No one located. No incidents."
+  },
+  {
+    "date": "20251008",
     "time": "12:14 PM",
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
     "comments": "Air unit assisting in the search for a possible armed subject in the area of El Camino Ave and Del Paso Blvd"
+  },
+  {
+    "date": "20251008",
+    "time": "9:28 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Helicopter assisting ground units in locating a subject who's threatening self-harm with a firearm."
+  },
+  {
+    "date": "20251009",
+    "time": "12:08 AM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisting ground units in locating a subject who was having suicidal ideations. No one located"
+  },
+  {
+    "date": "20251009",
+    "time": "12:17 AM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisting ground units in locating a subject who was seen trying to break into vehicles in the neighborhood. Subject located."
+  },
+  {
+    "date": "20251009",
+    "time": "12:39 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisting ground units in locating a subject who was trying to get into someone's house. Subject located."
+  },
+  {
+    "date": "20251009",
+    "time": "3:19 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Air unit assisting in the search for a possible armed vehicle in the area of P St and 21 St"
+  },
+  {
+    "date": "20251009",
+    "time": "7:12 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Report of vandalism and glass bottles being thrown at people in a vehicle."
+  },
+  {
+    "date": "20251009",
+    "time": "7:25 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Report of someone trying to break into a house."
   }
 ]
