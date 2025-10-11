@@ -23157,6 +23157,13 @@
   },
   {
     "date": "20251009",
+    "time": "11:27 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Assisted ground units after reports of someone possibly armed in the area of Tribute and Exposition."
+  },
+  {
+    "date": "20251009",
     "time": "12:08 AM",
     "neighborhood": "Downtown",
     "beat": "3M",
@@ -23196,5 +23203,19 @@
     "neighborhood": "Avondale",
     "beat": "6C",
     "comments": "Report of someone trying to break into a house."
+  },
+  {
+    "date": "20251010",
+    "time": "12:25 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Assisted ground units after reports of a possible break in near the area of Franklin Blvd and Westham Way."
+  },
+  {
+    "date": "20251010",
+    "time": "4:05 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit is assisting officers with locating an at-risk missing person near East Portal Park. Officers are still working through the call."
   }
 ]
