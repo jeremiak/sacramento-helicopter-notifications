@@ -23217,5 +23217,19 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Air unit is assisting officers with locating an at-risk missing person near East Portal Park. Officers are still working through the call."
+  },
+  {
+    "date": "20251011",
+    "time": "3:03 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air unit assisting in the search for a possible violent subject in the area of Arden Way and Heritage Lane"
+  },
+  {
+    "date": "20251011",
+    "time": "3:42 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit is in the area assisting in the search for possible gunfire near Grand Ave and Marysville Blvd"
   }
 ]
