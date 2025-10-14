@@ -23234,6 +23234,27 @@
   },
   {
     "date": "20251012",
+    "time": "10:02 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air21 responded to the above location to assist patrol units responding to reports of a subject with a weapon."
+  },
+  {
+    "date": "20251012",
+    "time": "10:28 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air21 responded to the above location to assist patrol units responding to reports of shots heard in the area."
+  },
+  {
+    "date": "20251012",
+    "time": "10:37 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air21 responded to the above location to assist patrol units responding to reports of shots fired in the area."
+  },
+  {
+    "date": "20251012",
     "time": "2:16 PM",
     "neighborhood": "Greenhaven",
     "beat": "4C",
@@ -23252,5 +23273,54 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "Air1 responded to the above location to assist patrol responding for reports of an injury, possibly from a weapon."
+  },
+  {
+    "date": "20251012",
+    "time": "8:16 PM",
+    "neighborhood": "Med Center",
+    "beat": "6B",
+    "comments": "Air1 responded to the above location to assist patrol responding for a suspicious vehicle with a possible weapon seen."
+  },
+  {
+    "date": "20251012",
+    "time": "8:34 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Air1 responded to the above location to assist patrol checking the area for reports of shots fired heard nearby."
+  },
+  {
+    "date": "20251012",
+    "time": "8:43 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air1 responded to the above location to assist patrol responding for reports of an assault with a weapon involved."
+  },
+  {
+    "date": "20251012",
+    "time": "9:06 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Air1 responded to the above location to assist patrol units responding to reports of a fight with weapons involved."
+  },
+  {
+    "date": "20251012",
+    "time": "9:15 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air1 responded to the above location to assist patrol units responding to reports of a subject seen in the area with a weapon."
+  },
+  {
+    "date": "20251013",
+    "time": "12:17 AM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air21 responded to the above location to assist patrol units in the area checking on reports of multiple vehicles racing nearby."
+  },
+  {
+    "date": "20251013",
+    "time": "3:21 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "STAR assisted ground units locate a subject reported to have a gun in the area of Del Paso Blvd/Railroad Dr. The subject was detained without incident."
   }
 ]
