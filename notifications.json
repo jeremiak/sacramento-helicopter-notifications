@@ -23322,5 +23322,26 @@
     "neighborhood": "Gardenland",
     "beat": "1C",
     "comments": "STAR assisted ground units locate a subject reported to have a gun in the area of Del Paso Blvd/Railroad Dr. The subject was detained without incident."
+  },
+  {
+    "date": "20251014",
+    "time": "6:25 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "Air unit assisting ground units with a traffic stop"
+  },
+  {
+    "date": "20251014",
+    "time": "7:58 PM",
+    "neighborhood": "Little Pocket",
+    "beat": "4A",
+    "comments": "Air unit assisting ground units with locating a driver from a vehicle accident"
+  },
+  {
+    "date": "20251014",
+    "time": "8:16 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air unit assisting ground with locating someone in distress"
   }
 ]
