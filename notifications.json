@@ -23343,5 +23343,54 @@
     "neighborhood": "Land Park",
     "beat": "4A",
     "comments": "Air unit assisting ground with locating someone in distress"
+  },
+  {
+    "date": "20251014",
+    "time": "9:28 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "STAR was assisting units on a felony assault call."
+  },
+  {
+    "date": "20251014",
+    "time": "9:39 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR was assisting units on a burglary call."
+  },
+  {
+    "date": "20251015",
+    "time": "2:18 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter in the area of Stockton Blvd/2nd Ave assisting officers checking the area for a missing person."
+  },
+  {
+    "date": "20251015",
+    "time": "2:19 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "The helicopter was in the area of L St/17th St assisting officers responding to reports of an armed subject. Officers have a subject detained."
+  },
+  {
+    "date": "20251015",
+    "time": "5:53 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "Report of a 6-year-old unattended walking in the roadway."
+  },
+  {
+    "date": "20251015",
+    "time": "6:48 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Report of a theft from store turned assault on security."
+  },
+  {
+    "date": "20251015",
+    "time": "8:04 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 assisted SSD in a felony stop near Stockton Blvd and Orange Ave"
   }
 ]
