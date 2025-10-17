@@ -23360,6 +23360,13 @@
   },
   {
     "date": "20251015",
+    "time": "11:36 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Assisted ground units in locating a vehicle that was reported to be armed in the area of Marysville and Los Robles."
+  },
+  {
+    "date": "20251015",
     "time": "2:18 PM",
     "neighborhood": "North Oak Park",
     "beat": "6A",
@@ -23392,5 +23399,12 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "AIR1 assisted SSD in a felony stop near Stockton Blvd and Orange Ave"
+  },
+  {
+    "date": "20251016",
+    "time": "8:57 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "Assisted ground units after reports of a theft in the area of Raley Blvd and Santa Ana Ave."
   }
 ]
