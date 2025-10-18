@@ -23406,5 +23406,47 @@
     "neighborhood": "Raley Industrial Park",
     "beat": "2A",
     "comments": "Assisted ground units after reports of a theft in the area of Raley Blvd and Santa Ana Ave."
+  },
+  {
+    "date": "20251016",
+    "time": "9:24 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to area due to reports of a shooting."
+  },
+  {
+    "date": "20251016",
+    "time": "9:37 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to area due to reports of a shooting."
+  },
+  {
+    "date": "20251016",
+    "time": "9:39 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to area due to reports of a shooting."
+  },
+  {
+    "date": "20251017",
+    "time": "3:59 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "STAR assisted ground patrol units in checking the area for a possible crime - Norwood AVE / Fairbanks AVE"
+  },
+  {
+    "date": "20251017",
+    "time": "7:39 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Checking on a report of a vehicle that hit center median and into a field."
+  },
+  {
+    "date": "20251017",
+    "time": "9:04 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "air unit assisting ground units with reports of a home break in"
   }
 ]
