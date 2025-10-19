@@ -23430,6 +23430,20 @@
   },
   {
     "date": "20251017",
+    "time": "11:36 PM",
+    "neighborhood": "Freeport Manor",
+    "beat": "4C",
+    "comments": "air assisted ground units for reports of assault"
+  },
+  {
+    "date": "20251017",
+    "time": "11:48 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "air assisted ground units for reports of assault"
+  },
+  {
+    "date": "20251017",
     "time": "3:59 PM",
     "neighborhood": "West Del Paso Heights",
     "beat": "2B",
@@ -23448,5 +23462,26 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "air unit assisting ground units with reports of a home break in"
+  },
+  {
+    "date": "20251017",
+    "time": "9:28 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "STAR monitoring sideshow activity in the area."
+  },
+  {
+    "date": "20251018",
+    "time": "1:59 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Helicopter was assisting officers with reports of a theft involving a large group of people on J St. Officers were unable to locate the subjects."
+  },
+  {
+    "date": "20251018",
+    "time": "9:15 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "STAR in the area  of Truxel rd/ Arena Blvd making public announcements in regards to a missing 9y/o male"
   }
 ]
