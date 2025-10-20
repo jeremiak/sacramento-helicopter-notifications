@@ -23472,6 +23472,34 @@
   },
   {
     "date": "20251018",
+    "time": "10:33 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units on a shotspotter call."
+  },
+  {
+    "date": "20251018",
+    "time": "10:45 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Air1 in the area assisting ground units near Danville way/Cookingham way for reports of shotspotter activation."
+  },
+  {
+    "date": "20251018",
+    "time": "10:55 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Air1 in the area of Ramona ave/Brighton ave assisting ground units with a weapons call."
+  },
+  {
+    "date": "20251018",
+    "time": "11:40 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 assisted ground units with a pursuit in the area of Del paso blvd/ Pilgrim ct."
+  },
+  {
+    "date": "20251018",
     "time": "1:59 PM",
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
@@ -23483,5 +23511,40 @@
     "neighborhood": "Village 5",
     "beat": "1A",
     "comments": "STAR in the area  of Truxel rd/ Arena Blvd making public announcements in regards to a missing 9y/o male"
+  },
+  {
+    "date": "20251019",
+    "time": "5:09 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units with locating a suspect"
+  },
+  {
+    "date": "20251019",
+    "time": "5:57 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "Air unit was assisting officers with locating a subject reportedly involved in an assault near Granite Regional Park. Officers are still working through the call."
+  },
+  {
+    "date": "20251019",
+    "time": "8:08 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "AIR1 checked area for vehicle involved in a hit and run."
+  },
+  {
+    "date": "20251019",
+    "time": "8:13 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 checked the area for vehicles driving recklessly in area of Delta Shores shopping center."
+  },
+  {
+    "date": "20251019",
+    "time": "8:54 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "STAR assisting ground units after reports of a shooting in area of North Ave/Rio Linda Blvd"
   }
 ]
