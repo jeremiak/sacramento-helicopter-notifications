@@ -23546,5 +23546,61 @@
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
     "comments": "STAR assisting ground units after reports of a shooting in area of North Ave/Rio Linda Blvd"
+  },
+  {
+    "date": "20251020",
+    "time": "2:04 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter in the area of Broadway/ 32nd St assisting officers responding for a subject with a hatchet damaging property."
+  },
+  {
+    "date": "20251020",
+    "time": "3:06 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "STAR checked the area of E St/15th St for a possible robbery suspect."
+  },
+  {
+    "date": "20251020",
+    "time": "4:34 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Air unit assisting in missing persons call"
+  },
+  {
+    "date": "20251020",
+    "time": "5:29 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Air assisting units after reports of sounds of possible shots heard"
+  },
+  {
+    "date": "20251020",
+    "time": "5:38 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air unit assisting after reports of possible stolen vehicle in the area."
+  },
+  {
+    "date": "20251020",
+    "time": "7:39 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted officers searching the area after a ShotSpotter activation.  No shots fired was fireworks."
+  },
+  {
+    "date": "20251020",
+    "time": "8:16 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting units in stopping a reckless driver"
+  },
+  {
+    "date": "20251020",
+    "time": "8:43 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit assisting in search for reckless drivers in the area."
   }
 ]
