@@ -23602,5 +23602,26 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
     "comments": "Air unit assisting in search for reckless drivers in the area."
+  },
+  {
+    "date": "20251021",
+    "time": "1:15 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "air unit responded out to assist ground units with a possible robbery near franklin blvd, incident was not a robbery."
+  },
+  {
+    "date": "20251021",
+    "time": "2:02 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "air unit assisted ground units with a weapon call near arcade blvd."
+  },
+  {
+    "date": "20251021",
+    "time": "2:56 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "air unit assisted ground units with searching for a subject with a gun in the area of hospital dr"
   }
 ]
