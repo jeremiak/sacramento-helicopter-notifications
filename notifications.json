@@ -23605,6 +23605,20 @@
   },
   {
     "date": "20251021",
+    "time": "10:04 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Star responded to the above location to assist patrol units checking for a subject looking in residence windows and acting erratic."
+  },
+  {
+    "date": "20251021",
+    "time": "10:16 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Star responded to the above location to assist patrol units checking the area for reports of possible shots heard in the area."
+  },
+  {
+    "date": "20251021",
     "time": "1:15 PM",
     "neighborhood": "Parkway",
     "beat": "5B",
@@ -23623,5 +23637,19 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "air unit assisted ground units with searching for a subject with a gun in the area of hospital dr"
+  },
+  {
+    "date": "20251021",
+    "time": "9:13 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Star responded to the above location to assist patrol units checking the area for reports of subjects possibly trespassing or breaking into a vacant residence."
+  },
+  {
+    "date": "20251021",
+    "time": "9:33 PM",
+    "neighborhood": "Gateway Center",
+    "beat": "1B",
+    "comments": "Star responded to the above location to assist patrol units checking the area for a subject causing a disturbance with a possible weapon involved."
   }
 ]
