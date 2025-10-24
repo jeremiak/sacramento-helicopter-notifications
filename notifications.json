@@ -23651,5 +23651,40 @@
     "neighborhood": "Gateway Center",
     "beat": "1B",
     "comments": "Star responded to the above location to assist patrol units checking the area for a subject causing a disturbance with a possible weapon involved."
+  },
+  {
+    "date": "20251023",
+    "time": "12:12 AM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in locating a suspicious person in the area of Astoria St and Bell Ave"
+  },
+  {
+    "date": "20251023",
+    "time": "12:37 AM",
+    "neighborhood": "Little Pocket",
+    "beat": "4A",
+    "comments": "AIR1 was en route to Riverside Blvd and 35th Ave to assist CHP"
+  },
+  {
+    "date": "20251023",
+    "time": "12:38 AM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisted ground units in checking the area of Meadowview Rd and 24th St for a possibly armed subject"
+  },
+  {
+    "date": "20251023",
+    "time": "12:54 AM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "air unit assisted ground units with reports subjects looking into a property"
+  },
+  {
+    "date": "20251023",
+    "time": "5:34 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Helicopter assisted ground units with locating an assault suspect."
   }
 ]
