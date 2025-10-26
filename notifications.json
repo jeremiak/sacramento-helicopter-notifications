@@ -23735,5 +23735,47 @@
     "neighborhood": "Csus",
     "beat": "7B",
     "comments": "Assisted Sac State at football game."
+  },
+  {
+    "date": "20251025",
+    "time": "3:13 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air unit assisting in the search for a possible stolen vehicle in the area of Arden Way and Heritage Lane"
+  },
+  {
+    "date": "20251025",
+    "time": "3:28 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting in the search for a possible stolen vehicle in the area of Del Paso Blvd and Evergreen st"
+  },
+  {
+    "date": "20251025",
+    "time": "5:39 PM",
+    "neighborhood": "Natomas Creek",
+    "beat": "1A",
+    "comments": "Helicopter was assisting officers with reports of a juvenile with a weapon in the area of E Commerce Way and Hayground Way. The juvenile was taken into custody."
+  },
+  {
+    "date": "20251025",
+    "time": "5:48 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "Air unit was assisting officers with reports of a subject armed with a firearm off Del Paso Rd near Blackrock Dr. Officers are still investigating."
+  },
+  {
+    "date": "20251025",
+    "time": "6:53 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting ground unit with locating a suspect vehicle"
+  },
+  {
+    "date": "20251025",
+    "time": "6:57 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "Air unit assisting ground unit with locating a missing person"
   }
 ]
