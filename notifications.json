@@ -23738,6 +23738,20 @@
   },
   {
     "date": "20251025",
+    "time": "10:06 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR was assisting ground units about a large party in the area of McKinley Park"
+  },
+  {
+    "date": "20251025",
+    "time": "10:34 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "STAR was assisting units in the area of I 5 and Garden Hwy for a reckless vehicle"
+  },
+  {
+    "date": "20251025",
     "time": "3:13 PM",
     "neighborhood": "Arden Fair",
     "beat": "2C",
@@ -23777,5 +23791,33 @@
     "neighborhood": "Del Paso Park",
     "beat": "2A",
     "comments": "Air unit assisting ground unit with locating a missing person"
+  },
+  {
+    "date": "20251026",
+    "time": "1:46 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "AIR1 checked the area of Redding Ave/San Joaquin St for a domestic violence suspect."
+  },
+  {
+    "date": "20251026",
+    "time": "2:05 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Air unit was assisting units with reports of a male jumping over residential fences near Monaghan Cir. Officers are still working the call."
+  },
+  {
+    "date": "20251026",
+    "time": "2:08 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Helicopter was assisting officers with reports of a robbery involving pepper spray near Seyferth Way and Seco Ct. Officers have located the suspects."
+  },
+  {
+    "date": "20251026",
+    "time": "3:27 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air unit was assisting officers with reports of an armed domestic violence suspect near Steamboat Way. Officers are still working through the call."
   }
 ]
