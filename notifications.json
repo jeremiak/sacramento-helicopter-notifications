@@ -23990,6 +23990,13 @@
   },
   {
     "date": "20251031",
+    "time": "10:03 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "air unit assisted ground units with finding a stolen vehicle"
+  },
+  {
+    "date": "20251031",
     "time": "12:14 AM",
     "neighborhood": "Northgate",
     "beat": "1C",
@@ -24015,5 +24022,68 @@
     "neighborhood": "Raley Industrial Park",
     "beat": "2A",
     "comments": "Air unit assisting ground units with locating a vehicle"
+  },
+  {
+    "date": "20251031",
+    "time": "9:26 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Assisted ground units with a pursuit in the area of West Sacramento"
+  },
+  {
+    "date": "20251101",
+    "time": "12:26 AM",
+    "neighborhood": "Natomas Creek",
+    "beat": "1A",
+    "comments": "Assisted ground units after reports of a shooting in the area of Greg Thatch Cir and E Commerce Way."
+  },
+  {
+    "date": "20251101",
+    "time": "12:35 AM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Assisted ground units after reports of a shooting in the area of Arena Blvd and Duckhorn Dr."
+  },
+  {
+    "date": "20251101",
+    "time": "12:46 AM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Assisted ground units after reports of a large party near the area of Del Paso Blvd and El Camino Ave."
+  },
+  {
+    "date": "20251101",
+    "time": "1:00 AM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "air unit was assisting ground units with reports of armed subject"
+  },
+  {
+    "date": "20251101",
+    "time": "4:38 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 checked area to locate a possibly domestic violence situation in progress."
+  },
+  {
+    "date": "20251101",
+    "time": "4:47 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 was looking for subject who was possibly looking into other people's driveways."
+  },
+  {
+    "date": "20251101",
+    "time": "6:26 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "STAR monitoring a grand theft subject actively using stolen items at store."
+  },
+  {
+    "date": "20251101",
+    "time": "8:39 PM",
+    "neighborhood": "Westlake",
+    "beat": "1A",
+    "comments": "AIR21 attempting to locate a possibly armed subject."
   }
 ]
