@@ -24085,5 +24085,54 @@
     "neighborhood": "Westlake",
     "beat": "1A",
     "comments": "AIR21 attempting to locate a possibly armed subject."
+  },
+  {
+    "date": "20251101",
+    "time": "9:37 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "Star responded to the area of Northgate Blvd and Garden Highway to assist patrol checking a business for possible suspicious activity."
+  },
+  {
+    "date": "20251102",
+    "time": "1:40 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground units after reports of a suspicious vehicle in the area of Del Paso Rd and E Levee Rd"
+  },
+  {
+    "date": "20251102",
+    "time": "3:48 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Air1 assisted ground units locate three subjects near light rail station after reports one subject had a gun. All subjects were detained without incident near Arden Way/Del Paso Blvd."
+  },
+  {
+    "date": "20251102",
+    "time": "6:49 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Air unit was assisting officers with reports of a hit and run with injuries near St. Mary's Cemetery."
+  },
+  {
+    "date": "20251102",
+    "time": "6:57 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground unit with locating a suspect vehicle"
+  },
+  {
+    "date": "20251102",
+    "time": "7:07 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "Air unit assisting ground unit with locating a suspect"
+  },
+  {
+    "date": "20251102",
+    "time": "7:16 PM",
+    "neighborhood": "Oak Knoll",
+    "beat": "2A",
+    "comments": "Air unit assisting ground unit locating a vehicle"
   }
 ]
