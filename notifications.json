@@ -24148,5 +24148,33 @@
     "neighborhood": "Newton Booth",
     "beat": "3A",
     "comments": "Helicopter responded to the location near 19th St and T st for reports of someone on the roof.  No persons observed on the roof."
+  },
+  {
+    "date": "20251105",
+    "time": "9:29 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisting ground units in a sideshow"
+  },
+  {
+    "date": "20251106",
+    "time": "2:56 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit assisting ground units after reports of a subject with a weapon in the area of Mack RD / Valley Hi Drive"
+  },
+  {
+    "date": "20251106",
+    "time": "5:51 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting ground units with locating an armed subject."
+  },
+  {
+    "date": "20251106",
+    "time": "6:37 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units with locating the sounds of gunfire"
   }
 ]
