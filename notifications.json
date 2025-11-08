@@ -24176,5 +24176,54 @@
     "neighborhood": "Noralto",
     "beat": "2B",
     "comments": "Air unit assisting ground units with locating the sounds of gunfire"
+  },
+  {
+    "date": "20251106",
+    "time": "8:35 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting on a call involving a possible weapon"
+  },
+  {
+    "date": "20251106",
+    "time": "8:57 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting after reports of an altercation with a weapon"
+  },
+  {
+    "date": "20251106",
+    "time": "9:09 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Air unit assisting after reports of possibly armed subject"
+  },
+  {
+    "date": "20251106",
+    "time": "9:26 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisted ground units on locating suspicious subjects in the area of Sheldon Rd and Center Pkwy"
+  },
+  {
+    "date": "20251106",
+    "time": "9:37 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "AIR1 checked the area of American River Bike Trail near the Guy West Bridge for a subject possibly yelling for help"
+  },
+  {
+    "date": "20251107",
+    "time": "12:15 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisted ground units with locating an assault in the area of Stonecreek Dr and W El Camino Ave"
+  },
+  {
+    "date": "20251107",
+    "time": "6:33 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "STAR was en route to assist units to locate a possible felony vehicle in the area of Northgate Blvd and San Juan Rd"
   }
 ]
