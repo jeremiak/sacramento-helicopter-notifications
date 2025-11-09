@@ -24225,5 +24225,26 @@
     "neighborhood": "Gardenland",
     "beat": "1C",
     "comments": "STAR was en route to assist units to locate a possible felony vehicle in the area of Northgate Blvd and San Juan Rd"
+  },
+  {
+    "date": "20251107",
+    "time": "9:19 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted ground units to survey area after a Shotspotter activation."
+  },
+  {
+    "date": "20251108",
+    "time": "3:29 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting in the search for a possible stolen vehicle in the area of Northgate Blvd. and del paso road"
+  },
+  {
+    "date": "20251108",
+    "time": "6:14 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Air unit assisting ground units with a pursuit"
   }
 ]
