@@ -24246,5 +24246,26 @@
     "neighborhood": "Florin Fruitridge Industrial Park",
     "beat": "6C",
     "comments": "Air unit assisting ground units with a pursuit"
+  },
+  {
+    "date": "20251109",
+    "time": "3:20 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR assisted ground patrol units in searching for a suspect - K ST/ 5TH ST"
+  },
+  {
+    "date": "20251109",
+    "time": "3:46 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "STAR assisted ground patrol units in searching for a suspect - Stockton BLVD / 21st AVE"
+  },
+  {
+    "date": "20251109",
+    "time": "4:45 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting ground unit locating an armed suspect"
   }
 ]
