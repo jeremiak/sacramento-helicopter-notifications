@@ -24267,5 +24267,61 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "Air unit assisting ground unit locating an armed suspect"
+  },
+  {
+    "date": "20251110",
+    "time": "1:35 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter was assisting units with what sounded like a vehicle accident in the area of Luther Dr and Florin Rd. Helicopter and officers were unable to locate a vehicle accident."
+  },
+  {
+    "date": "20251110",
+    "time": "1:49 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Helicopter was assisting units with reports of a stolen vehicle in progress near Ramona Ave and Cucamonga Ave. Officers have detained the primary suspect."
+  },
+  {
+    "date": "20251110",
+    "time": "2:13 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit was assisting officers with reports of an at-risk missing teenager near H St and San Antonio Way. Officers are still working through the call."
+  },
+  {
+    "date": "20251110",
+    "time": "4:21 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit finding location of a vehicle accident"
+  },
+  {
+    "date": "20251110",
+    "time": "4:27 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "Air unit looking for vehicle possibly involved in a crime"
+  },
+  {
+    "date": "20251110",
+    "time": "5:38 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting after reports of possible stolen vehicle in the area"
+  },
+  {
+    "date": "20251110",
+    "time": "7:09 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Air unit assisting after possible sounds of shots in area"
+  },
+  {
+    "date": "20251110",
+    "time": "7:38 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "AIR1 was assisting ground units search for a possibly armed suspect in the area of the Florin Road Light Rail station."
   }
 ]
