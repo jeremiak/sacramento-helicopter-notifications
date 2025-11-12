@@ -24323,5 +24323,40 @@
     "neighborhood": "Woodbine",
     "beat": "4B",
     "comments": "AIR1 was assisting ground units search for a possibly armed suspect in the area of the Florin Road Light Rail station."
+  },
+  {
+    "date": "20251110",
+    "time": "9:16 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "air unit was searching area for suspect involved in a felony assault with a weapon near taylor st"
+  },
+  {
+    "date": "20251110",
+    "time": "9:36 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "air unit checked area for possible suspect involved in a felony assault near main ave"
+  },
+  {
+    "date": "20251111",
+    "time": "1:26 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted sheriff who was following a vehicle."
+  },
+  {
+    "date": "20251111",
+    "time": "2:06 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisting officers in the area"
+  },
+  {
+    "date": "20251111",
+    "time": "2:13 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted officers making a traffic stop and making an arrest."
   }
 ]
