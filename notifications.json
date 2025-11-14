@@ -24361,9 +24361,65 @@
   },
   {
     "date": "20251112",
+    "time": "10:36 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisting ground units in locating a female who was trying to hit a male with her vehicle."
+  },
+  {
+    "date": "20251112",
     "time": "8:17 PM",
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Helicopter assisted ground units attempt to locate stolen property."
+  },
+  {
+    "date": "20251112",
+    "time": "9:16 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR checked the area of 45th St and J St for sounds of gunshots in the area, no signs of a shooting were located"
+  },
+  {
+    "date": "20251112",
+    "time": "9:36 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted ground units in locating a group of subjects possibly breaking into vehicles."
+  },
+  {
+    "date": "20251112",
+    "time": "9:44 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Helicopter assisting ground units in monitoring any sideshow activity."
+  },
+  {
+    "date": "20251113",
+    "time": "7:27 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting ground units with locating a suspect"
+  },
+  {
+    "date": "20251113",
+    "time": "7:30 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground units"
+  },
+  {
+    "date": "20251113",
+    "time": "7:48 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units with locating a suspect"
+  },
+  {
+    "date": "20251113",
+    "time": "7:59 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units with locating a reckless and hazardous driver"
   }
 ]
