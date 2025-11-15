@@ -24421,5 +24421,33 @@
     "neighborhood": "South Natomas",
     "beat": "1C",
     "comments": "Air unit assisting ground units with locating a reckless and hazardous driver"
+  },
+  {
+    "date": "20251113",
+    "time": "8:05 PM",
+    "neighborhood": "Westlake",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units with locating a suspicious vehicle"
+  },
+  {
+    "date": "20251114",
+    "time": "4:08 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR checked the area of K St/7th St for a robbery suspect."
+  },
+  {
+    "date": "20251114",
+    "time": "4:56 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Air unit assisting ground units are reports of suspicious activity in the area of Stockton Blvd and 63rd St"
+  },
+  {
+    "date": "20251114",
+    "time": "7:27 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR assisted ground units in the area of 37th Street and 45th Avenue for a vehicle pursuit."
   }
 ]
