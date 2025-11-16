@@ -24431,6 +24431,13 @@
   },
   {
     "date": "20251114",
+    "time": "10:07 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Star assisting ground units in the area of 8184 Delta Shores Cir S for reports of a robbery."
+  },
+  {
+    "date": "20251114",
     "time": "4:08 PM",
     "neighborhood": "Downtown",
     "beat": "3M",
@@ -24449,5 +24456,47 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "STAR assisted ground units in the area of 37th Street and 45th Avenue for a vehicle pursuit."
+  },
+  {
+    "date": "20251114",
+    "time": "8:27 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Air1 was in the area of Gloria dr/Lake park dr to assist ground units with a weapons call"
+  },
+  {
+    "date": "20251114",
+    "time": "9:07 PM",
+    "neighborhood": "Belvedere",
+    "beat": "7C",
+    "comments": "Star was in the area of Amador ave/ Power inn rd assisting ground units with a stolen vehicle."
+  },
+  {
+    "date": "20251114",
+    "time": "9:47 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Assisted ground units after reports of an assault near Loma Verde Way and Pulsar Cir"
+  },
+  {
+    "date": "20251114",
+    "time": "9:56 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Star was in the area of Tamoshanter way/ Oneil way assisting ground units with a silent burglary alarm."
+  },
+  {
+    "date": "20251115",
+    "time": "6:19 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units with locating an at-risk missing person"
+  },
+  {
+    "date": "20251115",
+    "time": "7:19 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit assisting ground unit with locating a suspect"
   }
 ]
