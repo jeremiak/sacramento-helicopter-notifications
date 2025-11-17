@@ -24498,5 +24498,19 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
     "comments": "Air unit assisting ground unit with locating a suspect"
+  },
+  {
+    "date": "20251116",
+    "time": "3:37 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "STAR assisted ground patrol units with a call for service in the area of 5th ST / Seavey CIR"
+  },
+  {
+    "date": "20251116",
+    "time": "3:47 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisted ground patrol units with an alarm call - C ST / Lanatt ST"
   }
 ]
