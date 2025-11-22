@@ -24540,5 +24540,40 @@
     "neighborhood": "Greenhaven",
     "beat": "4C",
     "comments": "Report of people loitering, selling drugs, and one has a handgun.  Appeared unfounded."
+  },
+  {
+    "date": "20251121",
+    "time": "2:50 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter was assisting units with reports of a shooting near Harris Ave and Cypress St. Officers are on scene working through the call now."
+  },
+  {
+    "date": "20251121",
+    "time": "3:48 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 checked the area of Truxel Rd/W El Camino Ave on a report of a subject exposing themselves."
+  },
+  {
+    "date": "20251121",
+    "time": "4:07 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "AIR1 checked on reports of a fight in the area of Riverside Blvd/Florin Rd."
+  },
+  {
+    "date": "20251121",
+    "time": "4:14 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Air unit assisting in the search for juveniles in the roadway in the area of Truxel Rd and Gateway Park Blvd"
+  },
+  {
+    "date": "20251121",
+    "time": "7:18 PM",
+    "neighborhood": "Colonial Village",
+    "beat": "7C",
+    "comments": "Star unit assisting in the search for a suspicious subject in the area of 21st AVE and 71st ST"
   }
 ]
