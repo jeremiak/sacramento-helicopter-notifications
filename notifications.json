@@ -24543,6 +24543,20 @@
   },
   {
     "date": "20251121",
+    "time": "10:18 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "AIR1 is assisting ground units in checking the area of Riverside Blvd and Florin Rd after reports of a burglary."
+  },
+  {
+    "date": "20251121",
+    "time": "10:29 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4A",
+    "comments": "AIR1 assisted ground units in checking the area of Freeport Blvd and Irvin Way for a possible break-in"
+  },
+  {
+    "date": "20251121",
     "time": "2:50 PM",
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
@@ -24575,5 +24589,12 @@
     "neighborhood": "Colonial Village",
     "beat": "7C",
     "comments": "Star unit assisting in the search for a suspicious subject in the area of 21st AVE and 71st ST"
+  },
+  {
+    "date": "20251121",
+    "time": "9:55 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "AIR1 was assisting units in trying to locate an armed subject in the area of Evergreen St and Dixieanne Ave"
   }
 ]
