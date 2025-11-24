@@ -24596,5 +24596,33 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
     "comments": "AIR1 was assisting units in trying to locate an armed subject in the area of Evergreen St and Dixieanne Ave"
+  },
+  {
+    "date": "20251123",
+    "time": "2:09 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Air unit was assisting officers with reports of a domestic violence subject who was possibly armed in the area of Franklin and 14th. Officers are still working through the call."
+  },
+  {
+    "date": "20251123",
+    "time": "3:04 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter was assisting officers with reports of a subject armed with a gun near Stockton Blvd and Broadway. The subject has been detained."
+  },
+  {
+    "date": "20251123",
+    "time": "4:48 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground unit with locating an individual"
+  },
+  {
+    "date": "20251123",
+    "time": "5:48 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Air unit assisting ground unit in locating a subject"
   }
 ]
