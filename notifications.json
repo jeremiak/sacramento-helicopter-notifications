@@ -24624,5 +24624,26 @@
     "neighborhood": "Parkway",
     "beat": "5C",
     "comments": "Air unit assisting ground unit in locating a subject"
+  },
+  {
+    "date": "20251125",
+    "time": "4:46 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "i 5 sb/pocket rd - helicopter assisted with surveillance"
+  },
+  {
+    "date": "20251125",
+    "time": "5:24 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "delta shores cir s/cosumnes river blvd - helicopter assisted with surveillance"
+  },
+  {
+    "date": "20251125",
+    "time": "6:20 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "raley blvd/doolittle st - helicopter assisted with monitoring a foot pursuit"
   }
 ]
