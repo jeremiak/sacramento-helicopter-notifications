@@ -24659,5 +24659,33 @@
     "neighborhood": "Del Paso Park",
     "beat": "2A",
     "comments": "Air Unit assisting ground units after reports of a stolen vehicle in the area of Howe Ave and Auburn Blvd"
+  },
+  {
+    "date": "20251201",
+    "time": "1:56 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit was assisting officers with reports of a robbery suspect near Mack Rd and Valley Hi Dr. Officers are still working the call and have made contact with the suspect."
+  },
+  {
+    "date": "20251201",
+    "time": "4:23 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units with locating a person of interest"
+  },
+  {
+    "date": "20251201",
+    "time": "4:34 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground unit with locating a suspect vehicle"
+  },
+  {
+    "date": "20251201",
+    "time": "5:13 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units with locating a suspect"
   }
 ]
