@@ -24687,5 +24687,26 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "Air unit assisting ground units with locating a suspect"
+  },
+  {
+    "date": "20251202",
+    "time": "12:30 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisted ground units."
+  },
+  {
+    "date": "20251202",
+    "time": "1:39 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "Helicopter assisted officers searching area for a hit and run suspect vehicle"
+  },
+  {
+    "date": "20251202",
+    "time": "2:08 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "Report of someone armed with a gun."
   }
 ]
