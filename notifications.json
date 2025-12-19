@@ -24799,5 +24799,33 @@
     "neighborhood": "River Park",
     "beat": "7B",
     "comments": "AIR1 assisted ground units in a suspicious circumstances call in the area of Elvas Ave and H St"
+  },
+  {
+    "date": "20251218",
+    "time": "3:38 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Star unit assisting in the search for a violent suspect in the area of Folsom Blvd and Jackson Rd"
+  },
+  {
+    "date": "20251218",
+    "time": "5:11 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground units are reports of a subject in the roadway in the area of Auburn Blvd and Morse Ave"
+  },
+  {
+    "date": "20251218",
+    "time": "5:39 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Air units assisting ground units after reports of a missing person in the area of Haggin Ave and Northgate Blvd"
+  },
+  {
+    "date": "20251218",
+    "time": "5:59 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Air unit assisting ground units after reports of a stolen vehicle in the area of Florin Rd / 24th st"
   }
 ]
