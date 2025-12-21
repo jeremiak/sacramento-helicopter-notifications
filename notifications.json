@@ -24827,5 +24827,47 @@
     "neighborhood": "Woodbine",
     "beat": "4B",
     "comments": "Air unit assisting ground units after reports of a stolen vehicle in the area of Florin Rd / 24th st"
+  },
+  {
+    "date": "20251218",
+    "time": "8:43 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "AIR1 assisted ground units in trying to locate a subject that ran from EGPD and SSD."
+  },
+  {
+    "date": "20251220",
+    "time": "5:33 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of Del Paso Blvd and Taft St"
+  },
+  {
+    "date": "20251220",
+    "time": "6:07 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of Grand Ave and Elm St"
+  },
+  {
+    "date": "20251220",
+    "time": "7:18 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units with locating an armed subject"
+  },
+  {
+    "date": "20251220",
+    "time": "7:27 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Air unit assisting ground units with locating 2 subjects in an altercation"
+  },
+  {
+    "date": "20251220",
+    "time": "7:28 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air units assisting ground units with locating a possible armed subject"
   }
 ]
