@@ -24869,5 +24869,68 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Air units assisting ground units with locating a possible armed subject"
+  },
+  {
+    "date": "20251220",
+    "time": "8:29 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units after reports of an armed vehicle in the area of Binghamton Dr and Northern Sky Place"
+  },
+  {
+    "date": "20251221",
+    "time": "12:39 AM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit was assisting officers with locating a felony vehicle. Officers detained and arrested the suspect."
+  },
+  {
+    "date": "20251221",
+    "time": "1:06 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter unit was assisting officers with reports of a brandishing at the Consumnes River Light Rail Station. Officers are still working through the call."
+  },
+  {
+    "date": "20251221",
+    "time": "1:39 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Helicopter was assisting officers with reports of an assault at the Eskaton Care Center. Officers are working through the call."
+  },
+  {
+    "date": "20251221",
+    "time": "3:14 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Air unit was assisting officers with reports of a disturbance involving a weapon near Spinel Cir. Officers responded out and mediated the situation."
+  },
+  {
+    "date": "20251221",
+    "time": "3:30 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit was assisting officers with locating a wanted vehicle near Cal Expo. California Highway Patrol was notified and took the case over."
+  },
+  {
+    "date": "20251221",
+    "time": "3:55 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit was assisting officers with a felony vehicle sighting near Arden Way and Fulton Ave. Officers are still working through the call."
+  },
+  {
+    "date": "20251221",
+    "time": "6:59 PM",
+    "neighborhood": "",
+    "beat": "1B",
+    "comments": "Air unit assisting ground units with locating a possible burglary"
+  },
+  {
+    "date": "20251221",
+    "time": "7:57 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units with locating a suspicious subject"
   }
 ]
