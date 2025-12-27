@@ -24988,5 +24988,47 @@
     "neighborhood": "Swanston Estates",
     "beat": "2C",
     "comments": "STAR was assisting ground units with a possible vehicle burglary in the area of El Camino Ave and Albatross Way"
+  },
+  {
+    "date": "20251226",
+    "time": "6:09 PM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "Air unit assisting ground units after reports of a domestic violence in the area of 58th st and 60th st"
+  },
+  {
+    "date": "20251226",
+    "time": "6:15 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air units assisting ground units after reports of sounds of gun shots in the area of Frienza Ave and Olivera way"
+  },
+  {
+    "date": "20251226",
+    "time": "6:19 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of gun shots heard in the area of Berger Ave and Rio Linda Blvd"
+  },
+  {
+    "date": "20251226",
+    "time": "6:29 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air units assisting ground units are reports of an assault in the area of Heritage Ln and Arden Way"
+  },
+  {
+    "date": "20251226",
+    "time": "6:35 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting ground units after reports of an assault in the area of Coral Gables Ct and Meadowview Rd"
+  },
+  {
+    "date": "20251226",
+    "time": "7:49 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground units are reports of a stolen vehicle in the area of Power Inn Rd and Auberry Dr"
   }
 ]
