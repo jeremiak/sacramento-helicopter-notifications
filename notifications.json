@@ -25030,5 +25030,47 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air unit assisting ground units are reports of a stolen vehicle in the area of Power Inn Rd and Auberry Dr"
+  },
+  {
+    "date": "20251226",
+    "time": "9:22 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "air units assisted ground units with reports of a subject walking with an axe"
+  },
+  {
+    "date": "20251227",
+    "time": "12:18 AM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "AIR1 assisted ground units in a possibly robbery."
+  },
+  {
+    "date": "20251227",
+    "time": "12:48 AM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "air unit assisted outside agency with a footbail"
+  },
+  {
+    "date": "20251227",
+    "time": "4:06 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Satr unit assisting in the search for a possible assault suspect in the area of W Stockton Blvd and Kastanis Way"
+  },
+  {
+    "date": "20251227",
+    "time": "6:55 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting ground units with a traffic stop"
+  },
+  {
+    "date": "20251227",
+    "time": "7:19 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Air unit assisting ground units with locating an armed subject"
   }
 ]
