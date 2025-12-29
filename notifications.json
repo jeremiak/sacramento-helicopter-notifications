@@ -25072,5 +25072,54 @@
     "neighborhood": "Greenhaven",
     "beat": "4C",
     "comments": "Air unit assisting ground units with locating an armed subject"
+  },
+  {
+    "date": "20251228",
+    "time": "3:00 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground patrol units in conducting a welfare check - W River DR / Shady Arbor DR"
+  },
+  {
+    "date": "20251228",
+    "time": "4:56 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Air Unit assisting ground units after reports of an alarm going off in the area of 2nd St and I st"
+  },
+  {
+    "date": "20251228",
+    "time": "5:03 PM",
+    "neighborhood": "Noralto",
+    "beat": "2C",
+    "comments": "Air unit assisting ground units are reports of a burglary in the area of Redwood Ave and Standford Ave"
+  },
+  {
+    "date": "20251228",
+    "time": "5:19 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of 15th st and 16th st"
+  },
+  {
+    "date": "20251228",
+    "time": "7:47 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Air unit assisting ground units after reports of a missing person in the area of Arena Commons Driveway and Arco Arena East Entrance"
+  },
+  {
+    "date": "20251228",
+    "time": "8:10 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of Butterworth Ave and Ford Rd"
+  },
+  {
+    "date": "20251228",
+    "time": "8:11 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of Nordyke Dr and Northview Dr"
   }
 ]
