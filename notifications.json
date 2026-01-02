@@ -25135,5 +25135,19 @@
     "neighborhood": "New Brighton",
     "beat": "7C",
     "comments": "AIR23 unit assisting in the search of a possible break in in the area of S Watt Ave and Fruitridge Rd"
+  },
+  {
+    "date": "20260101",
+    "time": "3:26 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "Helicopter checked the area for reports of a suspicious subject. They were unable to locate the subject."
+  },
+  {
+    "date": "20260101",
+    "time": "6:07 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units with a vehicle pursuit call."
   }
 ]
