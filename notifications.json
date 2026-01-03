@@ -25149,5 +25149,26 @@
     "neighborhood": "Noralto",
     "beat": "2B",
     "comments": "Helicopter assisted ground units with a vehicle pursuit call."
+  },
+  {
+    "date": "20260102",
+    "time": "3:36 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "Air unit was assisting officers with apprehending a wanted suspect near Ramona and Power Inn Rd. Officers are still working through the call."
+  },
+  {
+    "date": "20260102",
+    "time": "6:14 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Air unit assisting ground units with locating a suspect with a weapon."
+  },
+  {
+    "date": "20260102",
+    "time": "6:26 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Air unit assisting ground units with locating a vehicle accident"
   }
 ]
