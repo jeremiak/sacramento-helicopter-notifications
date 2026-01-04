@@ -25170,5 +25170,54 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "Air unit assisting ground units with locating a vehicle accident"
+  },
+  {
+    "date": "20260102",
+    "time": "8:35 PM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units with locating a suspect vehicle"
+  },
+  {
+    "date": "20260103",
+    "time": "12:07 AM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 is assisting ground units look for a domestic violence suspect near John Still Dr/22nd St."
+  },
+  {
+    "date": "20260103",
+    "time": "12:36 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisted ground patrol units in searching for a possible hurt subject - Bruceville / Imagination"
+  },
+  {
+    "date": "20260103",
+    "time": "3:40 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "Air unit checking area after reports of a vehicle accident on the freeway"
+  },
+  {
+    "date": "20260103",
+    "time": "3:45 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Air unit checking area after reports of an assualt"
+  },
+  {
+    "date": "20260103",
+    "time": "4:37 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "AIR1 checking the area for subjects in a vehicle who were possibly involved in a physical altercation."
+  },
+  {
+    "date": "20260103",
+    "time": "4:42 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "AIR1 looking for a possible robbery suspect in the area."
   }
 ]
