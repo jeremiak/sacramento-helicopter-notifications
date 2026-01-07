@@ -25282,5 +25282,33 @@
     "neighborhood": "Elder Creek",
     "beat": "6C",
     "comments": "AIR1 was assisting units in locating a stolen vehicle"
+  },
+  {
+    "date": "20260106",
+    "time": "1:31 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Air unit checking area after reports of suspcicious activity"
+  },
+  {
+    "date": "20260106",
+    "time": "1:47 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit checking area after reports of possible assault"
+  },
+  {
+    "date": "20260106",
+    "time": "4:59 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Checking for missing person.  Missing person was located."
+  },
+  {
+    "date": "20260106",
+    "time": "5:07 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "aur unit assisted ground units with an assault in progress in the area of kokomo and new market dr."
   }
 ]
