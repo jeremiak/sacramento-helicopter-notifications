@@ -25310,5 +25310,33 @@
     "neighborhood": "Creekside",
     "beat": "1A",
     "comments": "aur unit assisted ground units with an assault in progress in the area of kokomo and new market dr."
+  },
+  {
+    "date": "20260107",
+    "time": "11:44 AM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Air unit assisting after reports of possible break in"
+  },
+  {
+    "date": "20260107",
+    "time": "2:06 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Looking for stolen vehicle."
+  },
+  {
+    "date": "20260107",
+    "time": "2:39 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Report of someone hopping a fence. Helicopter unable to locate anyone in the area."
+  },
+  {
+    "date": "20260107",
+    "time": "4:17 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Checking area regarding a robbery by force. 6023"
   }
 ]
