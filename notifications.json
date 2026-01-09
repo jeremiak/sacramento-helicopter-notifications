@@ -25338,5 +25338,33 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "Checking area regarding a robbery by force. 6023"
+  },
+  {
+    "date": "20260107",
+    "time": "8:39 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Assisted ground units after reports of a disturbance with a weapon in the area of Plaza Ave and Oakmont St."
+  },
+  {
+    "date": "20260108",
+    "time": "3:34 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Air unit checking area after reports of possibly armed subject"
+  },
+  {
+    "date": "20260108",
+    "time": "3:44 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Air unit assisting after reports of possible brandishing"
+  },
+  {
+    "date": "20260108",
+    "time": "6:06 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR assisted ground units in trying to locate a vehicle involved in a felony assault in the area of Fruitridge Rd and 24th St"
   }
 ]
