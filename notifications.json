@@ -25366,5 +25366,47 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "STAR assisted ground units in trying to locate a vehicle involved in a felony assault in the area of Fruitridge Rd and 24th St"
+  },
+  {
+    "date": "20260109",
+    "time": "4:18 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "stockton blvd/3rd ave - helicopter assisted with looking for a missing person"
+  },
+  {
+    "date": "20260109",
+    "time": "4:29 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "riverside blvd/broadway - helicopter assisted with looking for a robbery suspect"
+  },
+  {
+    "date": "20260109",
+    "time": "7:25 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "meadowview rd/freeport blvd - airplane assisted with looking for a robbery suspect"
+  },
+  {
+    "date": "20260109",
+    "time": "7:44 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "cosumnes river blvd/delta shores cir s - helicopter assisted with looking for a robbery suspect"
+  },
+  {
+    "date": "20260109",
+    "time": "7:54 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "j st/25th st - helicopter assisted with searching for a burglary suspect"
+  },
+  {
+    "date": "20260109",
+    "time": "7:55 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "a st/16th st - helicopter assisted with looking for a potentially armed suspect"
   }
 ]
