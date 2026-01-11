@@ -25369,6 +25369,13 @@
   },
   {
     "date": "20260109",
+    "time": "10:09 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR in the area of Folsom blvd and 49th st assisting ground units with a domestic disturbance."
+  },
+  {
+    "date": "20260109",
     "time": "4:18 PM",
     "neighborhood": "North Oak Park",
     "beat": "6A",
@@ -25408,5 +25415,61 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "a st/16th st - helicopter assisted with looking for a potentially armed suspect"
+  },
+  {
+    "date": "20260110",
+    "time": "2:54 PM",
+    "neighborhood": "Heritage Park",
+    "beat": "1A",
+    "comments": "AIR1 checked the area of W Elkhorn Blvd/Natomas Blvd for a stolen vehicle."
+  },
+  {
+    "date": "20260110",
+    "time": "3:18 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisted units on a pursuit in the area of Del Paso Blvd/Glenrose Ave."
+  },
+  {
+    "date": "20260110",
+    "time": "4:13 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter responded to 200 Wilson Ave for a suspicious subject that took off running from ground patrol officer.  Subject was detained."
+  },
+  {
+    "date": "20260110",
+    "time": "4:25 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "Helicopter responded for reports of a person with a knife.  Knife is unfounded."
+  },
+  {
+    "date": "20260110",
+    "time": "7:42 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter responded for reports of a vehicle break -in.  Call was unfounded."
+  },
+  {
+    "date": "20260110",
+    "time": "7:43 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "Helicopter responded for reports of a person outside with a taser."
+  },
+  {
+    "date": "20260110",
+    "time": "7:51 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Helicopter responded for an officer fighting with someone."
+  },
+  {
+    "date": "20260110",
+    "time": "7:58 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter responded for reports of someone with a gun."
   }
 ]
