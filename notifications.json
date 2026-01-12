@@ -25471,5 +25471,89 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "Helicopter responded for reports of someone with a gun."
+  },
+  {
+    "date": "20260110",
+    "time": "8:59 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR looking for subject who was possibly on a roof in the area of Capitol Mall/6th."
+  },
+  {
+    "date": "20260110",
+    "time": "9:35 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground units with attempting to locate a possible assault in the area of Del Paso Blvd/Northgate Blvd."
+  },
+  {
+    "date": "20260111",
+    "time": "1:18 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisted ground patrol units in searching for a suspect - Amherst ST / Celebrity ST"
+  },
+  {
+    "date": "20260111",
+    "time": "1:27 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "STAR assisted ground patrol units in searching for reports of a fight - 2nd AVE / 37th ST"
+  },
+  {
+    "date": "20260111",
+    "time": "2:49 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air unit assisting after reports of an assault in progress"
+  },
+  {
+    "date": "20260111",
+    "time": "2:53 AM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter responded to assist ground units to survey a vehicle pursuit."
+  },
+  {
+    "date": "20260111",
+    "time": "2:55 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of a possible break-in in progress"
+  },
+  {
+    "date": "20260111",
+    "time": "5:58 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "AIR1 assisted ground units on searching a property for a possible burglary suspect near Del Paso Rd and Natomas Blvd"
+  },
+  {
+    "date": "20260111",
+    "time": "6:48 PM",
+    "neighborhood": "Power Ridge",
+    "beat": "7C",
+    "comments": "Air unit assisting after possible sighting of stolen vehicle"
+  },
+  {
+    "date": "20260111",
+    "time": "7:13 PM",
+    "neighborhood": "Elder Creek",
+    "beat": "6C",
+    "comments": "Air unit assisting after possible sighting of stolen vehicle"
+  },
+  {
+    "date": "20260111",
+    "time": "8:10 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "Air unit assisting after reports of a possible side show"
+  },
+  {
+    "date": "20260111",
+    "time": "8:19 PM",
+    "neighborhood": "Johnson Heights",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of an assault"
   }
 ]
