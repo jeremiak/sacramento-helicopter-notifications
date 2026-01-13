@@ -25555,5 +25555,47 @@
     "neighborhood": "Johnson Heights",
     "beat": "2B",
     "comments": "Air unit assisting after reports of an assault"
+  },
+  {
+    "date": "20260111",
+    "time": "8:42 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "Air unit assisting after reports of a side show"
+  },
+  {
+    "date": "20260112",
+    "time": "2:27 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of a possible home break in"
+  },
+  {
+    "date": "20260112",
+    "time": "4:33 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit assisting after reports of a possible home break in"
+  },
+  {
+    "date": "20260112",
+    "time": "5:18 PM",
+    "neighborhood": "",
+    "beat": "4B",
+    "comments": "AIR1 is assisting ground units locating a suspect in the area of Fruitridge and 24th street"
+  },
+  {
+    "date": "20260112",
+    "time": "5:59 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "Air unit is assisting ground units trying to locate subjects that have a bat in the area of Fruitridge and Stockton"
+  },
+  {
+    "date": "20260112",
+    "time": "7:34 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of several reckless vehicles"
   }
 ]
