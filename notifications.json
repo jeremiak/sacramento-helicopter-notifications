@@ -25607,6 +25607,13 @@
   },
   {
     "date": "20260113",
+    "time": "10:07 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisted ground units locate a suspicious subject in the area. Officers made contact with the subject with no incident Calvine Rd/Carlin Ave."
+  },
+  {
+    "date": "20260113",
     "time": "3:39 PM",
     "neighborhood": "Robla",
     "beat": "2A",
@@ -25618,5 +25625,19 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "Hit and Run report of injuries."
+  },
+  {
+    "date": "20260114",
+    "time": "4:26 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Report of an argument involving a knife."
+  },
+  {
+    "date": "20260114",
+    "time": "8:19 PM",
+    "neighborhood": "Hollywood Park",
+    "beat": "4B",
+    "comments": "Retail grand theft."
   }
 ]
