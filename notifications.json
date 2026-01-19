@@ -25709,5 +25709,47 @@
     "neighborhood": "Southeast Village",
     "beat": "6C",
     "comments": "Incomplete call for police.  Caller reporting daughter as either kidnapped or missing.  Officers on scene assisting."
+  },
+  {
+    "date": "20260118",
+    "time": "2:19 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units are reports of an assault in the area of Taft St and Land Ave"
+  },
+  {
+    "date": "20260118",
+    "time": "2:23 PM",
+    "neighborhood": "Metro Center",
+    "beat": "1B",
+    "comments": "Air unit assisting ground units with a traffic stop in the area of w el camino ave and weald way"
+  },
+  {
+    "date": "20260118",
+    "time": "3:11 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "AIR1 was assisting units for reports of a possible robbery near Eleanor Ave/Grove Ave."
+  },
+  {
+    "date": "20260118",
+    "time": "3:39 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 is assisting units search for a domestic violence suspect near Loma Verde Way/29th St."
+  },
+  {
+    "date": "20260118",
+    "time": "4:34 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Star assisting ground units in the area of 7th avenue and 19th street in locating a subject that was in the roadway with no clothes on"
+  },
+  {
+    "date": "20260118",
+    "time": "5:09 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Star assisting ground units with locating subjects w/orbeez guns in the area of Yvonne way and Port Royale way"
   }
 ]
