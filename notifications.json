@@ -25772,5 +25772,47 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "STAR checked the area for a stolen vehicle."
+  },
+  {
+    "date": "20260124",
+    "time": "11:22 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Air1 responded to assist ground units with surveillance regarding an explosion."
+  },
+  {
+    "date": "20260124",
+    "time": "11:28 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air1 assisted ground units in locating a reckless vehicle."
+  },
+  {
+    "date": "20260124",
+    "time": "11:44 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air1 assisted ground units in locating a suspect of a robbery in the area of 3rd street and J street."
+  },
+  {
+    "date": "20260124",
+    "time": "9:42 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Star responded out to assist ground units in locating a subj with a firearm near the area of H street and 11th street."
+  },
+  {
+    "date": "20260125",
+    "time": "12:02 AM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Air1 assisted ground units in locating vehicles involved in a road rage in the area of Mack rd and Valley Hi dr."
+  },
+  {
+    "date": "20260125",
+    "time": "6:16 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air1 assisting ground units searching for a robbery suspect in the area of Arden and BUS 80"
   }
 ]
