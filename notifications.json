@@ -25877,5 +25877,26 @@
     "neighborhood": "",
     "beat": "6B",
     "comments": "Air unit assisting after reports of a possible stolen vehicle"
+  },
+  {
+    "date": "20260129",
+    "time": "4:49 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Air1 was assisting with general crime fighting efforts in the greater Sacramento area."
+  },
+  {
+    "date": "20260129",
+    "time": "4:57 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Report of vehicle brandishing a weapon."
+  },
+  {
+    "date": "20260129",
+    "time": "6:08 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "alamos ave/branch st - helicopter assisted with monitoring reports of an unattended child in the roadway"
   }
 ]
