@@ -25933,5 +25933,61 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "STAR ASSISTED GROUND UNITS IN THE 7000 BLOCK OF TITAN WAY IN LOOKING FOR A MALE SUBJ IN THE AREA"
+  },
+  {
+    "date": "20260130",
+    "time": "7:18 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units in locating a vehicle in the area of Lemon Hill Ave and Stockton Blvd"
+  },
+  {
+    "date": "20260130",
+    "time": "7:29 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisted ground units in locating subjects involved in an assault near Amherst St and Meadowview Rd"
+  },
+  {
+    "date": "20260130",
+    "time": "7:46 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 assisted ground units in trying to locate a felony suspect in the area of Lemon Hill Ave and Sampson Blvd"
+  },
+  {
+    "date": "20260131",
+    "time": "1:24 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter responded to the area of Rio Linda Blvd and Lampasas for reports of a person with a gun.   Neither helicopter nor ground units located such person."
+  },
+  {
+    "date": "20260131",
+    "time": "3:18 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter responded to the area of Northgate Blvd and Harding Ave. for reports of a robbery in progress."
+  },
+  {
+    "date": "20260131",
+    "time": "3:39 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Helicopter responded to the area of 3rd St. and P St. for reports of a reckless driver in the area."
+  },
+  {
+    "date": "20260131",
+    "time": "3:45 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Helicopter responded to the area for a person that fled from a hit and run accident."
+  },
+  {
+    "date": "20260131",
+    "time": "4:02 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4A",
+    "comments": "Helicopter responded to sutterville rd/capri way for reports of a home burglary.  Call was unfounded."
   }
 ]
