@@ -25989,5 +25989,47 @@
     "neighborhood": "South Land Park",
     "beat": "4A",
     "comments": "Helicopter responded to sutterville rd/capri way for reports of a home burglary.  Call was unfounded."
+  },
+  {
+    "date": "20260131",
+    "time": "8:53 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Helicopter responded to assist units to survey scene of a suspicious situation outside of a business,"
+  },
+  {
+    "date": "20260131",
+    "time": "9:01 PM",
+    "neighborhood": "West Tahoe Park",
+    "beat": "6B",
+    "comments": "Helicopter assisted ground units to survey a domestic violence incident."
+  },
+  {
+    "date": "20260131",
+    "time": "9:19 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted ground units to survey reports of a domestic violence incident."
+  },
+  {
+    "date": "20260201",
+    "time": "4:49 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit responded to reports of suspicious subjects in the area."
+  },
+  {
+    "date": "20260201",
+    "time": "4:49 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit assisting for a hit and run"
+  },
+  {
+    "date": "20260201",
+    "time": "5:09 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting after reports of suspicious activity"
   }
 ]
