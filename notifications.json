@@ -26031,5 +26031,33 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20260202",
+    "time": "1:13 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 responded to an assault in the area of Marysville Blvd/Los Robles Blvd."
+  },
+  {
+    "date": "20260202",
+    "time": "2:29 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 assisted units on a domestic violence in the area of Stockton Blvd/Fruitridge Rd."
+  },
+  {
+    "date": "20260202",
+    "time": "5:40 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter was assisting ground units check a vacant building for possible squatters."
+  },
+  {
+    "date": "20260202",
+    "time": "5:57 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Helicopter was assisting ground units search for possible armed subject. Subject was located and was determined to be a plastic wand."
   }
 ]
