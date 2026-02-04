@@ -26059,5 +26059,33 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "Helicopter was assisting ground units search for possible armed subject. Subject was located and was determined to be a plastic wand."
+  },
+  {
+    "date": "20260202",
+    "time": "8:44 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter was assisting ground units search for reports of an armed subject. The subject located and was not armed. Unfounded."
+  },
+  {
+    "date": "20260202",
+    "time": "9:19 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Helicopter was assisting ground units search for an armed subject. Subject was not located."
+  },
+  {
+    "date": "20260203",
+    "time": "4:23 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "STAR assisted ground units in checking the area of University Ave and Fair Oaks Blvd for a possibly armed vehicle"
+  },
+  {
+    "date": "20260203",
+    "time": "5:03 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisted ground units in locating a pursuit suspect in the area of John Still Dr and 24th St"
   }
 ]
