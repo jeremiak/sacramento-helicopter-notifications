@@ -26087,5 +26087,54 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "STAR assisted ground units in locating a pursuit suspect in the area of John Still Dr and 24th St"
+  },
+  {
+    "date": "20260203",
+    "time": "8:54 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "STAR checked the area of Club Center Dr and Northborough Dr for a missing person"
+  },
+  {
+    "date": "20260203",
+    "time": "9:00 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisted ground units in locating a stolen vehicle in the area of K St and Alhambra Blvd"
+  },
+  {
+    "date": "20260204",
+    "time": "3:24 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Helicopter in the area of Mack Rd and La Mancha Way assisting officers responding to reports of a robbery."
+  },
+  {
+    "date": "20260204",
+    "time": "5:59 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "air unit assisted ground units with reports of armed subject"
+  },
+  {
+    "date": "20260204",
+    "time": "6:37 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Helicopter assisted ground units with a foot pursuit."
+  },
+  {
+    "date": "20260204",
+    "time": "6:57 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted ground units with reports of a large fight. All parties separated without further incident."
+  },
+  {
+    "date": "20260204",
+    "time": "8:00 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter checked are for reports of a disturbance with a weapon involved. Weapon was unfounded."
   }
 ]
