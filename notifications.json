@@ -26136,5 +26136,47 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "Helicopter checked are for reports of a disturbance with a weapon involved. Weapon was unfounded."
+  },
+  {
+    "date": "20260204",
+    "time": "9:24 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "2C",
+    "comments": "Helicopter assisted units with checking the area for a missing person."
+  },
+  {
+    "date": "20260204",
+    "time": "9:33 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter assisted with trying to locate a stolen vehicle"
+  },
+  {
+    "date": "20260204",
+    "time": "9:34 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Helicopter assisted with locating 2 missing juveniles"
+  },
+  {
+    "date": "20260205",
+    "time": "3:00 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting in the search for a possible armed subject in the area of 3rd ST and Capitol Mall"
+  },
+  {
+    "date": "20260205",
+    "time": "5:24 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit in assisting in the search for a possible armed subject in the area of K ST and 7th ST"
+  },
+  {
+    "date": "20260205",
+    "time": "5:43 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit assisting in the pursuit of a vehicle in the area of Loma Verde Way and 32nd ST"
   }
 ]
