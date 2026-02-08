@@ -26178,5 +26178,145 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Air unit assisting in the pursuit of a vehicle in the area of Loma Verde Way and 32nd ST"
+  },
+  {
+    "date": "20260205",
+    "time": "8:15 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "AIR1 assisted ground units in locating someone screaming for help."
+  },
+  {
+    "date": "20260205",
+    "time": "9:04 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 assisted CHP in a pursuit."
+  },
+  {
+    "date": "20260206",
+    "time": "10:18 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4A",
+    "comments": "AIR1 was assisting CHP with a pursuit in the area of Highway 99 and Florin Rd"
+  },
+  {
+    "date": "20260206",
+    "time": "10:40 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "AIR1 assisted ground units in checking the area of Gateway Park Blvd and Del Paso Rd for a suspicious subject"
+  },
+  {
+    "date": "20260206",
+    "time": "10:48 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in checking the area of Norwood Ave and Jessie Ave for an assault"
+  },
+  {
+    "date": "20260206",
+    "time": "3:39 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units locating a armed suspect on the 2300 block of florin rd"
+  },
+  {
+    "date": "20260206",
+    "time": "3:51 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air1 assisting ground units trying to locate an armed subject in the area of arden/acoma st"
+  },
+  {
+    "date": "20260206",
+    "time": "4:58 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air1 assisting ground units trying to locate an armed subject in the area of Tillman/Tangerine Ave"
+  },
+  {
+    "date": "20260206",
+    "time": "7:54 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 was en route to assist ground units with a possible burglary in the area of Amherst St and Florin Rd"
+  },
+  {
+    "date": "20260206",
+    "time": "8:20 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "AIR1 responded to the area of La Riviera Dr and College Town Dr to check for suspicious activity at a business"
+  },
+  {
+    "date": "20260206",
+    "time": "8:29 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 responded to the area of Franklin Blvd and Florin Rd to assist with checking for an armed subject"
+  },
+  {
+    "date": "20260207",
+    "time": "2:39 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "The air unit was assisting officers with reports of a subject armed with a knife. Officers have detained the subject."
+  },
+  {
+    "date": "20260207",
+    "time": "4:41 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 was assisting Sacramento County Sheriff's deputies with locating a robbery suspect in their area. The Sheriff's Office is still working the case."
+  },
+  {
+    "date": "20260207",
+    "time": "5:26 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "AIR1 was assisting officers with reports of a suspicious subject near Redding Ave and San Joaquin St. Officers have since detained the subject."
+  },
+  {
+    "date": "20260207",
+    "time": "5:44 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "AIR1 was assisting officers with reports of a subject being uncooperative with Fire Department personnel at Folsom and Howe. Officers are still working the call."
+  },
+  {
+    "date": "20260207",
+    "time": "7:21 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Star was in the area of Seavey cir/ Mark Hopkins ct assisting ground units with a possible stolen vehicle."
+  },
+  {
+    "date": "20260207",
+    "time": "8:07 PM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "Air1 was in the area of 15th ave/58th st assisting ground units with a suspicious subject."
+  },
+  {
+    "date": "20260207",
+    "time": "8:25 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Air1 assisted ground units in the area of 4th ave/ Redding ave for a male and female yelling."
+  },
+  {
+    "date": "20260207",
+    "time": "8:34 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air1 assisted ground units with reports of a fight."
+  },
+  {
+    "date": "20260207",
+    "time": "8:37 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "Air1 assisted ground units in the are of Grove ave/Eleanor ave with reports of a drunk driver."
   }
 ]
