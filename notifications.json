@@ -26318,5 +26318,40 @@
     "neighborhood": "Wills Acres",
     "beat": "2B",
     "comments": "Air1 assisted ground units in the are of Grove ave/Eleanor ave with reports of a drunk driver."
+  },
+  {
+    "date": "20260207",
+    "time": "9:27 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded for a Shotspotter activation. Turned out to be fireworks."
+  },
+  {
+    "date": "20260208",
+    "time": "1:45 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 was assisting units on a domestic violence call."
+  },
+  {
+    "date": "20260208",
+    "time": "1:57 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 is assisting units on locating an occupied stolen vehicle."
+  },
+  {
+    "date": "20260208",
+    "time": "3:58 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "STAR was assisting units on a robbery call."
+  },
+  {
+    "date": "20260208",
+    "time": "4:15 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Helicopter assisted officers checking a roof in the area after a report of subjects on a roof.  Nothing seen by the helicopter."
   }
 ]
