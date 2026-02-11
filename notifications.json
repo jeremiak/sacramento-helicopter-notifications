@@ -26430,5 +26430,40 @@
     "neighborhood": "Lawrence Park",
     "beat": "6B",
     "comments": "STAR assisting ground units with a stolen vehicle in the area of Dewey and Fruitridge"
+  },
+  {
+    "date": "20260210",
+    "time": "1:34 PM",
+    "neighborhood": "",
+    "beat": "4B",
+    "comments": "Fruitridge Rd / 24th St Helicopter checking for possible arson in area"
+  },
+  {
+    "date": "20260210",
+    "time": "1:35 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Florin Rd / S Land Park Dr Helicopter attempting to locate armed subject"
+  },
+  {
+    "date": "20260210",
+    "time": "6:05 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Report of an assault."
+  },
+  {
+    "date": "20260210",
+    "time": "6:14 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Report of someone walking with a machete."
+  },
+  {
+    "date": "20260210",
+    "time": "6:28 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Report of home burglary that was unfounded."
   }
 ]
