@@ -26479,5 +26479,33 @@
     "neighborhood": "Village 5",
     "beat": "1A",
     "comments": "Checking area for juvenile having possible mental health issue."
+  },
+  {
+    "date": "20260213",
+    "time": "5:03 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "AIR1 assisting ground units on a failure to yield traffic stop in the area of Folsom Blvd and Power Inn"
+  },
+  {
+    "date": "20260213",
+    "time": "5:09 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisting ground units searching for a subject with a weapon in the area of 30th street and K street"
+  },
+  {
+    "date": "20260213",
+    "time": "6:07 PM",
+    "neighborhood": "Colonial Village",
+    "beat": "7C",
+    "comments": "Report of someone possibly trying to get into a home under construction."
+  },
+  {
+    "date": "20260213",
+    "time": "6:23 PM",
+    "neighborhood": "Tahoe Park South",
+    "beat": "6B",
+    "comments": "Report of subjects possibly casing."
   }
 ]
