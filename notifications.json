@@ -26482,6 +26482,13 @@
   },
   {
     "date": "20260213",
+    "time": "10:31 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR21 checked the area of Marysville Blvd and Palo Verde Ave after reports of an armed subject in the area. Units contacted the subject and he had no weapons."
+  },
+  {
+    "date": "20260213",
     "time": "5:03 PM",
     "neighborhood": "Sierra Oaks",
     "beat": "7B",
@@ -26507,5 +26514,12 @@
     "neighborhood": "Tahoe Park South",
     "beat": "6B",
     "comments": "Report of subjects possibly casing."
+  },
+  {
+    "date": "20260213",
+    "time": "9:19 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisted ground units in checking the area of Franklin Blvd and Florin Rd for a suspicious person"
   }
 ]
