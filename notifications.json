@@ -26524,9 +26524,37 @@
   },
   {
     "date": "20260217",
+    "time": "10:45 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Assisted ground units for a possible vandalism"
+  },
+  {
+    "date": "20260217",
     "time": "7:01 PM",
     "neighborhood": "South Natomas",
     "beat": "1B",
     "comments": "Incomplete call to 911 with yelling heard."
+  },
+  {
+    "date": "20260218",
+    "time": "1:53 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "STAR assisted ground units with reports of a business break in."
+  },
+  {
+    "date": "20260218",
+    "time": "2:29 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "Helicopter in the area of Norwood Ave/Jessie Ave assisting officers looking for an armed subject."
+  },
+  {
+    "date": "20260218",
+    "time": "3:19 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Helicopter in the area of Arden Way/Heritage Lane assisting officers responding to reports of domestic violence."
   }
 ]
