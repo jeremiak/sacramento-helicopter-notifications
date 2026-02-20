@@ -26556,5 +26556,40 @@
     "neighborhood": "Arden Fair",
     "beat": "2C",
     "comments": "Helicopter in the area of Arden Way/Heritage Lane assisting officers responding to reports of domestic violence."
+  },
+  {
+    "date": "20260218",
+    "time": "9:19 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "air unit assisted ground units with reports of subjects on property that's under construction"
+  },
+  {
+    "date": "20260219",
+    "time": "4:22 PM",
+    "neighborhood": "Alhambra Triangle",
+    "beat": "7A",
+    "comments": "The Air unit provided assistance to the Sacramento Police Department in their search for an individual who had stolen from the store in the area of Alhambra and S St; however, they were unable to find the subject."
+  },
+  {
+    "date": "20260219",
+    "time": "4:49 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "STAR responded to the 2900 block of Rio Linda Blvd for a Shotspotter activation"
+  },
+  {
+    "date": "20260219",
+    "time": "6:27 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "STAR assisting ground units checking the area for a stolen vehicle."
+  },
+  {
+    "date": "20260219",
+    "time": "6:54 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "STAR assisted SPD ground units that responded to a suspicious subject seen at a home in the area of Monroe Street and American River Drive. Checked okay."
   }
 ]
