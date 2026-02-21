@@ -26591,5 +26591,54 @@
     "neighborhood": "Sierra Oaks",
     "beat": "7B",
     "comments": "STAR assisted SPD ground units that responded to a suspicious subject seen at a home in the area of Monroe Street and American River Drive. Checked okay."
+  },
+  {
+    "date": "20260219",
+    "time": "9:29 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "STAR helping ground units look for a vehicle possibly involved in suspicious circumstances."
+  },
+  {
+    "date": "20260220",
+    "time": "5:49 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "AIR1 assisting ground units, searching for a subject that is armed in the area of Heritage/Response Rd"
+  },
+  {
+    "date": "20260220",
+    "time": "6:28 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "STAR helicopter is assisting ground units on trying to locate a missing juvenile in the area of Main Ave and Rio Linda Blvd"
+  },
+  {
+    "date": "20260220",
+    "time": "6:56 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR helicopter assisted ground units who were looking for a missing juvenile in the area of Azevedo Drive"
+  },
+  {
+    "date": "20260220",
+    "time": "7:04 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "STAR helicopter assisted ground units on a welfare check."
+  },
+  {
+    "date": "20260220",
+    "time": "7:45 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "AIR1 helicopter assisted ground units on a call"
+  },
+  {
+    "date": "20260220",
+    "time": "8:25 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units trying to find a elderly citizen in the area of garden hwy/orchard"
   }
 ]
