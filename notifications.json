@@ -26640,5 +26640,33 @@
     "neighborhood": "Willowcreek",
     "beat": "1B",
     "comments": "AIR1 assisting ground units trying to find a elderly citizen in the area of garden hwy/orchard"
+  },
+  {
+    "date": "20260221",
+    "time": "4:22 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 helicopter assisted ground units who were looking for a vehicle involved in a hit and run in the area of Stockton Blvd and Alhambra Blvd"
+  },
+  {
+    "date": "20260221",
+    "time": "4:39 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter checked the area for a potential home burglary in progress in the area of 36th St and 25th Ave."
+  },
+  {
+    "date": "20260221",
+    "time": "4:53 PM",
+    "neighborhood": "",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units who responded to reports of a possible jumper on the I street bridge."
+  },
+  {
+    "date": "20260221",
+    "time": "7:17 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Helicopter assisted ground units who responded to an assault call."
   }
 ]
