@@ -26643,6 +26643,13 @@
   },
   {
     "date": "20260221",
+    "time": "10:16 PM",
+    "neighborhood": "Regency Park",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units look for a suspicious male."
+  },
+  {
+    "date": "20260221",
     "time": "4:22 PM",
     "neighborhood": "East Sacramento",
     "beat": "7A",
@@ -26668,5 +26675,33 @@
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
     "comments": "Helicopter assisted ground units who responded to an assault call."
+  },
+  {
+    "date": "20260221",
+    "time": "9:25 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "STAR assisting ground units locate a group of individuals involved in a robbery."
+  },
+  {
+    "date": "20260222",
+    "time": "7:59 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "AIR1 assisting ground units looking for a reckless driver in the area of Marilyn Cir and Grace Ave"
+  },
+  {
+    "date": "20260222",
+    "time": "8:36 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "AIR1 assisting ground units in the area of Stockton Blvd and Lawrence Dr with a stolen vehicle"
+  },
+  {
+    "date": "20260222",
+    "time": "8:41 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "AIR1 assisting ground units in the area of Montgomery way and Franklin Blvd of reports of a burglary"
   }
 ]
