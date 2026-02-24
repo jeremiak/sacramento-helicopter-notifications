@@ -26685,6 +26685,13 @@
   },
   {
     "date": "20260222",
+    "time": "10:10 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air21 assisted ground units in locating a subject fleeing from a scene near the area of franklin / forest."
+  },
+  {
+    "date": "20260222",
     "time": "7:59 PM",
     "neighborhood": "Glenwood Meadows",
     "beat": "2A",
@@ -26703,5 +26710,40 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "AIR1 assisting ground units in the area of Montgomery way and Franklin Blvd of reports of a burglary"
+  },
+  {
+    "date": "20260222",
+    "time": "9:55 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Air21 assisting ground units in searching for a suspicious person near the area of Garden / Forrest."
+  },
+  {
+    "date": "20260223",
+    "time": "2:18 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter responded to the area of W El Camino Ave and American Ave for reports of a burglary in progress."
+  },
+  {
+    "date": "20260223",
+    "time": "2:39 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Helicopter responded to the area of Richion Dr. and Paramount Cir to check the area for people in an argument."
+  },
+  {
+    "date": "20260223",
+    "time": "4:28 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "Helicopter assisted officer detaining and aggressive person throwing rocks and pumpkins at passing vehicles."
+  },
+  {
+    "date": "20260223",
+    "time": "4:56 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "STAR assisting ground units in the area of Truxel/N Freeway Blvd, looking for an armed subject"
   }
 ]
