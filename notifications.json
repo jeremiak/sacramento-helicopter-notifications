@@ -26745,5 +26745,26 @@
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
     "comments": "STAR assisting ground units in the area of Truxel/N Freeway Blvd, looking for an armed subject"
+  },
+  {
+    "date": "20260224",
+    "time": "3:23 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "65th st/14th ave - helicopter assisted with monitoring reports of an armed subject"
+  },
+  {
+    "date": "20260224",
+    "time": "3:38 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "response rd/river park dr - helicopter assisted with monitoring reports of a domestic incident"
+  },
+  {
+    "date": "20260224",
+    "time": "4:03 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "STAR assisted ground units in responding to a silent robbery alarm in the area of S Watt Ave and Fruitridge Rd"
   }
 ]
