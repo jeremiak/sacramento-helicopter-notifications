@@ -26794,5 +26794,33 @@
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
     "comments": "Helicopter assisted ground units with reports of a possible armed vehicle. Occupant of vehicle was detained without incident."
+  },
+  {
+    "date": "20260225",
+    "time": "9:09 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Helicopter assisted officers searching the area for suspect shooting a BB gun."
+  },
+  {
+    "date": "20260225",
+    "time": "9:19 PM",
+    "neighborhood": "Colonial Manor",
+    "beat": "7C",
+    "comments": "AIR1 helped ground units check the area of 14th Ave and 65th St Expressway after reports of possible shots fired"
+  },
+  {
+    "date": "20260226",
+    "time": "4:18 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units in searching the tower and I street bridges to locate a possible jumper."
+  },
+  {
+    "date": "20260226",
+    "time": "4:39 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter checked the area of Ferran Ave and Amherst for reports of a large fight. Checked ok."
   }
 ]
