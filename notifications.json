@@ -26822,5 +26822,89 @@
     "neighborhood": "Meadowview",
     "beat": "5A",
     "comments": "Helicopter checked the area of Ferran Ave and Amherst for reports of a large fight. Checked ok."
+  },
+  {
+    "date": "20260227",
+    "time": "10:13 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "Helicopter responded to reports of a male subject yelling threats to hurt people with a gun."
+  },
+  {
+    "date": "20260227",
+    "time": "9:47 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded out to survey reports of a group of subjects causing a disturbance with a firearm."
+  },
+  {
+    "date": "20260228",
+    "time": "12:22 AM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter responded to survey reports of a domestic disturbance involving a firearm."
+  },
+  {
+    "date": "20260228",
+    "time": "2:54 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Star unit assisting in the search for a possible stolen vehicle in the area of Osuna way and Doroteo way"
+  },
+  {
+    "date": "20260228",
+    "time": "3:07 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Star unit assisting in the search for a possible stolen vehicle in the area of 4th Ave and 21st ST"
+  },
+  {
+    "date": "20260228",
+    "time": "5:38 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "AIR1 assisting ground units looking for subject with a weapon in the area of La Riviera and Howe Ave"
+  },
+  {
+    "date": "20260228",
+    "time": "5:48 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units in the area of 5th st and I st, looking for a subj with a knife"
+  },
+  {
+    "date": "20260228",
+    "time": "6:08 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "AIR1 assisting ground units in the area of 4th st and V st looking for a burglary subject"
+  },
+  {
+    "date": "20260228",
+    "time": "6:53 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "STAR assisting ground units in the area of Fell and Longshore, trying to locate a subject with a bat"
+  },
+  {
+    "date": "20260228",
+    "time": "7:37 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR assisting ground units in the area of Florin/Power Inn locating an armed subject"
+  },
+  {
+    "date": "20260228",
+    "time": "8:12 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units in the area of 7th st and K st of reports of a group of subjects fighting"
+  },
+  {
+    "date": "20260228",
+    "time": "8:16 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units in the area of 4th st and Kst with group of subjects involved in a fight"
   }
 ]
