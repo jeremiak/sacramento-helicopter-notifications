@@ -26906,5 +26906,33 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "AIR1 assisting ground units in the area of 4th st and Kst with group of subjects involved in a fight"
+  },
+  {
+    "date": "20260228",
+    "time": "8:56 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Assisted ground units after reports of a large gathering in Old Sacramento."
+  },
+  {
+    "date": "20260228",
+    "time": "9:56 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Assisted ground units after reports of someone with a gun in the area of Response Rd and Heritage Ln. Gun was unfounded."
+  },
+  {
+    "date": "20260301",
+    "time": "12:12 AM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Helicopter helped check the roof of a building for possible subjects. Subject left the area."
+  },
+  {
+    "date": "20260301",
+    "time": "1:38 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "STAR was assisting units on a felony assault call."
   }
 ]
