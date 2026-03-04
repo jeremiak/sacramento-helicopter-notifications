@@ -26997,5 +26997,54 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "STAR assisting ground units trying to locate a missing person in the area of Pinell/Roanoke"
+  },
+  {
+    "date": "20260303",
+    "time": "1:37 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Helicopter assisting officers searching the area for an assault victim and suspect."
+  },
+  {
+    "date": "20260303",
+    "time": "4:15 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter responded to reports of a subject with a knife in the area of Norwood Ave and Bell Ave."
+  },
+  {
+    "date": "20260303",
+    "time": "5:01 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "15th st/c st - helicopter assisted with monitoring reports of an armed vehicle"
+  },
+  {
+    "date": "20260303",
+    "time": "5:09 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "58th st/19th ave - helicopter assisted with monitoring reports of a domestic disturbance"
+  },
+  {
+    "date": "20260303",
+    "time": "8:07 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "northgate blvd/harding ave - helicopter assisted with monitoring reports of an alarm activation"
+  },
+  {
+    "date": "20260303",
+    "time": "8:08 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "el camino ave/bus 80 wb - helicopter assisted with monitoring reports of a vehicle accident"
+  },
+  {
+    "date": "20260303",
+    "time": "8:22 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "cedro cir/azevedo dr - helicopter assisted with looking for a missing person"
   }
 ]
