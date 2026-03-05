@@ -27046,5 +27046,33 @@
     "neighborhood": "South Natomas",
     "beat": "1B",
     "comments": "cedro cir/azevedo dr - helicopter assisted with looking for a missing person"
+  },
+  {
+    "date": "20260303",
+    "time": "8:34 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "hillswood dr/sunrock dr - helicopter assisted folsom pd with looking for a missing person"
+  },
+  {
+    "date": "20260304",
+    "time": "7:15 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "stockton blvd/48th ave - helicopter assisted with reports of a robbery"
+  },
+  {
+    "date": "20260304",
+    "time": "7:30 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "deerhaven way/detroit blvd - helicopter assisted with monitoring reports of an assault"
+  },
+  {
+    "date": "20260304",
+    "time": "7:59 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "kokomo dr/new market dr - helicopter assisted with reports of a burglary"
   }
 ]
