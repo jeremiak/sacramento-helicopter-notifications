@@ -27074,5 +27074,33 @@
     "neighborhood": "Creekside",
     "beat": "1A",
     "comments": "kokomo dr/new market dr - helicopter assisted with reports of a burglary"
+  },
+  {
+    "date": "20260304",
+    "time": "8:56 PM",
+    "neighborhood": "Metro Center",
+    "beat": "1B",
+    "comments": "Air1 assisting ground units with reports of a shooting in the area of Weald way/Gateway Oaks Dr"
+  },
+  {
+    "date": "20260305",
+    "time": "12:09 AM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Air1 assisted ground units in the area of E Commerce way/ Natomas Crossing Dr for an alarm call."
+  },
+  {
+    "date": "20260305",
+    "time": "12:26 AM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Air1 in the area of Redding ave/Mcquillan Cir for reports of suspicious acitvity."
+  },
+  {
+    "date": "20260305",
+    "time": "3:29 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "In area of Wissemann Dr / Merribrook Dr - Helicopter assisting in possible burglary"
   }
 ]
