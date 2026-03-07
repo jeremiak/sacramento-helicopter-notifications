@@ -27102,5 +27102,26 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "In area of Wissemann Dr / Merribrook Dr - Helicopter assisting in possible burglary"
+  },
+  {
+    "date": "20260306",
+    "time": "3:08 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Missing person area check."
+  },
+  {
+    "date": "20260306",
+    "time": "6:20 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "STAR assisted ground units in checking the area for a suspicious person near Elder Creek Rd and 79th St"
+  },
+  {
+    "date": "20260306",
+    "time": "6:28 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "STAR assisted ground units in checking the area for subjects involved in an assault in the area of North Ave and High St"
   }
 ]
