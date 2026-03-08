@@ -27105,6 +27105,13 @@
   },
   {
     "date": "20260306",
+    "time": "10:21 PM",
+    "neighborhood": "Heritage Park",
+    "beat": "1A",
+    "comments": "Star in the area of Club Center Dr/ Dunlay Dr assisting ground units with reports of a robbery."
+  },
+  {
+    "date": "20260306",
     "time": "3:08 PM",
     "neighborhood": "Central Oak Park",
     "beat": "6A",
@@ -27123,5 +27130,26 @@
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
     "comments": "STAR assisted ground units in checking the area for subjects involved in an assault in the area of North Ave and High St"
+  },
+  {
+    "date": "20260307",
+    "time": "2:59 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR assist units in a vehicle pursuit in the area of 47th Ave/Franklin Blvd."
+  },
+  {
+    "date": "20260307",
+    "time": "5:42 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Star in area of 10th Ave / Stockton Blvd assisting in search for robbery suspect"
+  },
+  {
+    "date": "20260307",
+    "time": "7:07 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "STAR assisting ground units in a vehicle pursuit in the area of Folsom Blvd and Notre Dame Dr"
   }
 ]
