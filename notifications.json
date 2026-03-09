@@ -27133,6 +27133,48 @@
   },
   {
     "date": "20260307",
+    "time": "10:26 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Helicopter was assisting ground units in pursuit of a vehicle. Vehicle was located"
+  },
+  {
+    "date": "20260307",
+    "time": "11:00 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "Helicopter was assisting ground units check for a suspicious subject possibly related to an earlier call. Subject was not related."
+  },
+  {
+    "date": "20260307",
+    "time": "11:14 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter was assisting ground units check the area for a suspicious vehicle."
+  },
+  {
+    "date": "20260307",
+    "time": "11:16 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Helicopter was assisting ground units check for suspicious subject in the area. Subject was not located."
+  },
+  {
+    "date": "20260307",
+    "time": "11:21 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "Helicopter was checking area for suspicious subject. Subject was not located."
+  },
+  {
+    "date": "20260307",
+    "time": "11:56 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter was assisting ground units, who were assisting CHP in a pursuit."
+  },
+  {
+    "date": "20260307",
     "time": "2:59 PM",
     "neighborhood": "",
     "beat": "UI",
@@ -27151,5 +27193,40 @@
     "neighborhood": "College Town",
     "beat": "7B",
     "comments": "STAR assisting ground units in a vehicle pursuit in the area of Folsom Blvd and Notre Dame Dr"
+  },
+  {
+    "date": "20260308",
+    "time": "12:39 AM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "Helicopter was assisting ground units check for a possible robbery suspect."
+  },
+  {
+    "date": "20260308",
+    "time": "12:41 AM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Helicopter was assisting ground units monitor reckless drivers in the area."
+  },
+  {
+    "date": "20260308",
+    "time": "4:26 PM",
+    "neighborhood": "Tahoe Park",
+    "beat": "6B",
+    "comments": "AIR1 assisting ground units locating subjects that were fighting in the area of 59th st/ 11th ave"
+  },
+  {
+    "date": "20260308",
+    "time": "4:54 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units in the area of El Camino/Western ave, reports of subjects on the tracks"
+  },
+  {
+    "date": "20260308",
+    "time": "5:56 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units in the area of Gateway Park/Del Paso Rd on a stolen vehicle"
   }
 ]
