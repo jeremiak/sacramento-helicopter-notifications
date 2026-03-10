@@ -27228,5 +27228,19 @@
     "neighborhood": "Natomas Park",
     "beat": "1A",
     "comments": "AIR1 assisting ground units in the area of Gateway Park/Del Paso Rd on a stolen vehicle"
+  },
+  {
+    "date": "20260309",
+    "time": "2:53 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Helicopter assisting officers in the area of N Park DR/E Commerce Way."
+  },
+  {
+    "date": "20260309",
+    "time": "8:17 PM",
+    "neighborhood": "Freeport Manor",
+    "beat": "4C",
+    "comments": "Air unit assisting after reports of possible break in to a business"
   }
 ]
