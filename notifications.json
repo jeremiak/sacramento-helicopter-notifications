@@ -27263,5 +27263,33 @@
     "neighborhood": "Northgate",
     "beat": "1C",
     "comments": "Helicopter assisting officers in the area for subject with a knife.  Subject has been detained."
+  },
+  {
+    "date": "20260312",
+    "time": "2:26 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 is assisting units on a weapons call."
+  },
+  {
+    "date": "20260312",
+    "time": "2:57 PM",
+    "neighborhood": "Regency Park",
+    "beat": "1A",
+    "comments": "STAR was assisting units on a burglary call."
+  },
+  {
+    "date": "20260312",
+    "time": "3:48 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 was assisting units on a felony assault call."
+  },
+  {
+    "date": "20260312",
+    "time": "7:38 AM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Helicopter assisting officers on burglary call in the area of JIbboom st / Richards blvd"
   }
 ]
