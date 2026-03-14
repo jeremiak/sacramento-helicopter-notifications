@@ -27291,5 +27291,40 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "Helicopter assisting officers on burglary call in the area of JIbboom st / Richards blvd"
+  },
+  {
+    "date": "20260312",
+    "time": "9:38 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "STAR assisted ground units with locating a vehicle that was driving recklessly."
+  },
+  {
+    "date": "20260313",
+    "time": "6:36 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "STAR in area of 12th st / Swallowtail Ave assisting ground units with possible burglary in area"
+  },
+  {
+    "date": "20260313",
+    "time": "6:48 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "AIR1 in area of Norwood Ave / Leitch Ave assisting units with weapons call"
+  },
+  {
+    "date": "20260313",
+    "time": "7:07 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "AIR1 assisting ground units of report of a missing fire hydrant"
+  },
+  {
+    "date": "20260313",
+    "time": "7:27 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "AIR1 assisting ground units for reports of a someone being assaulted in the area of Freeport Blvd and Florin Rd"
   }
 ]
