@@ -27301,6 +27301,13 @@
   },
   {
     "date": "20260313",
+    "time": "11:45 PM",
+    "neighborhood": "Natomas Creek",
+    "beat": "1A",
+    "comments": "air unit assisting grounds units with vehicle accident."
+  },
+  {
+    "date": "20260313",
     "time": "6:36 PM",
     "neighborhood": "Dos Rios Triangle",
     "beat": "3A",
@@ -27326,5 +27333,75 @@
     "neighborhood": "South Land Park",
     "beat": "4C",
     "comments": "AIR1 assisting ground units for reports of a someone being assaulted in the area of Freeport Blvd and Florin Rd"
+  },
+  {
+    "date": "20260314",
+    "time": "12:37 AM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "air unit assisting ground units with a large gathering of vehicles near younger creek dr and light sky ct"
+  },
+  {
+    "date": "20260314",
+    "time": "12:49 AM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "air unit assisted ground units with a reckless driver near marysville blvd and grand ave"
+  },
+  {
+    "date": "20260314",
+    "time": "12:55 AM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "air unit assisted ground units with a bicycle stop"
+  },
+  {
+    "date": "20260314",
+    "time": "4:59 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of 37th St and 39th St"
+  },
+  {
+    "date": "20260314",
+    "time": "6:19 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit assisting ground units are reports of a stolen vehicle in the area of Bamford Dr and Valley Hi Dr"
+  },
+  {
+    "date": "20260314",
+    "time": "7:12 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Air unit assisting ground units after reports of armed subjects in the area of 2nd St and I -5 SB"
+  },
+  {
+    "date": "20260314",
+    "time": "8:18 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air units assisting ground units after reports of sounds of a shots fired in the area of Western Ave and E Levee Rd"
+  },
+  {
+    "date": "20260314",
+    "time": "8:28 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Air unit assisting ground units after reports of a vehicle accident in the area of San Juan Rd and Truxel Rd"
+  },
+  {
+    "date": "20260314",
+    "time": "8:38 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Air unit assisting ground units after reports of a vehicle accident in the area of Canterbury Rd and Oxford St"
+  },
+  {
+    "date": "20260314",
+    "time": "8:42 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting ground units after reports of a reckless driver in the area of Cleveland Ave and W El Camino Ave"
   }
 ]
