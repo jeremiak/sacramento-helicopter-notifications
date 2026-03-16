@@ -27336,6 +27336,13 @@
   },
   {
     "date": "20260314",
+    "time": "10:49 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air1 assisted ground units with reports of vehicles driving recklessly in area of Amherst St/Armington Ave"
+  },
+  {
+    "date": "20260314",
     "time": "12:37 AM",
     "neighborhood": "Florin Fruitridge Industrial Park",
     "beat": "6C",
@@ -27403,5 +27410,47 @@
     "neighborhood": "Gardenland",
     "beat": "1C",
     "comments": "Air unit assisting ground units after reports of a reckless driver in the area of Cleveland Ave and W El Camino Ave"
+  },
+  {
+    "date": "20260315",
+    "time": "5:46 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "STAR in area of Shining Star Dr / Phoenix Park Dr assisting units in locating possible armed subjects"
+  },
+  {
+    "date": "20260315",
+    "time": "6:28 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "STAR in area of Ottumwa Dr / Kokomo Dr assisting units in locating suspicious subject"
+  },
+  {
+    "date": "20260315",
+    "time": "6:44 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "STAR in area of D St / 16th St helping units identify possible vandalism suspects."
+  },
+  {
+    "date": "20260315",
+    "time": "7:28 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter was assisting ground units search for a missing child. The child was located."
+  },
+  {
+    "date": "20260315",
+    "time": "7:55 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Helicopter was in the area monitoring a pool party"
+  },
+  {
+    "date": "20260315",
+    "time": "8:36 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "STAR in area of 51st Ave / 75th Ave attempting to locate subjects yelling and crying."
   }
 ]
