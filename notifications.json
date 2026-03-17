@@ -27452,5 +27452,54 @@
     "neighborhood": "Glen Elder",
     "beat": "6C",
     "comments": "STAR in area of 51st Ave / 75th Ave attempting to locate subjects yelling and crying."
+  },
+  {
+    "date": "20260316",
+    "time": "2:59 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting officers on report of \npossible weapons"
+  },
+  {
+    "date": "20260316",
+    "time": "4:43 PM",
+    "neighborhood": "Natomas Creek",
+    "beat": "1A",
+    "comments": "Air unit assisting in checking area after an incomplete 911 call"
+  },
+  {
+    "date": "20260316",
+    "time": "5:19 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20260316",
+    "time": "6:39 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "STAR assisting ground units in the area of 25th st/K st looking for a subject with a weapon"
+  },
+  {
+    "date": "20260316",
+    "time": "6:49 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4A",
+    "comments": "STAR assisting ground units in the area of Freeport and Potrero trying locate subjects on a roof of a building"
+  },
+  {
+    "date": "20260316",
+    "time": "7:57 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting after reports of a fight with possible weapon involved"
+  },
+  {
+    "date": "20260316",
+    "time": "8:19 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "Air unit assisting after pd received an incomplete call for police"
   }
 ]
