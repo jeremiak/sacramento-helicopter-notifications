@@ -27501,5 +27501,47 @@
     "neighborhood": "Willowcreek",
     "beat": "1B",
     "comments": "Air unit assisting after pd received an incomplete call for police"
+  },
+  {
+    "date": "20260317",
+    "time": "4:16 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Helicopter assisting officers in the area looking for subject with what appeared to be a bb gun or airsoft gun.  Officers made contact found it was an airsoft gun and was advised."
+  },
+  {
+    "date": "20260317",
+    "time": "4:18 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted officers in the area searching for a suspicious subject trying car door handles."
+  },
+  {
+    "date": "20260317",
+    "time": "4:58 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisting officers checking the area for subject with a warrant.  Subject has not been detained at this time."
+  },
+  {
+    "date": "20260317",
+    "time": "6:34 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Helicopter assisting officers in the area searching for a suspect involved in domestic violence."
+  },
+  {
+    "date": "20260317",
+    "time": "7:03 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter assisted officers checking area for burglary suspects"
+  },
+  {
+    "date": "20260317",
+    "time": "7:50 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Helicopter assisted officers in the area locating subject with a warrant."
   }
 ]
