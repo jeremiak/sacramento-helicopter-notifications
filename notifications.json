@@ -27543,5 +27543,47 @@
     "neighborhood": "North City Farms",
     "beat": "4B",
     "comments": "Helicopter assisted officers in the area locating subject with a warrant."
+  },
+  {
+    "date": "20260318",
+    "time": "5:26 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted officers searching the area for robbery suspects"
+  },
+  {
+    "date": "20260318",
+    "time": "5:58 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Helicopter assisted officers searching area for a suspicious vehicle."
+  },
+  {
+    "date": "20260318",
+    "time": "9:08 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "air unit assisted ground units with locating a stolen vehicle"
+  },
+  {
+    "date": "20260318",
+    "time": "9:23 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "air unit assisted ground units with reports of 200 bicycles riding in roadway"
+  },
+  {
+    "date": "20260318",
+    "time": "9:38 PM",
+    "neighborhood": "Heritage Park",
+    "beat": "1A",
+    "comments": "air unit assisted ground units with reports of a physical altercation"
+  },
+  {
+    "date": "20260318",
+    "time": "9:59 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "air unit assisted ground units with reports of subject trying to get into someone residence"
   }
 ]
