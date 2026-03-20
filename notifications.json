@@ -27546,6 +27546,13 @@
   },
   {
     "date": "20260318",
+    "time": "10:04 PM",
+    "neighborhood": "Power Ridge",
+    "beat": "7C",
+    "comments": "air assisting ground units with reports of a possible burglary"
+  },
+  {
+    "date": "20260318",
     "time": "5:26 PM",
     "neighborhood": "East Sacramento",
     "beat": "7A",
@@ -27585,5 +27592,33 @@
     "neighborhood": "Strawberry Manor",
     "beat": "2B",
     "comments": "air unit assisted ground units with reports of subject trying to get into someone residence"
+  },
+  {
+    "date": "20260319",
+    "time": "7:23 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 in area of National Dr / Del Paso Rd assisting in search for possible armed vehicle"
+  },
+  {
+    "date": "20260319",
+    "time": "9:16 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "STAR was assisting ground units on a short pursuit in the area of Valley Hi Dr and Center Pkwy"
+  },
+  {
+    "date": "20260319",
+    "time": "9:48 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisted an outside agency on a pursuit in the area K St and 8th St"
+  },
+  {
+    "date": "20260319",
+    "time": "9:54 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "AIR1 is assisting ground units in searching the area of Ramona Ave and Power Inn Rd for a stolen vehicle"
   }
 ]
