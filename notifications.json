@@ -27595,6 +27595,27 @@
   },
   {
     "date": "20260319",
+    "time": "10:45 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 was assisting ground units in searching the area of L St and 32nd St for a suspicious person"
+  },
+  {
+    "date": "20260319",
+    "time": "10:59 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in the area of Bell Ave and Norwood Ave with a possibly armed subject"
+  },
+  {
+    "date": "20260319",
+    "time": "11:07 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "AIR1 helped ground units check the area of Redwood Ave and Grove Ave after reports of shots being fired"
+  },
+  {
+    "date": "20260319",
     "time": "7:23 PM",
     "neighborhood": "",
     "beat": "UI",
@@ -27620,5 +27641,40 @@
     "neighborhood": "Ramona Village",
     "beat": "7C",
     "comments": "AIR1 is assisting ground units in searching the area of Ramona Ave and Power Inn Rd for a stolen vehicle"
+  },
+  {
+    "date": "20260320",
+    "time": "2:25 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "STAR assisting ground units in the area of 7th st and E st for reports of a female pulled into a vehicle"
+  },
+  {
+    "date": "20260320",
+    "time": "3:25 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR assisting ground units in the area of L st and 3r st for reports of an armed vehicle"
+  },
+  {
+    "date": "20260320",
+    "time": "3:38 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "STAR assisting ground units in the area of Lemondrop CT and 69th st for reports of a robbery"
+  },
+  {
+    "date": "20260320",
+    "time": "6:09 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "STAR assisting ground units in the area of Mcmahon Dr and 61 st for reports of a subject that was trying to drive into a building"
+  },
+  {
+    "date": "20260320",
+    "time": "7:01 PM",
+    "neighborhood": "Belvedere",
+    "beat": "7C",
+    "comments": "STAR assisting ground units in the area of Belvedere ave and Florin-Perkins of reports of a business break in"
   }
 ]
