@@ -27644,6 +27644,13 @@
   },
   {
     "date": "20260320",
+    "time": "10:38 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter responded to check area for reports of a possibly burglary."
+  },
+  {
+    "date": "20260320",
     "time": "2:25 PM",
     "neighborhood": "Land Park",
     "beat": "4A",
@@ -27676,5 +27683,26 @@
     "neighborhood": "Belvedere",
     "beat": "7C",
     "comments": "STAR assisting ground units in the area of Belvedere ave and Florin-Perkins of reports of a business break in"
+  },
+  {
+    "date": "20260320",
+    "time": "9:29 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Helicopter responded to survey reports of a break-in related to a domestic couple."
+  },
+  {
+    "date": "20260321",
+    "time": "3:41 PM",
+    "neighborhood": "Colonial Village",
+    "beat": "7C",
+    "comments": "STAR in area of Fruitridge RD / Lowell St assisting units search for robbery suspect."
+  },
+  {
+    "date": "20260321",
+    "time": "9:36 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Star assisting ground units with a possible robbery in the area 47th st/Stockton blvd"
   }
 ]
