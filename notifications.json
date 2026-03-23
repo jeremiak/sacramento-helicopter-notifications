@@ -27693,6 +27693,13 @@
   },
   {
     "date": "20260321",
+    "time": "10:58 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Star assisted units in the area of Florin rd/ Stockton blvd with a reckless driver"
+  },
+  {
+    "date": "20260321",
     "time": "3:41 PM",
     "neighborhood": "Colonial Village",
     "beat": "7C",
@@ -27704,5 +27711,19 @@
     "neighborhood": "",
     "beat": "6C",
     "comments": "Star assisting ground units with a possible robbery in the area 47th st/Stockton blvd"
+  },
+  {
+    "date": "20260322",
+    "time": "2:56 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "STAR is checking the area of Alhambra Blvd/W St for a stolen vehicle."
+  },
+  {
+    "date": "20260322",
+    "time": "3:47 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of Harbor Cove Way and Captains Gate Pl for reports of gunshots in the area and people fighting."
   }
 ]
