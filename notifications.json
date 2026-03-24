@@ -27725,5 +27725,75 @@
     "neighborhood": "Creekside",
     "beat": "1A",
     "comments": "Helicopter responded to the area of Harbor Cove Way and Captains Gate Pl for reports of gunshots in the area and people fighting."
+  },
+  {
+    "date": "20260323",
+    "time": "12:14 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of an assault in progress"
+  },
+  {
+    "date": "20260323",
+    "time": "12:49 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "Air unit assisting units after reports of suspicious activity"
+  },
+  {
+    "date": "20260323",
+    "time": "1:06 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air unit is looking for a missing person on foot in area of Sea Lion Ct and Pocket Rd. Male, white, 73 years old, 5'8/thin, grey hair, bro eyes, possibly wearing hat, maroon shirt, blue jeans. Due to memory problems, does not know where he lives. If seen, please call 911 or 916-808-5471"
+  },
+  {
+    "date": "20260323",
+    "time": "4:19 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "STAR assisting ground units in the area of Northgate/W El Camino of reports of a Robbery"
+  },
+  {
+    "date": "20260323",
+    "time": "4:28 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisting ground units in the area of Laramore/Teekay wy for a disturbance"
+  },
+  {
+    "date": "20260323",
+    "time": "4:37 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "STAR assisting ground units in the area of Allott way/Fitzwilliam way.... units checking the area for an armed subject"
+  },
+  {
+    "date": "20260323",
+    "time": "5:08 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisting ground units in the area of m st and 35th st, trying to locate an armed subject"
+  },
+  {
+    "date": "20260323",
+    "time": "7:27 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisting grounds units in the area of Willow/South Ave for subjects squatting in a residence."
+  },
+  {
+    "date": "20260323",
+    "time": "8:03 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units in the area of Center Pkwy and Bruceville of reports of a sideshow"
+  },
+  {
+    "date": "20260323",
+    "time": "8:17 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "AIR1 assisting ground units in the area of Stonecreek Dr and W El Camino Ave of a stolen vehicle"
   }
 ]
