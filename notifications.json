@@ -27837,5 +27837,75 @@
     "neighborhood": "Gardenland",
     "beat": "1C",
     "comments": "STAR was en route to help check the area of San Juan Rd and Northgate Blvd for a possibly stolen vehicle"
+  },
+  {
+    "date": "20260325",
+    "time": "1:35 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Misdemeanor assault."
+  },
+  {
+    "date": "20260325",
+    "time": "1:47 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Break in at a vacant building."
+  },
+  {
+    "date": "20260325",
+    "time": "1:51 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted officers searching the area for a suicidal subject."
+  },
+  {
+    "date": "20260325",
+    "time": "1:56 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter assisted officers checking the area for possible burglary at a home"
+  },
+  {
+    "date": "20260325",
+    "time": "3:57 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "Helicopter checking area for armed subject."
+  },
+  {
+    "date": "20260325",
+    "time": "4:30 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting on possible break-in in progress"
+  },
+  {
+    "date": "20260325",
+    "time": "7:46 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "Air unit checking area for suspicious activity"
+  },
+  {
+    "date": "20260325",
+    "time": "8:10 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Air unit assisting after reports of a possible assault"
+  },
+  {
+    "date": "20260325",
+    "time": "8:15 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "Air unit checking area after reports of suspicious activity"
+  },
+  {
+    "date": "20260325",
+    "time": "8:46 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting outside agency"
   }
 ]
