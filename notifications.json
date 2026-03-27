@@ -27840,6 +27840,20 @@
   },
   {
     "date": "20260325",
+    "time": "11:09 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "air unit assisted ground units with reports of an assault"
+  },
+  {
+    "date": "20260325",
+    "time": "11:19 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Air unit assisted ground units with reports of a possible armed subject"
+  },
+  {
+    "date": "20260325",
     "time": "1:35 PM",
     "neighborhood": "Pocket",
     "beat": "4C",
@@ -27907,5 +27921,54 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air unit assisting outside agency"
+  },
+  {
+    "date": "20260326",
+    "time": "4:47 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units with a welfare check."
+  },
+  {
+    "date": "20260326",
+    "time": "4:58 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisting ground units check area for a pursuit vehicle."
+  },
+  {
+    "date": "20260326",
+    "time": "5:09 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted ground units in pursuit of a subject with a felony warrant. Subject was detained without further incident."
+  },
+  {
+    "date": "20260326",
+    "time": "5:38 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Helicopter checked the 800 Block of N 10th Street for reports of a missing person."
+  },
+  {
+    "date": "20260326",
+    "time": "7:59 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "Helicopter assisted ground units look for an assault suspect. Suspect was detained."
+  },
+  {
+    "date": "20260326",
+    "time": "8:13 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Possible home burglary."
+  },
+  {
+    "date": "20260326",
+    "time": "8:34 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Assault possible weapon involved."
   }
 ]
