@@ -27924,6 +27924,13 @@
   },
   {
     "date": "20260326",
+    "time": "11:39 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisted ground units in locating an armed subject in the area of Broadway and 2nd Ave"
+  },
+  {
+    "date": "20260326",
     "time": "4:47 PM",
     "neighborhood": "West Del Paso Heights",
     "beat": "2B",
@@ -27970,5 +27977,47 @@
     "neighborhood": "",
     "beat": "1A",
     "comments": "Assault possible weapon involved."
+  },
+  {
+    "date": "20260327",
+    "time": "12:03 AM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in locating a suspicious person in the area of Del Paso Blvd and South Ave"
+  },
+  {
+    "date": "20260327",
+    "time": "12:11 AM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in monitoring a critical incident in the area of Del Paso Blvd and El Camino Ave"
+  },
+  {
+    "date": "20260327",
+    "time": "8:35 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "AIR1 assisting ground units in the area of 15th ave and 53rd st trying to locate a subject with a weapon"
+  },
+  {
+    "date": "20260327",
+    "time": "8:38 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisting units in the area of I st/3rd St locating a subject on the tracks"
+  },
+  {
+    "date": "20260327",
+    "time": "8:49 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisting ground units in the area of Florin rd and Amherst st, trying to locate a Hit and Run vehicle"
+  },
+  {
+    "date": "20260327",
+    "time": "9:07 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units in the area of San Juan Rd and Summer Park Dr trying to locate a Burglary subject"
   }
 ]
