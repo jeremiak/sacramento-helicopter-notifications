@@ -28022,6 +28022,27 @@
   },
   {
     "date": "20260328",
+    "time": "10:52 PM",
+    "neighborhood": "Little Pocket",
+    "beat": "4A",
+    "comments": "Air1 assisted ground units in locating a possibly wanted vehicle."
+  },
+  {
+    "date": "20260328",
+    "time": "11:03 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air1 assisted ground units in locating a suspect of an assault near the area of Kirk way and 21st street."
+  },
+  {
+    "date": "20260328",
+    "time": "11:17 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air1 assisted ground units in locating a subject with a firearm near the area of west el camino and fairweather drive."
+  },
+  {
+    "date": "20260328",
     "time": "12:05 AM",
     "neighborhood": "South Oak Park",
     "beat": "6A",
@@ -28047,5 +28068,12 @@
     "neighborhood": "Northgate",
     "beat": "1C",
     "comments": "AIR1 assisting ground units in the area of Northgate and Rio Tierra Ave for reports of a subject on a roof"
+  },
+  {
+    "date": "20260329",
+    "time": "9:44 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "STAR helping ground units try and locate a possible robbery suspect in the area of Center Pkwy/Mack Rd."
   }
 ]
