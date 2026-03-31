@@ -28071,9 +28071,51 @@
   },
   {
     "date": "20260329",
+    "time": "10:29 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "STAR assisting grounds units with locating a possible hit and run suspect in the area of Fairbanks Ave/Norwood Ave."
+  },
+  {
+    "date": "20260329",
     "time": "9:44 PM",
     "neighborhood": "Parkway",
     "beat": "5C",
     "comments": "STAR helping ground units try and locate a possible robbery suspect in the area of Center Pkwy/Mack Rd."
+  },
+  {
+    "date": "20260329",
+    "time": "9:59 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR assisting ground units with locating an armed subject in the area of Florin Rd/24th ST."
+  },
+  {
+    "date": "20260330",
+    "time": "1:49 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Air unit assisting after reports of a subject armed with a knife."
+  },
+  {
+    "date": "20260330",
+    "time": "2:47 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air unit assisting in search for wanted subject."
+  },
+  {
+    "date": "20260330",
+    "time": "5:55 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "AIR1 assisting ground units in the area of Fee Dr and Tribute for reports of subjects inside the a property"
+  },
+  {
+    "date": "20260330",
+    "time": "8:16 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units in the area of Natomas blvd and N Bend dr for reports of a robbery"
   }
 ]
