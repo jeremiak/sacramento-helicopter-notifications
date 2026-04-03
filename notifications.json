@@ -28131,5 +28131,96 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6B",
     "comments": "Air unit assisting in location a possible stolen vehicle"
+  },
+  {
+    "date": "20260402",
+    "time": "12:18 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisted ground units in the area of Truxel Rd and San Juan Rd in locating two subjects breaking into vehicles"
+  },
+  {
+    "date": "20260402",
+    "time": "12:29 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "air unit assisted units in detaining suspect trying to get into a residence."
+  },
+  {
+    "date": "20260402",
+    "time": "12:39 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "Air unit assisted w/ checking roof of apartment complex"
+  },
+  {
+    "date": "20260402",
+    "time": "1:15 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4A",
+    "comments": "Air1 was assisting ground units for a silent robbery alarm at SAFE Credit Union off of Freeport Blvd"
+  },
+  {
+    "date": "20260402",
+    "time": "6:09 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Star in area of Broadway / Martin Luther King Blvd assisting units in locating a stolen vehicle"
+  },
+  {
+    "date": "20260402",
+    "time": "6:24 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "STAR in area of 2nd Ave / Broadway assisting units in locating a possibly armed subject."
+  },
+  {
+    "date": "20260402",
+    "time": "6:36 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "STAR in area of Florin Rd / Freeport Blvd assisting units in locating a possible stolen vehicle"
+  },
+  {
+    "date": "20260402",
+    "time": "6:59 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 in area of Fruitridge Rd / 48th St checking on possible misdemeanor assault"
+  },
+  {
+    "date": "20260402",
+    "time": "7:04 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "AIR1 in area of Del Paso Rd and Juneberry Dr assisting units with a weapons call"
+  },
+  {
+    "date": "20260402",
+    "time": "7:11 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "AIR1 in area of Santiago Ave and Rio Linda Blvd assisting units in pursuit"
+  },
+  {
+    "date": "20260402",
+    "time": "7:21 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "AIR1 in area of Silverton Way and Gunnison Ave assisting units with domestic violence call"
+  },
+  {
+    "date": "20260402",
+    "time": "7:54 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "Air1 in area of Howe Ave / University Ave assisting with welfare check"
+  },
+  {
+    "date": "20260402",
+    "time": "9:29 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in locating possible assault victims in the area of Plaza Ave and Oakmont St"
   }
 ]
