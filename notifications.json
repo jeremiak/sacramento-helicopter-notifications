@@ -28222,5 +28222,26 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2B",
     "comments": "AIR1 assisted ground units in locating possible assault victims in the area of Plaza Ave and Oakmont St"
+  },
+  {
+    "date": "20260402",
+    "time": "9:30 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in searching the area of Plaza Ave and Oakmont St for a possible assault suspect"
+  },
+  {
+    "date": "20260402",
+    "time": "9:45 PM",
+    "neighborhood": "Southeast Village",
+    "beat": "6C",
+    "comments": "AIR1 checked the area of Bibbs Dr and Elder Creek Rd for vehicles doing donuts"
+  },
+  {
+    "date": "20260403",
+    "time": "9:07 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR is assisting ground units in checking the area of 47th Ave and Martin Luther King Jr Blvd for a suspicious vehicle"
   }
 ]
