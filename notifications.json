@@ -28243,5 +28243,61 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "STAR is assisting ground units in checking the area of 47th Ave and Martin Luther King Jr Blvd for a suspicious vehicle"
+  },
+  {
+    "date": "20260403",
+    "time": "9:35 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Star assisted our ground units in locating a suspect of a hit and run in the area of franklin and florin rd."
+  },
+  {
+    "date": "20260404",
+    "time": "2:27 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "STAR checked the area of Dixieanne Ave/Evergreen St on reports of a suspicious vehicle."
+  },
+  {
+    "date": "20260404",
+    "time": "3:09 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "STAR checked the area of Northgate Blvd/Winterhaven Ave for possible suspects from a vandalism."
+  },
+  {
+    "date": "20260404",
+    "time": "3:12 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "STAR checked the area of N 18th St/Dreher St for a possible assault."
+  },
+  {
+    "date": "20260404",
+    "time": "3:47 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "STAR checked the area of Florin Perkins Rd/Rovana Cir for possible burglary."
+  },
+  {
+    "date": "20260404",
+    "time": "6:35 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to the area of Meadow Wood Cir and Loma Verde Way for reports of a person causing a disturbance."
+  },
+  {
+    "date": "20260404",
+    "time": "8:55 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter was in the area assisting ground units search for a stolen vehicle."
+  },
+  {
+    "date": "20260404",
+    "time": "9:27 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Helicopter was in the area checking for vehicles reported speeding in the area."
   }
 ]
