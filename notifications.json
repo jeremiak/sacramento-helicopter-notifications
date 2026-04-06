@@ -28299,5 +28299,40 @@
     "neighborhood": "Point West",
     "beat": "2C",
     "comments": "Helicopter was in the area checking for vehicles reported speeding in the area."
+  },
+  {
+    "date": "20260405",
+    "time": "3:38 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air unit assisting in checking the area for a subject who needs a welfare check"
+  },
+  {
+    "date": "20260405",
+    "time": "5:32 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "STAR assisting ground units in the Land Park Area of reports of an armed subject."
+  },
+  {
+    "date": "20260405",
+    "time": "8:59 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "Star responded to the area near West River Drive and Bergamo Way to assist patrol units checking the area for a possible disturbance."
+  },
+  {
+    "date": "20260405",
+    "time": "9:09 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "Star responded to the area of Hawk Ave and Thelma Ave to assist patrol units checking the area for reports of possible gunfire heard in the area."
+  },
+  {
+    "date": "20260405",
+    "time": "9:27 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Star responded to the area of Meadowgate Dr and Mandy Dr to assist patrol units checking a residence for a possible burglary."
   }
 ]
