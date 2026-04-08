@@ -28341,5 +28341,40 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Helicopter responded to the area of Boxwood St and Calvados Ave for reports of a physical assault happening inside of a moving vehicle."
+  },
+  {
+    "date": "20260407",
+    "time": "12:29 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Helicopter assisted officers searching the area for a suspect involved in domestic violence."
+  },
+  {
+    "date": "20260407",
+    "time": "3:25 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "Helicopter assisted officers after reports of a fight in the area. They were unable to locate anyone."
+  },
+  {
+    "date": "20260407",
+    "time": "6:04 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting after reports of a subject with a knife"
+  },
+  {
+    "date": "20260407",
+    "time": "6:13 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting in observing a crowd of people"
+  },
+  {
+    "date": "20260407",
+    "time": "9:07 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of possible weapons in use"
   }
 ]
