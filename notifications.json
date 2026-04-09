@@ -28376,5 +28376,33 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "Air unit assisting after reports of possible weapons in use"
+  },
+  {
+    "date": "20260408",
+    "time": "6:16 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting after reports of a panic alarm"
+  },
+  {
+    "date": "20260408",
+    "time": "8:07 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Air unit assisting after reports of a break in in progress"
+  },
+  {
+    "date": "20260408",
+    "time": "8:21 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting after reports of a large fight"
+  },
+  {
+    "date": "20260408",
+    "time": "8:43 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Air units assisting after reports of sounds of an accident"
   }
 ]
