@@ -28404,5 +28404,40 @@
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
     "comments": "Air units assisting after reports of sounds of an accident"
+  },
+  {
+    "date": "20260408",
+    "time": "9:52 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisted ground units in checking the area of Mascot Ave and 23rd Ave after reports of shots fired."
+  },
+  {
+    "date": "20260409",
+    "time": "2:45 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Helicopter assisted officers searching the area for reports of subject chasing another with a knife"
+  },
+  {
+    "date": "20260409",
+    "time": "3:17 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "STAR in area of Meadowview Rd / Coral Gables Ct assisting units in locating possible robbery suspect"
+  },
+  {
+    "date": "20260409",
+    "time": "7:46 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 in area of Occidental Dr / Julliard Dr assisting units in locating possible robbery suspects"
+  },
+  {
+    "date": "20260409",
+    "time": "8:01 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "AIR1 in area of Mack Rd / HWY 99 assisting units in locating possible stolen vehicle"
   }
 ]
