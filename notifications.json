@@ -28442,9 +28442,23 @@
   },
   {
     "date": "20260410",
+    "time": "11:17 PM",
+    "neighborhood": "",
+    "beat": "7C",
+    "comments": "Air unit assisted ground units with reports of a stolen vehicle"
+  },
+  {
+    "date": "20260410",
     "time": "4:44 PM",
     "neighborhood": "South Natomas",
     "beat": "1C",
     "comments": "AIR1 assisting units look for a shooting suspect near Truxel RD."
+  },
+  {
+    "date": "20260411",
+    "time": "10:38 AM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "STAR assisting units locate a stolen vehicle."
   }
 ]
