@@ -28509,5 +28509,33 @@
     "neighborhood": "",
     "beat": "1A",
     "comments": "Air unit was assisting officers with reports of a male trying to break into a mailbox. The call was unfounded."
+  },
+  {
+    "date": "20260414",
+    "time": "4:48 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "Air 1 attempting to locate someone possibly trying to break into a vehicle"
+  },
+  {
+    "date": "20260414",
+    "time": "4:58 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "Air 1 attempting to locate someone who stole clothes from store."
+  },
+  {
+    "date": "20260414",
+    "time": "5:24 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Air1 assisting in looking for a possible physical fight."
+  },
+  {
+    "date": "20260414",
+    "time": "8:52 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Air support for a traffic stop with subject with warrants being detained."
   }
 ]
