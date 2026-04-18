@@ -28544,5 +28544,47 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air unit assisting and outside agency ground units"
+  },
+  {
+    "date": "20260416",
+    "time": "10:23 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Star assisted ground units check the area after receiving reports of a suspicious circumstance."
+  },
+  {
+    "date": "20260417",
+    "time": "4:10 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Air1 assisting ground units on surveillance in south Sacramento Area"
+  },
+  {
+    "date": "20260417",
+    "time": "4:49 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "Air1 in area of 21st St and W St assisting units with weapons call."
+  },
+  {
+    "date": "20260417",
+    "time": "4:58 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air1 in area of Franklin Blvd / Morrison Creek assisting units in locating domestic violence subject"
+  },
+  {
+    "date": "20260417",
+    "time": "6:47 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "STAR in area of Martin Luther King Jr Blvd / 47th Ave assisting units in locating a possible armed vehicle"
+  },
+  {
+    "date": "20260417",
+    "time": "6:53 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1B",
+    "comments": "STAR in area of I-5 and I-80 assisting units with a welfare check."
   }
 ]
