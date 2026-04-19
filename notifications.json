@@ -28554,6 +28554,27 @@
   },
   {
     "date": "20260417",
+    "time": "10:22 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "air unit assisted ground units with pursuing a subject in the area of martin luther king jr blvd and 41st ave"
+  },
+  {
+    "date": "20260417",
+    "time": "10:46 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "air unit assisted ground units with a car meet of 100 plus vehicles near stockton blvd / mcmahon dr"
+  },
+  {
+    "date": "20260417",
+    "time": "11:18 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "air units assisted ground units in searching for a couple engaged in domestic violence near folsom blvd and power inn rd"
+  },
+  {
+    "date": "20260417",
     "time": "4:10 PM",
     "neighborhood": "North City Farms",
     "beat": "4B",
@@ -28586,5 +28607,33 @@
     "neighborhood": "Gateway West",
     "beat": "1B",
     "comments": "STAR in area of I-5 and I-80 assisting units with a welfare check."
+  },
+  {
+    "date": "20260418",
+    "time": "12:47 AM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "air unit assisted ground units with a gathering of vehicles near grave ave and bollenbacher ave"
+  },
+  {
+    "date": "20260418",
+    "time": "2:23 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3M",
+    "comments": "Air unit assisting in the search of a wanted person in the area of I st and 5th St"
+  },
+  {
+    "date": "20260418",
+    "time": "3:29 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting in the search of a missing person in the area of Peralta Ave and Northgate Blvd"
+  },
+  {
+    "date": "20260418",
+    "time": "9:22 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "la riviera dr near 7eleven subject used mace in area"
   }
 ]
