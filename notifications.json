@@ -28610,6 +28610,48 @@
   },
   {
     "date": "20260418",
+    "time": "10:29 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "delta shores cir s and cosumnes river blvd for large car meet up"
+  },
+  {
+    "date": "20260418",
+    "time": "10:45 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "freeport and florin for a wreckless driver"
+  },
+  {
+    "date": "20260418",
+    "time": "10:59 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "19th and j st checking area for subject with an axe"
+  },
+  {
+    "date": "20260418",
+    "time": "11:09 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "10th and victorian checking for incomplete call for service"
+  },
+  {
+    "date": "20260418",
+    "time": "11:13 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "jibboom and richards for stolen vehicle"
+  },
+  {
+    "date": "20260418",
+    "time": "11:24 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "w st and 16th reports of side show"
+  },
+  {
+    "date": "20260418",
     "time": "12:47 AM",
     "neighborhood": "Northpointe",
     "beat": "2A",
@@ -28635,5 +28677,47 @@
     "neighborhood": "College Town",
     "beat": "7B",
     "comments": "la riviera dr near 7eleven subject used mace in area"
+  },
+  {
+    "date": "20260419",
+    "time": "12:04 AM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "tower bridge reports of people with guns"
+  },
+  {
+    "date": "20260419",
+    "time": "12:42 AM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "28th/j reports of large gathering of vehicles"
+  },
+  {
+    "date": "20260419",
+    "time": "1:45 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "AIR1 in area of Bannon St / Sequoia Pacific Blvd assisting units in locating armed assault subject"
+  },
+  {
+    "date": "20260419",
+    "time": "4:38 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Helicopter assisted the area looking for a subject reported armed w/a gun. No one located."
+  },
+  {
+    "date": "20260419",
+    "time": "6:54 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "2C",
+    "comments": "Star never marked os"
+  },
+  {
+    "date": "20260419",
+    "time": "8:54 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "Helicopter assisted officers in the area for a reported distrurbance"
   }
 ]
