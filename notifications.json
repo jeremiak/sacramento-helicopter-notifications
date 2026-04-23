@@ -28775,5 +28775,75 @@
     "neighborhood": "River Gardens",
     "beat": "1C",
     "comments": "Helicopter assisted officers in the area working a priority call."
+  },
+  {
+    "date": "20260422",
+    "time": "11:05 AM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "Helicopter assisting officers in the area of a school after a threat made."
+  },
+  {
+    "date": "20260422",
+    "time": "12:03 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Helicopter assisted officers in the area after reports of a dog being shot."
+  },
+  {
+    "date": "20260422",
+    "time": "3:00 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "Helicopter assisted officers searching the area for an armed vehicle"
+  },
+  {
+    "date": "20260422",
+    "time": "3:44 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter assisting officers in the area after reports of a subject walking w/a gun. Officers are on scene now."
+  },
+  {
+    "date": "20260422",
+    "time": "3:49 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Helicopter assisting officers in the area after reports of a large fight in a soccer field."
+  },
+  {
+    "date": "20260422",
+    "time": "5:35 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Air assisting after reports of possibly armed subj"
+  },
+  {
+    "date": "20260422",
+    "time": "6:05 PM",
+    "neighborhood": "Marshall School",
+    "beat": "3B",
+    "comments": "Air unit assisting after reports of a hit and run"
+  },
+  {
+    "date": "20260422",
+    "time": "7:28 PM",
+    "neighborhood": "Southside Park",
+    "beat": "3A",
+    "comments": "Air unit assisting after reports of a possible fight in progress"
+  },
+  {
+    "date": "20260422",
+    "time": "7:57 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "Air unit assisting after reports of a silent alarm"
+  },
+  {
+    "date": "20260422",
+    "time": "9:23 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "AIR1 assisted ground units in checking the area for a possible car burglary in the area of La Riviera Dr and Howe Ave"
   }
 ]
