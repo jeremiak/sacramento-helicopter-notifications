@@ -28778,6 +28778,20 @@
   },
   {
     "date": "20260422",
+    "time": "10:07 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "STAR checked the area of Western Ave and Silver Eagle Rd for suspicious activity"
+  },
+  {
+    "date": "20260422",
+    "time": "10:34 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "STAR is assisting ground units in locating a possibly armed subject in the area of Santa Ana Ave and Rio Linda Blvd"
+  },
+  {
+    "date": "20260422",
     "time": "11:05 AM",
     "neighborhood": "Med Center",
     "beat": "6A",
@@ -28845,5 +28859,68 @@
     "neighborhood": "College Town",
     "beat": "7B",
     "comments": "AIR1 assisted ground units in checking the area for a possible car burglary in the area of La Riviera Dr and Howe Ave"
+  },
+  {
+    "date": "20260423",
+    "time": "12:09 AM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR21 was on a call in error"
+  },
+  {
+    "date": "20260423",
+    "time": "2:45 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisting ground units regarding an assault call"
+  },
+  {
+    "date": "20260423",
+    "time": "4:35 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "The air unit was assisting ground units with locating stolen vehicle in the area of Florin Perkins Rd and Elder Creek Rd. Officers are still working the call."
+  },
+  {
+    "date": "20260423",
+    "time": "5:09 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "The air unit was assisting officers with reports of a kidnapping and assault near Tangerine and Brookfield. Officers have located the victim and are still working through the call."
+  },
+  {
+    "date": "20260423",
+    "time": "5:11 PM",
+    "neighborhood": "Tallac Village",
+    "beat": "6B",
+    "comments": "Air unit was assisting officers with reports of a possible assault involving a weapon near 65th St Expy and 21st Ave. The suspect has been detained."
+  },
+  {
+    "date": "20260423",
+    "time": "5:25 PM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "Helicopter assisting ground units with reports of a possible kidnapping near Main Ave and Justice St. Officers are still working the call."
+  },
+  {
+    "date": "20260423",
+    "time": "6:08 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Air unit was assisting officers with attempting to arrest a subject near 57th Ave and Demaret Dr. The suspect has been detained."
+  },
+  {
+    "date": "20260423",
+    "time": "6:30 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "The air unit was assisting officers with retrieving police property that was reported stolen. Officers have located the item."
+  },
+  {
+    "date": "20260423",
+    "time": "6:37 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Helicopter assisting ground units with reports of a robbery using physical force near Innovator Dr and Endeavor Way. Officers are working through the call still."
   }
 ]
