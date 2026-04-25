@@ -28862,6 +28862,20 @@
   },
   {
     "date": "20260423",
+    "time": "10:09 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "air unit assisted ground units with reports of gunshots heard"
+  },
+  {
+    "date": "20260423",
+    "time": "10:27 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "air unit assisted ground units with reports of a disturbance in the area"
+  },
+  {
+    "date": "20260423",
     "time": "12:09 AM",
     "neighborhood": "Parkway",
     "beat": "5B",
@@ -28922,5 +28936,40 @@
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
     "comments": "Helicopter assisting ground units with reports of a robbery using physical force near Innovator Dr and Endeavor Way. Officers are working through the call still."
+  },
+  {
+    "date": "20260424",
+    "time": "4:59 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 in area of Broadway / 42nd st assisting units in locating armed subject."
+  },
+  {
+    "date": "20260424",
+    "time": "5:21 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "AIR1 in area of Arden Way and Heritage Lane assisting units in locating possible armed subject"
+  },
+  {
+    "date": "20260424",
+    "time": "6:03 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "AIR1 in area of Freeport Blvd and 11th Ave assisting units in locating armed subject"
+  },
+  {
+    "date": "20260424",
+    "time": "6:08 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR 1 in area of Amherst St and 19th St assisting units with a disturbance."
+  },
+  {
+    "date": "20260424",
+    "time": "7:27 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "AIR1 in area of El Camino Ave and Princeton St assisting units with weapons call"
   }
 ]
