@@ -28971,5 +28971,54 @@
     "neighborhood": "Erikson Industrial Park",
     "beat": "2C",
     "comments": "AIR1 in area of El Camino Ave and Princeton St assisting units with weapons call"
+  },
+  {
+    "date": "20260425",
+    "time": "5:09 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units in the area of Mack Rd/Hwy 99 for reports of a armed subject"
+  },
+  {
+    "date": "20260425",
+    "time": "5:27 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 assisting ground units in the area of McGashan st and Lawrence for reports of subjects with weapons"
+  },
+  {
+    "date": "20260425",
+    "time": "5:57 PM",
+    "neighborhood": "",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units the area of Garden Hwy and Natomas West Drainage of reports of subject with a weapon"
+  },
+  {
+    "date": "20260425",
+    "time": "6:56 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "STAR assisting ground units in the area of Florin and Munson for reports of a sewer fire"
+  },
+  {
+    "date": "20260425",
+    "time": "8:56 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR assisting ground units on a pursuit of a vehicle in the area of L st /6th st"
+  },
+  {
+    "date": "20260425",
+    "time": "9:19 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR assisting ground units in the area of Bridgecreek and Crossmill for reports of an armed subject"
+  },
+  {
+    "date": "20260425",
+    "time": "9:25 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "STAR assisting ground units in the Arden Fair Mall area with reports of a subject with a weapon"
   }
 ]
