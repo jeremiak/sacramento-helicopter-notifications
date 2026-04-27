@@ -28974,6 +28974,20 @@
   },
   {
     "date": "20260425",
+    "time": "10:06 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "S LAND PARK DR/43RD AVE...STAR assisted ground units with a pursuit."
+  },
+  {
+    "date": "20260425",
+    "time": "10:18 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "3247 MARYSVILLE BLVD...AIR1 CHECKED THE AREA FOR REPORTS OF SHOTS FIRED"
+  },
+  {
+    "date": "20260425",
     "time": "5:09 PM",
     "neighborhood": "Parkway",
     "beat": "5C",
@@ -29020,5 +29034,40 @@
     "neighborhood": "Arden Fair",
     "beat": "2C",
     "comments": "STAR assisting ground units in the Arden Fair Mall area with reports of a subject with a weapon"
+  },
+  {
+    "date": "20260425",
+    "time": "9:57 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "RIVERSIDE BLVD/GREENHAVEN DR...STAR assisted ground units with checking the area for a stolen vehicle."
+  },
+  {
+    "date": "20260426",
+    "time": "10:48 AM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units in the area of South Ave and Rio Linda Blvd"
+  },
+  {
+    "date": "20260426",
+    "time": "12:09 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "VALLEY HI DR/KENTWAL DR...STAR checked the area for a reckless driver."
+  },
+  {
+    "date": "20260426",
+    "time": "12:19 AM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "ALAMOS AVE/BRANCH ST...AIR1 checking the area for a large gathering with a possibly armed subject"
+  },
+  {
+    "date": "20260426",
+    "time": "12:33 AM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "GLORIA DR/PERERA CIR...AIR1 assisted ground units with a possible assault"
   }
 ]
