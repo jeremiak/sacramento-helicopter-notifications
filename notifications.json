@@ -29100,6 +29100,27 @@
   },
   {
     "date": "20260428",
+    "time": "10:51 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR21 was assisting ground units after reports of a shooting near the 4200 block of Fell st."
+  },
+  {
+    "date": "20260428",
+    "time": "10:57 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR21 was assisting patrol units with checking the 3600 block of Dayton St after reports of a shooting in the area."
+  },
+  {
+    "date": "20260428",
+    "time": "11:13 PM",
+    "neighborhood": "Parker Homes",
+    "beat": "2A",
+    "comments": "AIR21 was assisting ground units check the area of Macarthur st and Clinger Ct for sounds of shots fired."
+  },
+  {
+    "date": "20260428",
     "time": "3:27 PM",
     "neighborhood": "",
     "beat": "4B",
@@ -29146,5 +29167,47 @@
     "neighborhood": "Richardson Village",
     "beat": "2B",
     "comments": "AIR1 was checking area for missing person."
+  },
+  {
+    "date": "20260429",
+    "time": "4:29 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Helicopter assisted officers looking for a lost child.  Child has been found."
+  },
+  {
+    "date": "20260429",
+    "time": "6:04 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter assisted officers in the area during a pursuit.  Suspect has been detained."
+  },
+  {
+    "date": "20260429",
+    "time": "7:17 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisting units in the area"
+  },
+  {
+    "date": "20260429",
+    "time": "8:52 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Star responded to the area of Folsom Blvd and Julliard Dr to assist patrol units in the area checking for a possible burglary."
+  },
+  {
+    "date": "20260429",
+    "time": "9:28 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Star responded to the area of Watt Ave and Highway 50 to assist patrol officers checking the area for a juvenile."
+  },
+  {
+    "date": "20260429",
+    "time": "9:54 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Star responded to the area of Gloria Dr and Lake Glen Way to assist patrol officers checking the area for a possible assault."
   }
 ]
