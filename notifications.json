@@ -29240,6 +29240,13 @@
   },
   {
     "date": "20260501",
+    "time": "11:58 PM",
+    "neighborhood": "South City Farms",
+    "beat": "4B",
+    "comments": "A helicopter responded to survey reports of a domestic violence situation involving a firearm."
+  },
+  {
+    "date": "20260501",
     "time": "8:29 PM",
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
@@ -29272,5 +29279,96 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "STAR assisting ground units in the area of 5th st and N st for reports of subject with a bat"
+  },
+  {
+    "date": "20260502",
+    "time": "10:18 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter was assisting ground units check for possible robbery suspects in area."
+  },
+  {
+    "date": "20260502",
+    "time": "12:30 AM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "A helicopter responded to survey the scene after a patrol unit saw a male subject walking around with a firearm."
+  },
+  {
+    "date": "20260502",
+    "time": "6:27 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Helicopter responded to the area of Marysville Blvd and I-80 for reports of a stolen car in the area."
+  },
+  {
+    "date": "20260502",
+    "time": "6:37 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of Del Paso Rd and Five Star Way for reports of a possible break-in to a business"
+  },
+  {
+    "date": "20260502",
+    "time": "6:52 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of N Freeway Blvd and Lennane Dr. for reports of an assault with a vehicle."
+  },
+  {
+    "date": "20260502",
+    "time": "7:09 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to the area of Amherst St and Reenel Way for reports of a possible burglary."
+  },
+  {
+    "date": "20260502",
+    "time": "7:17 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of Poppy Hill Way and Stemmler Dr. for reports of juveniles on the roof of the school."
+  },
+  {
+    "date": "20260502",
+    "time": "7:24 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter responded to the area of J St. and Front St to assist ground units on a subject stop."
+  },
+  {
+    "date": "20260502",
+    "time": "7:29 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter responded to the area of Smoke Tree Dr and Long Branch Ct. for reports of a person with a gun.  Ground units were unable to locate any such person."
+  },
+  {
+    "date": "20260502",
+    "time": "7:47 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to the area of Delta Shores Shopping Center For reports of a large group of people involved in a physical fight."
+  },
+  {
+    "date": "20260502",
+    "time": "7:54 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of Natomas Blvd and N Bend Dr. for reports of shots being fired."
+  },
+  {
+    "date": "20260502",
+    "time": "8:58 PM",
+    "neighborhood": "Colonial Manor",
+    "beat": "7C",
+    "comments": "STAR assisting grounds units in the area of 21st Ave and Priscilla Ln for reports of a subject with a weapon"
+  },
+  {
+    "date": "20260502",
+    "time": "9:09 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "STAR assisting ground units in the area of Mendel Way and River Run Cir of reports of a Hit and Run"
   }
 ]
