@@ -29289,6 +29289,27 @@
   },
   {
     "date": "20260502",
+    "time": "10:46 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Helicopter assisting ground units monitor reports of a sideshow"
+  },
+  {
+    "date": "20260502",
+    "time": "10:56 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter was assisting ground units monitor large party"
+  },
+  {
+    "date": "20260502",
+    "time": "11:38 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Helicopter was assisting ground units with large party."
+  },
+  {
+    "date": "20260502",
     "time": "12:30 AM",
     "neighborhood": "South Natomas",
     "beat": "1B",
@@ -29370,5 +29391,26 @@
     "neighborhood": "South Natomas",
     "beat": "1C",
     "comments": "STAR assisting ground units in the area of Mendel Way and River Run Cir of reports of a Hit and Run"
+  },
+  {
+    "date": "20260503",
+    "time": "5:31 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Star assisted ground units in locating an armed subject in the area of capitol and 27th avenue."
+  },
+  {
+    "date": "20260503",
+    "time": "6:50 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "STAR assisting ground units in locating an injured subject in the area of Marysville Blvd and Sonoma Ave."
+  },
+  {
+    "date": "20260503",
+    "time": "7:56 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Star assisted ground units in locating a stolen vehicle near the area of riverside blvd and greenhaven drive."
   }
 ]
