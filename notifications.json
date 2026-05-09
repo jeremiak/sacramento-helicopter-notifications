@@ -29587,5 +29587,40 @@
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
     "comments": "air unit assisting with a pursuit"
+  },
+  {
+    "date": "20260508",
+    "time": "1:18 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "AIR1 was responding to a call regarding domestic violence near Exposition Blvd/Response Rd."
+  },
+  {
+    "date": "20260508",
+    "time": "1:25 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "AIR1 was assisting ground units with a large fire near Arden Way/Evergreen St."
+  },
+  {
+    "date": "20260508",
+    "time": "3:39 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "AIR1 was assisting units on a vehicle accident off La Riviera Dr/Howe ave."
+  },
+  {
+    "date": "20260508",
+    "time": "3:48 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "AIR1 was assisting ground units search for a missing person near Mack Rd/Franklin Blvd."
+  },
+  {
+    "date": "20260508",
+    "time": "4:06 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "AIR1 was assisting units regarding an assault that occurred near Del Paso Rd/I-5."
   }
 ]
