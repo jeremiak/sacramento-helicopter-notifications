@@ -29622,5 +29622,33 @@
     "neighborhood": "Rp - Sports Complex",
     "beat": "1A",
     "comments": "AIR1 was assisting units regarding an assault that occurred near Del Paso Rd/I-5."
+  },
+  {
+    "date": "20260509",
+    "time": "7:27 PM",
+    "neighborhood": "Willowcreek",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units in the area of Marina Glen Wy and Wheelhouse Ave in a pursuit"
+  },
+  {
+    "date": "20260509",
+    "time": "8:40 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units in the area of Ottumwa Dr and Broadwater Dr for reports of subjects with weapons"
+  },
+  {
+    "date": "20260509",
+    "time": "9:13 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "air assisted ground units with reports of assault"
+  },
+  {
+    "date": "20260509",
+    "time": "9:28 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Star was in the area of Fruitridge rd/ Alder ave for reports of a suspicious subject walking around a business with a flashlight."
   }
 ]
