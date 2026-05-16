@@ -29779,6 +29779,13 @@
   },
   {
     "date": "20260514",
+    "time": "10:58 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "blanche dell dr and nampa way for a possible prowler call"
+  },
+  {
+    "date": "20260514",
     "time": "3:18 PM",
     "neighborhood": "College / Glen",
     "beat": "7B",
@@ -29825,5 +29832,26 @@
     "neighborhood": "Marshall School",
     "beat": "3B",
     "comments": "29th st and h st in midwtown assisted in reports of a physical fight"
+  },
+  {
+    "date": "20260515",
+    "time": "5:06 PM",
+    "neighborhood": "Brentwood",
+    "beat": "4B",
+    "comments": "AIR1 assisting ground units in the area of 24th st /40th ave for a Traffic Stop"
+  },
+  {
+    "date": "20260515",
+    "time": "5:20 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "STAR assisting ground units in the area of El Camino Ave and Albatross Way for a stolen vehicle"
+  },
+  {
+    "date": "20260515",
+    "time": "8:18 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisting ground units in the area of Brookfield Dr/Franklin Blvd for a Pursuit"
   }
 ]
