@@ -29853,5 +29853,54 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "AIR1 assisting ground units in the area of Brookfield Dr/Franklin Blvd for a Pursuit"
+  },
+  {
+    "date": "20260515",
+    "time": "9:47 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "STAR assisted ground units in checking the area of La Mancha Way and Tangerine Ave for a possibly armed subject"
+  },
+  {
+    "date": "20260516",
+    "time": "6:11 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "STAR assisting ground units in the area of Franklin and Fruitridge rd for reports of a suspicious suspect"
+  },
+  {
+    "date": "20260516",
+    "time": "7:46 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisting ground units in the area of Folsom Blvd and 49th street for reports of a subject with a gun"
+  },
+  {
+    "date": "20260516",
+    "time": "8:42 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter responded to survey reports of suspicious activity in a vehicle."
+  },
+  {
+    "date": "20260516",
+    "time": "8:58 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Helicopter responded to survey reports of a subject jumping from the freeway."
+  },
+  {
+    "date": "20260516",
+    "time": "9:10 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "Helicopter responded to survey reports of a subject sitting on the train tracks."
+  },
+  {
+    "date": "20260516",
+    "time": "9:29 PM",
+    "neighborhood": "Avondale",
+    "beat": "6C",
+    "comments": "Helicopter responded to survey reports of a neighborhood disturbance involving the use of pepper spray."
   }
 ]
