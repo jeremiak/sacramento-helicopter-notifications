@@ -29982,9 +29982,37 @@
   },
   {
     "date": "20260520",
+    "time": "11:00 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units in checking the area of Stockton Blvd and Fruitridge Rd for a stolen vehicle"
+  },
+  {
+    "date": "20260520",
     "time": "8:28 PM",
     "neighborhood": "Colonial Heights",
     "beat": "6B",
     "comments": "19th ave/53rd st - helicopter assisted with monitoring reports of an assault"
+  },
+  {
+    "date": "20260521",
+    "time": "7:48 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "STAR is assisting ground units in locating a felony vehicle in the area of Garden Highway and I 5"
+  },
+  {
+    "date": "20260521",
+    "time": "8:19 PM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "STAR assisted ground units in the area of 34th St and V St on a suspicious activity call"
+  },
+  {
+    "date": "20260521",
+    "time": "8:59 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisted ground units in checking the area for reports of a large fight near Valley Hi Dr and Center Pkwy"
   }
 ]
