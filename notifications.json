@@ -30042,5 +30042,47 @@
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
     "comments": "AIR1 assisting ground units in the area of North/Rio Linda for reports of someone with a gun"
+  },
+  {
+    "date": "20260523",
+    "time": "12:06 AM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "AIR1 assisted ground units by checking the area of Rush River Dr and Windbridge Dr for a suspicious person"
+  },
+  {
+    "date": "20260523",
+    "time": "4:59 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisting grounds units in the area of hwy99/12th ave for a traffic stop"
+  },
+  {
+    "date": "20260523",
+    "time": "5:17 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground units in the area of Northgate and San Juan for reports of a robbery"
+  },
+  {
+    "date": "20260523",
+    "time": "6:19 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisting ground units in the area of 5th ave/37th St for reports of an armed subject"
+  },
+  {
+    "date": "20260523",
+    "time": "6:30 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "AIR1 assisting ground units in the area of 21st ave and 54th St for a vehicle accident"
+  },
+  {
+    "date": "20260523",
+    "time": "8:45 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "AIR1 assisted officers locate a truck that was involved in a possible domestic dispute in the area of Sun River Drive/Elder Creek Rd."
   }
 ]
