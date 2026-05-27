@@ -30196,5 +30196,19 @@
     "neighborhood": "Willowcreek",
     "beat": "1B",
     "comments": "Air1 assisted ground units in locating a suspicious subject near the area of W River rd and Orchard ln."
+  },
+  {
+    "date": "20260526",
+    "time": "1:56 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter assisting on a robbery call in the area of Del Paso blvd / American River Bike trail"
+  },
+  {
+    "date": "20260526",
+    "time": "8:16 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "STAR assisted ground units in checking the area of Morey Ave and Altos Ave after a Shotspotter activation"
   }
 ]
