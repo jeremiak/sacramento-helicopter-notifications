@@ -30210,5 +30210,33 @@
     "neighborhood": "West Del Paso Heights",
     "beat": "2A",
     "comments": "STAR assisted ground units in checking the area of Morey Ave and Altos Ave after a Shotspotter activation"
+  },
+  {
+    "date": "20260527",
+    "time": "10:16 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "AIR1 assisted ground units in searching the area of Ethan Way and El Camino Ave for a vandalism suspect"
+  },
+  {
+    "date": "20260527",
+    "time": "10:37 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "AIR1 assisted ground units in locating a possible assault in the area of Front St and J St"
+  },
+  {
+    "date": "20260527",
+    "time": "2:54 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisting outside agency"
+  },
+  {
+    "date": "20260527",
+    "time": "9:37 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "AIR1 is in the area of Vallejo Way/Muir Way assisting ground units that are contacting a subject in a vehicle."
   }
 ]
