@@ -30238,5 +30238,47 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "AIR1 is in the area of Vallejo Way/Muir Way assisting ground units that are contacting a subject in a vehicle."
+  },
+  {
+    "date": "20260528",
+    "time": "2:38 PM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "Star in area of Broadway and Stockton Blvd assisting units in locating an armed vehicle."
+  },
+  {
+    "date": "20260528",
+    "time": "2:48 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Star in area of Restoration Ct and Phoenix Park Dr attempting to locate robbery suspect"
+  },
+  {
+    "date": "20260528",
+    "time": "5:33 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units with trying to locate a possible stolen vehicle"
+  },
+  {
+    "date": "20260528",
+    "time": "7:28 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Vehicle stop with occupants who fled."
+  },
+  {
+    "date": "20260528",
+    "time": "9:01 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 is assisting CHP on a pursuit that started in West Sacramento"
+  },
+  {
+    "date": "20260528",
+    "time": "9:48 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 was assisting ground units in checking the area of Natoma Way and Harris Ave for a possible assault"
   }
 ]
