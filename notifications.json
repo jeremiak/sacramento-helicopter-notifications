@@ -30280,5 +30280,26 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "AIR1 was assisting ground units in checking the area of Natoma Way and Harris Ave for a possible assault"
+  },
+  {
+    "date": "20260529",
+    "time": "3:46 PM",
+    "neighborhood": "",
+    "beat": "2C",
+    "comments": "Helicopter assisted ground units that responded to an assault call in the area of Marconi Ave and Auburn Blvd."
+  },
+  {
+    "date": "20260529",
+    "time": "3:49 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter assisted ground units that responded to a vehicle accident with injuries in the area of Northgate Blvd and W El Camino Ave"
+  },
+  {
+    "date": "20260529",
+    "time": "4:27 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "STAR assisting ground units in the area of Fruitridge and 65th St for reports of a vehicle involved in a robbery"
   }
 ]
