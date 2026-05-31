@@ -30301,5 +30301,19 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6C",
     "comments": "STAR assisting ground units in the area of Fruitridge and 65th St for reports of a vehicle involved in a robbery"
+  },
+  {
+    "date": "20260530",
+    "time": "6:19 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air1 in the area of Bruceville Rd / Hospital Dr assisting with locating a missing person."
+  },
+  {
+    "date": "20260530",
+    "time": "6:39 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Air1 assisting units in locating vehicle in the area of N 11th St / N D St"
   }
 ]
