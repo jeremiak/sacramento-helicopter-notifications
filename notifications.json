@@ -30315,5 +30315,117 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "Air1 assisting units in locating vehicle in the area of N 11th St / N D St"
+  },
+  {
+    "date": "20260531",
+    "time": "12:15 AM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 ASSISTED GROUND UNITS IN LOCATING VEHICLES INVOLVED IN A SIDESHOW."
+  },
+  {
+    "date": "20260531",
+    "time": "12:26 AM",
+    "neighborhood": "",
+    "beat": "1C",
+    "comments": "H20 ASSISTED UNITS IN LOCATING A HAZARDOUS DRIVER."
+  },
+  {
+    "date": "20260531",
+    "time": "12:38 AM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 ASSISTED GROUND UNITS IN LOCATING A SUSPICIOUS SUBJECT NEAR RENE AVE."
+  },
+  {
+    "date": "20260531",
+    "time": "12:43 AM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "AIR1 ASSISTED GROUND UNITS IN LOCATING AN ARMED SUBJECT NEAR CONNIE DR."
+  },
+  {
+    "date": "20260531",
+    "time": "12:52 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted ground units in the area of Jacinto Ave/Center Pkwy after receiving reports of a possible sideshow. Vehicles dispersed with no incident."
+  },
+  {
+    "date": "20260531",
+    "time": "1:17 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Helicopter responded to the area of Stockton Blvd and Fowler Ave for reports of a vehicle vs. pedestrian accident."
+  },
+  {
+    "date": "20260531",
+    "time": "1:39 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "Helicopter is checking the area for a stolen car.  Car is a White 2019 Genesis."
+  },
+  {
+    "date": "20260531",
+    "time": "2:13 PM",
+    "neighborhood": "Raley Industrial Park",
+    "beat": "2A",
+    "comments": "Helicopter responded to the area of Dry Creek Rd and Main Ave for a vehicle accident."
+  },
+  {
+    "date": "20260531",
+    "time": "3:57 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Air unit assisting ground units after reports of a stolen vehicle in the area of highway 99 and mack road"
+  },
+  {
+    "date": "20260531",
+    "time": "4:57 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 helped ground units in locating a stolen vehicle"
+  },
+  {
+    "date": "20260531",
+    "time": "5:13 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisted ground units in locating a possibly armed subject."
+  },
+  {
+    "date": "20260531",
+    "time": "5:22 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "AIR1 was assisting ground units with checking the area for a possibly armed subject"
+  },
+  {
+    "date": "20260531",
+    "time": "6:29 PM",
+    "neighborhood": "Brentwood",
+    "beat": "4B",
+    "comments": "STAR assisted ground units in checking the area after reports of a physical altercation"
+  },
+  {
+    "date": "20260531",
+    "time": "7:35 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground officers in locating a vehicle in the area of I-80 and Northgate Blvd."
+  },
+  {
+    "date": "20260531",
+    "time": "8:18 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "AIR1 helped ground units check the area for a possibly armed subject."
+  },
+  {
+    "date": "20260531",
+    "time": "9:07 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisted units with suspect that fled from them."
   }
 ]
