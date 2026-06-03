@@ -30455,5 +30455,26 @@
     "neighborhood": "River Gardens",
     "beat": "1C",
     "comments": "AIR1 was assisting ground units in locating a stolen vehicle"
+  },
+  {
+    "date": "20260602",
+    "time": "4:39 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "AIR1 was assisting ground units check the area after reports of a possibly armed subject."
+  },
+  {
+    "date": "20260602",
+    "time": "8:28 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in checking the area after reports of a possible burglary."
+  },
+  {
+    "date": "20260602",
+    "time": "8:41 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisted ground units check the area after reports of a potential burglary"
   }
 ]
