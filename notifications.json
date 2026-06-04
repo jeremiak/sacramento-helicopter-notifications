@@ -30476,5 +30476,26 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "AIR1 assisted ground units check the area after reports of a potential burglary"
+  },
+  {
+    "date": "20260603",
+    "time": "12:19 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "24th st/glen ellen cir - helicopter assisted with monitoring reports of an armed subject in the area"
+  },
+  {
+    "date": "20260603",
+    "time": "7:46 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisted ground units in searching the area of Brewerton Dr and Stonecreek Dr for possibly armed subjects"
+  },
+  {
+    "date": "20260603",
+    "time": "8:34 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 was en route to help search the area of Santiago Ave and Lexington St for a missing child but the child was located before AIR1 marked on scene."
   }
 ]
