@@ -30497,5 +30497,33 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "AIR1 was en route to help search the area of Santiago Ave and Lexington St for a missing child but the child was located before AIR1 marked on scene."
+  },
+  {
+    "date": "20260604",
+    "time": "12:13 AM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "AIR1 assisted ground units in checking the area of P St and 20th St after reports of a large fight"
+  },
+  {
+    "date": "20260604",
+    "time": "4:37 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "Star unit assisting in the search for a suspicious subject in the area of Stockton blvd and 15th ave"
+  },
+  {
+    "date": "20260604",
+    "time": "4:40 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Star unit assisting in the search for a violent subject in the area of n b st/ 6th st"
+  },
+  {
+    "date": "20260604",
+    "time": "8:50 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air1 was in the area of Folsom blvd and 66th st assisting ground units with a fight"
   }
 ]
