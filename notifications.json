@@ -30500,6 +30500,13 @@
   },
   {
     "date": "20260604",
+    "time": "10:06 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "air searching the area for a stolen vehicle near riverside blvd and florin rd."
+  },
+  {
+    "date": "20260604",
     "time": "12:13 AM",
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
@@ -30525,5 +30532,61 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Air1 was in the area of Folsom blvd and 66th st assisting ground units with a fight"
+  },
+  {
+    "date": "20260604",
+    "time": "9:17 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "air unit assisting with mental health call with a weapon possibly involved near havenside dr and quay ct."
+  },
+  {
+    "date": "20260604",
+    "time": "9:49 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "air unit assisting with possible burglary near e commerce way and n park dr."
+  },
+  {
+    "date": "20260605",
+    "time": "3:31 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter responded to reports of a plane landing in the river...appeared to be practicing water landings"
+  },
+  {
+    "date": "20260605",
+    "time": "3:58 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisted ground units looking for an at-risk missing person in the area of Broadway and Martin Luther King Jr Blvd"
+  },
+  {
+    "date": "20260605",
+    "time": "4:06 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Helicopter assisted ground units in looking for a potentially armed subject in the area of Del Paso Rd and Truxel Rd"
+  },
+  {
+    "date": "20260605",
+    "time": "4:15 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units who responded to a potential robbery in the area of 3rd st and K st"
+  },
+  {
+    "date": "20260605",
+    "time": "4:39 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Star in area of Rio Linda Blvd and South Ave assisting units in locating a stolen vehicle."
+  },
+  {
+    "date": "20260605",
+    "time": "8:43 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "STAR assisting ground units in the area of Bicentennial and folsom for reports of people fighting"
   }
 ]
