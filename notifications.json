@@ -30549,6 +30549,13 @@
   },
   {
     "date": "20260605",
+    "time": "11:49 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "air unit assisted ground units with locating a female"
+  },
+  {
+    "date": "20260605",
     "time": "3:31 PM",
     "neighborhood": "Old Sacramento",
     "beat": "3M",
@@ -30588,5 +30595,19 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "STAR assisting ground units in the area of Bicentennial and folsom for reports of people fighting"
+  },
+  {
+    "date": "20260605",
+    "time": "9:19 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Star assisted ground units in attempting to locate a possible burglary suspect near Warehouse way."
+  },
+  {
+    "date": "20260606",
+    "time": "3:29 PM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "Star in the area of Riverside Blvd and Florin Rd assisting units in locating assault suspect."
   }
 ]
