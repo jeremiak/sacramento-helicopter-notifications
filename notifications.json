@@ -30605,9 +30605,79 @@
   },
   {
     "date": "20260606",
+    "time": "10:09 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter assisted units that were in pursuit of a bicyclist."
+  },
+  {
+    "date": "20260606",
+    "time": "10:26 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Helicopter responded to reports of a large party with possibly armed subjects."
+  },
+  {
+    "date": "20260606",
+    "time": "11:14 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter responded to the scene when a ground unit requested immediate cover assistance."
+  },
+  {
+    "date": "20260606",
     "time": "3:29 PM",
     "neighborhood": "Greenhaven",
     "beat": "4C",
     "comments": "Star in the area of Riverside Blvd and Florin Rd assisting units in locating assault suspect."
+  },
+  {
+    "date": "20260607",
+    "time": "2:39 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "Helicopter in the area of Kokomo Dr/New Market Dr assisting officers responding to an assault."
+  },
+  {
+    "date": "20260607",
+    "time": "2:39 PM",
+    "neighborhood": "Ben Ali",
+    "beat": "2C",
+    "comments": "Helicopter in the area of Plover St/Glenrose Ave assisting officers out with an uncooperative subject."
+  },
+  {
+    "date": "20260607",
+    "time": "4:22 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter assisted officers in the area after reports of a subject walking w/a gun.  Officers made contact with the subject and was not a firearm was a walker."
+  },
+  {
+    "date": "20260607",
+    "time": "4:31 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter in the area assisting officers detain subject."
+  },
+  {
+    "date": "20260607",
+    "time": "5:28 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisting Sheriff Department involved in a pursuit of subject who is now on foot."
+  },
+  {
+    "date": "20260607",
+    "time": "8:57 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR assisting ground units in the area of I st bridge for a subject on the railing"
+  },
+  {
+    "date": "20260607",
+    "time": "9:03 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "STAR assisting units in the area of 16th st and L st for reports of a hit and run"
   }
 ]
