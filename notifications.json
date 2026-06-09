@@ -30679,5 +30679,75 @@
     "neighborhood": "Midtown / Winn / Capital Park",
     "beat": "3B",
     "comments": "STAR assisting units in the area of 16th st and L st for reports of a hit and run"
+  },
+  {
+    "date": "20260608",
+    "time": "10:07 PM",
+    "neighborhood": "Valleyview Acres",
+    "beat": "1A",
+    "comments": "A helicopter responded to survey reports of a suspicious trespasser."
+  },
+  {
+    "date": "20260608",
+    "time": "1:47 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Helicopter assisted officers searching for an assault suspect who was detained."
+  },
+  {
+    "date": "20260608",
+    "time": "2:24 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisted officers detaining subjects involved in a robbery of a person."
+  },
+  {
+    "date": "20260608",
+    "time": "2:48 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted officers making contact with a subject who had jumped a fence onto private property.  Subject has been sent on his way."
+  },
+  {
+    "date": "20260608",
+    "time": "5:13 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "air1 assisted units in locating an armed vehicle near the area of martin luther king jr blvd"
+  },
+  {
+    "date": "20260608",
+    "time": "7:42 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "Air1 assisted units in locating a stolen vehicle near the area of 22nd / w st"
+  },
+  {
+    "date": "20260608",
+    "time": "8:19 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "abiding pl/creeks edge way - helicopter assisted with searching for a stolen vehicle"
+  },
+  {
+    "date": "20260608",
+    "time": "8:33 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "A helicopter responded to survey reports of a female screaming in distress."
+  },
+  {
+    "date": "20260608",
+    "time": "8:48 PM",
+    "neighborhood": "Hollywood Park",
+    "beat": "4B",
+    "comments": "A helicopter responded to survey reports of a home burglary."
+  },
+  {
+    "date": "20260608",
+    "time": "9:58 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "A helicopter assisted ground units to survey scene of a large altercation."
   }
 ]
