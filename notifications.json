@@ -30689,6 +30689,27 @@
   },
   {
     "date": "20260608",
+    "time": "10:22 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR21 assisting ground units in the area of High St and Rivera Dr for reports of a gunshots"
+  },
+  {
+    "date": "20260608",
+    "time": "10:39 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "AIR21 assisting units in the area of Fowler and Stockton Blvd for reports of a Robbery suspect in the area"
+  },
+  {
+    "date": "20260608",
+    "time": "11:23 PM",
+    "neighborhood": "River Gardens",
+    "beat": "1C",
+    "comments": "AIR21 assisting ground units in the area of Northview and Northfield for reports of a physical altercation"
+  },
+  {
+    "date": "20260608",
     "time": "1:47 PM",
     "neighborhood": "",
     "beat": "3A",
@@ -30749,5 +30770,47 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "A helicopter assisted ground units to survey scene of a large altercation."
+  },
+  {
+    "date": "20260609",
+    "time": "3:29 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "Helicopter in the area of American River Dr/Howe Ave assisting officers responding to reports of a possible assault."
+  },
+  {
+    "date": "20260609",
+    "time": "4:47 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Helicopter assisted officers searching the area for a subject chasing another with a knife."
+  },
+  {
+    "date": "20260609",
+    "time": "5:28 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "AIR1 is assisting ground units in checking the area of Bridgeford Dr and San Juan Rd for a missing juvenile"
+  },
+  {
+    "date": "20260609",
+    "time": "5:59 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisting officers patrolling the area."
+  },
+  {
+    "date": "20260609",
+    "time": "6:01 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted officers during a traffic stop."
+  },
+  {
+    "date": "20260609",
+    "time": "9:06 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisted officers checking the area for suspicious subjects in the area."
   }
 ]
