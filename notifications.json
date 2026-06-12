@@ -30840,5 +30840,33 @@
     "neighborhood": "Tallac Village",
     "beat": "6B",
     "comments": "Air1 was in the area of 25th ave/ Ortega assisting ground units with a grand theft in progress."
+  },
+  {
+    "date": "20260611",
+    "time": "6:00 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting ground units after reports of a subject armed with a golf club in the area of eleanor and rio linda blvd."
+  },
+  {
+    "date": "20260611",
+    "time": "6:09 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit assisting ground unit after reports of a suspicious armed subject in the area of calvine and center  pkwy"
+  },
+  {
+    "date": "20260611",
+    "time": "6:44 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground unit after reports of a suspicious vehicle in area of martin luther king jr blvd/26th ave"
+  },
+  {
+    "date": "20260611",
+    "time": "8:38 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Air unit assisting ground unit after reports of an assault in the area of s watt ave and fruitridge rd."
   }
 ]
