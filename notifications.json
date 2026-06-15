@@ -30878,6 +30878,34 @@
   },
   {
     "date": "20260613",
+    "time": "11:17 PM",
+    "neighborhood": "Ramona Village",
+    "beat": "7C",
+    "comments": "Air1 assisted ground units in locating an armed subject near the area of Folsom and Power inn rd."
+  },
+  {
+    "date": "20260613",
+    "time": "11:37 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air1 assisted units in locating an active assault with injuries near the area of North and May st."
+  },
+  {
+    "date": "20260613",
+    "time": "11:43 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Air1 assisted ground units in locating a suspicious vehicle near the area of truxel and del paso rd."
+  },
+  {
+    "date": "20260613",
+    "time": "11:58 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Air1 assisted ground units in locating a subject lighting fireworks near front and L street."
+  },
+  {
+    "date": "20260613",
     "time": "12:16 AM",
     "neighborhood": "Rp - Sports Complex",
     "beat": "1A",
@@ -30945,5 +30973,19 @@
     "neighborhood": "College Town",
     "beat": "7B",
     "comments": "STAR assisting ground units in the area of La riviera and College Town for reports of a Burglary"
+  },
+  {
+    "date": "20260614",
+    "time": "12:19 AM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Air1 assisted ground units in locating a suspect of a shooting near the area of Taylor / South ave."
+  },
+  {
+    "date": "20260614",
+    "time": "12:31 AM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air1 assisted ground units in locating a subject a suspect of a shooting near the area of Northgate blvd and Wisconsin ave."
   }
 ]
