@@ -31050,5 +31050,61 @@
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
     "comments": "Helicopter assisted officers checking the area for a suspicious situation.  Was unfounded."
+  },
+  {
+    "date": "20260618",
+    "time": "12:38 AM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units check the area after receiving reports of subjects in a physical altercation."
+  },
+  {
+    "date": "20260618",
+    "time": "4:46 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units in checking the area of 54th St and 21st Ave for reports of a large fight"
+  },
+  {
+    "date": "20260618",
+    "time": "4:49 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 assisted ground units in the area of Brookfield Dr and Franklin Blvd in locating a stolen vehicle"
+  },
+  {
+    "date": "20260618",
+    "time": "6:09 PM",
+    "neighborhood": "Z'Berg Park",
+    "beat": "4C",
+    "comments": "AIR1 assisted ground units in the area of S Land Park Dr and Florin Rd with locating a felony assault suspect"
+  },
+  {
+    "date": "20260618",
+    "time": "8:17 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "AIR1 assisted ground units in locating an armed subject in the area of Dos Rios St and N B St"
+  },
+  {
+    "date": "20260618",
+    "time": "8:38 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisted ground units in the area of Marysville Blvd and South Ave on reports of a possible break in"
+  },
+  {
+    "date": "20260618",
+    "time": "8:57 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "AIR1 assisted ground units in locating subjects possibly involved in an assault in the area of Stockton Blvd and Riza Ave"
+  },
+  {
+    "date": "20260618",
+    "time": "9:09 PM",
+    "neighborhood": "Power Ridge",
+    "beat": "7C",
+    "comments": "AIR1 checked the area of Fruitridge Rd and Power Inn Rd for suspicious activity"
   }
 ]
