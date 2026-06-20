@@ -31106,5 +31106,33 @@
     "neighborhood": "Power Ridge",
     "beat": "7C",
     "comments": "AIR1 checked the area of Fruitridge Rd and Power Inn Rd for suspicious activity"
+  },
+  {
+    "date": "20260619",
+    "time": "12:05 AM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "looking for possible armed vehicle started in south sacramento area"
+  },
+  {
+    "date": "20260619",
+    "time": "12:57 AM",
+    "neighborhood": "Greenhaven",
+    "beat": "4C",
+    "comments": "air unit assisted ground units with checking area for a vehicle"
+  },
+  {
+    "date": "20260619",
+    "time": "8:05 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air1 assisted ground units in locating a suspect of domestic violence near the area of Waterglen circle."
+  },
+  {
+    "date": "20260619",
+    "time": "8:17 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air1 assisted ground units in locating a vehicle related to a domestic violence incident near the area of Occidental drive."
   }
 ]
