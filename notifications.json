@@ -31109,6 +31109,13 @@
   },
   {
     "date": "20260619",
+    "time": "10:29 PM",
+    "neighborhood": "Johnson Heights",
+    "beat": "2B",
+    "comments": "STAR assisted ground units in the area of Northgate Blvd and Senator Ave in locating a stolen vehicle"
+  },
+  {
+    "date": "20260619",
     "time": "12:05 AM",
     "neighborhood": "",
     "beat": "UI",
@@ -31134,5 +31141,33 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "Air1 assisted ground units in locating a vehicle related to a domestic violence incident near the area of Occidental drive."
+  },
+  {
+    "date": "20260620",
+    "time": "4:17 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "STAR in area of Stockton Blvd / Fowler Ave assisting units in locating suspicious subject."
+  },
+  {
+    "date": "20260620",
+    "time": "7:21 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "A helicopter was dispatched to assist ground units to survey reports of a firearm brandishing."
+  },
+  {
+    "date": "20260620",
+    "time": "7:51 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "A helicopter was dispatched to assist grounds performing a felony stop."
+  },
+  {
+    "date": "20260620",
+    "time": "8:18 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "A helicopter was dispatched to help locate a 5 year old missing juvenile."
   }
 ]
