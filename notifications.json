@@ -31260,5 +31260,33 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "mack rd checking for assault suspect"
+  },
+  {
+    "date": "20260624",
+    "time": "10:06 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "air unit assisted ground units with reports of a fight"
+  },
+  {
+    "date": "20260624",
+    "time": "10:16 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "air assisted ground units with checking area for a possibly armed subject"
+  },
+  {
+    "date": "20260624",
+    "time": "10:44 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "air assisted ground units with searching area"
+  },
+  {
+    "date": "20260625",
+    "time": "7:36 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted ground units on foot pursuit. Suspect in custody."
   }
 ]
