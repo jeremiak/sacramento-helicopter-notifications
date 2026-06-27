@@ -31288,5 +31288,75 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "Helicopter assisted ground units on foot pursuit. Suspect in custody."
+  },
+  {
+    "date": "20260626",
+    "time": "4:06 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "STAR assisting ground units in the area of Stonecreek Dr/Brewerton Dr for a vehicle involved in a robbery."
+  },
+  {
+    "date": "20260626",
+    "time": "6:00 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "STAR assisting ground units in the area of Mack/La Mancha Way for reports of an armed subject"
+  },
+  {
+    "date": "20260626",
+    "time": "8:18 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisting ground units in the area of 17th ave and Washington Ave for reports of gunfire"
+  },
+  {
+    "date": "20260626",
+    "time": "8:24 PM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "AIR1 assisting ground units in the area of 29th st and E st for reports of a missing person"
+  },
+  {
+    "date": "20260626",
+    "time": "8:39 PM",
+    "neighborhood": "Hollywood Park",
+    "beat": "4B",
+    "comments": "AIR1 assisting ground units in the area of Fruitridge and 24th St for reports of an armed subject"
+  },
+  {
+    "date": "20260626",
+    "time": "9:03 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "AIR1 assisting ground units in the area of Fowler and Stockton for subjects fighting"
+  },
+  {
+    "date": "20260626",
+    "time": "9:09 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 assisting ground units in the area of 35th st and 16th ave for reports of a subject in someone's yard"
+  },
+  {
+    "date": "20260626",
+    "time": "9:14 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "AIR1 assisting ground units in the area of Belleview ave and Kari Ann for reports of a house getting broken into"
+  },
+  {
+    "date": "20260626",
+    "time": "9:18 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisting ground units in the area of Florin and Franklin for reports of a robbery"
+  },
+  {
+    "date": "20260626",
+    "time": "9:18 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "STAR assisting ground units in the area of Specialty and Florin Perkins for reports of subjects in the fenced in area of a business."
   }
 ]
