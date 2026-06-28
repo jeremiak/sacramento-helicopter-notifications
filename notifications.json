@@ -31291,6 +31291,20 @@
   },
   {
     "date": "20260626",
+    "time": "11:50 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Helicopter checked area for suspicious persons in a resident's backyard."
+  },
+  {
+    "date": "20260626",
+    "time": "11:57 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted ground units in search for a wanted felony vehicle."
+  },
+  {
+    "date": "20260626",
     "time": "4:06 PM",
     "neighborhood": "South Natomas",
     "beat": "1C",
@@ -31358,5 +31372,54 @@
     "neighborhood": "Morrison Creek",
     "beat": "6C",
     "comments": "STAR assisting ground units in the area of Specialty and Florin Perkins for reports of subjects in the fenced in area of a business."
+  },
+  {
+    "date": "20260627",
+    "time": "12:06 AM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "A helicopter was dispatched to locate a suspicious vehicle seen leaving a storage facility."
+  },
+  {
+    "date": "20260627",
+    "time": "12:36 AM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "Helicopter was dispatched to locate subjects related to a domestic violence situation involving a knife."
+  },
+  {
+    "date": "20260627",
+    "time": "4:18 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting ground units in the area of North Ave / May st in locating armed subjects"
+  },
+  {
+    "date": "20260627",
+    "time": "5:07 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting ground units with a traffic accident in the area of Alhambra Blvd and 32nd St"
+  },
+  {
+    "date": "20260627",
+    "time": "5:28 PM",
+    "neighborhood": "Colonial Village",
+    "beat": "7C",
+    "comments": "Air unit assisting ground units after reports of a juvenile by themselves in the area of 21st Ave and 25th Ave"
+  },
+  {
+    "date": "20260627",
+    "time": "7:09 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Air unit assisting ground units after reports of suspicious activity in the area of Fruitridge Rd and Alder Ave"
+  },
+  {
+    "date": "20260627",
+    "time": "9:53 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Star assisted ground units in locating a suspect of a felony assault in the area of 7th and Capitol Mall."
   }
 ]
