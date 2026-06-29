@@ -31421,5 +31421,26 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "Star assisted ground units in locating a suspect of a felony assault in the area of 7th and Capitol Mall."
+  },
+  {
+    "date": "20260628",
+    "time": "12:16 AM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air1 assisted ground units in locating a subject related to a felony crime near the area of 51st and Connector ave."
+  },
+  {
+    "date": "20260628",
+    "time": "3:24 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Helicopter assisted ground units that responded to reports of a possible armed subject in the area of North 16th St and North B St"
+  },
+  {
+    "date": "20260628",
+    "time": "7:10 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "Helicopter assisted officers in the area where an assault occurred."
   }
 ]
