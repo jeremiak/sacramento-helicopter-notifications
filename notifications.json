@@ -31442,5 +31442,33 @@
     "neighborhood": "Dos Rios Triangle",
     "beat": "3A",
     "comments": "Helicopter assisted officers in the area where an assault occurred."
+  },
+  {
+    "date": "20260630",
+    "time": "1:38 AM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR21 assisting ground units in the area of Northgate and W El Camino Ave for a Subject stop"
+  },
+  {
+    "date": "20260630",
+    "time": "1:52 AM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "air unit assisted with a possible kidnapping near 3rd st / J st"
+  },
+  {
+    "date": "20260630",
+    "time": "7:44 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Air unit assisted after reports of suspicious activity"
+  },
+  {
+    "date": "20260630",
+    "time": "8:41 PM",
+    "neighborhood": "Newton Booth",
+    "beat": "3B",
+    "comments": "Air unit assisting after reports of a possible break-in in progress"
   }
 ]
