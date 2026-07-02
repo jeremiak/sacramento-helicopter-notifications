@@ -31470,5 +31470,26 @@
     "neighborhood": "Newton Booth",
     "beat": "3B",
     "comments": "Air unit assisting after reports of a possible break-in in progress"
+  },
+  {
+    "date": "20260701",
+    "time": "3:11 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air unit checking area after caller advised of subject throwing rocks at vehicles"
+  },
+  {
+    "date": "20260701",
+    "time": "3:28 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of possible robbery"
+  },
+  {
+    "date": "20260701",
+    "time": "3:38 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "Air unit assisting in checking area for a felony hit and run suspect vehicle"
   }
 ]
