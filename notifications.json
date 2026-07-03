@@ -31491,5 +31491,68 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6B",
     "comments": "Air unit assisting in checking area for a felony hit and run suspect vehicle"
+  },
+  {
+    "date": "20260701",
+    "time": "9:45 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "air unit checked area for reports of possible armed subject"
+  },
+  {
+    "date": "20260702",
+    "time": "11:36 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "The air unit was up assisting officers with locating a stolen vehicle suspect who ran from units in the area of Martin Luther King Jr Blvd and Fruitridge Rd. Officers are still working through this call."
+  },
+  {
+    "date": "20260702",
+    "time": "2:37 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted ground units that responded to a hit and run in the area of Franklin Blvd and 52nd Ave"
+  },
+  {
+    "date": "20260702",
+    "time": "2:49 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units in searching for a possibly armed subject in the area of Del Paso Blvd and El Camino Ave"
+  },
+  {
+    "date": "20260702",
+    "time": "3:51 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted ground units that were searching for a stolen vehicle in the area of Freeport Blvd and Cosumnes River Blvd"
+  },
+  {
+    "date": "20260702",
+    "time": "4:49 PM",
+    "neighborhood": "Med Center",
+    "beat": "6A",
+    "comments": "AIR1 in area of Stockton Blvd and 39th st assisting units in search for missing person"
+  },
+  {
+    "date": "20260702",
+    "time": "4:57 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "AIR1 in area of P St and 12th St assisting units in locating hit and run suspect vehicle"
+  },
+  {
+    "date": "20260702",
+    "time": "4:59 PM",
+    "neighborhood": "",
+    "beat": "2C",
+    "comments": "AIR1 in area of Edison Ave / Marcus Ct assisting units in locating a possibly armed subject."
+  },
+  {
+    "date": "20260702",
+    "time": "5:38 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Report of subject with a gun.  No gun found on subjects."
   }
 ]
