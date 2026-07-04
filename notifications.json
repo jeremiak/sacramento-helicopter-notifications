@@ -31554,5 +31554,40 @@
     "neighborhood": "Arden Fair",
     "beat": "2C",
     "comments": "Report of subject with a gun.  No gun found on subjects."
+  },
+  {
+    "date": "20260703",
+    "time": "3:46 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter assisted ground units on a pursuit in the area of Truxel Rd/Garden Hwy"
+  },
+  {
+    "date": "20260703",
+    "time": "8:48 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "AIR1 assisting ground units for reports of a armed subject in the area of Response Road and Exposition BLVD"
+  },
+  {
+    "date": "20260703",
+    "time": "8:59 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "The helicopter assisted units with a report of a male armed with guns at Loma Verde / 69th Ave. The call was unfounded."
+  },
+  {
+    "date": "20260703",
+    "time": "9:08 PM",
+    "neighborhood": "Brentwood",
+    "beat": "4B",
+    "comments": "The air unit was assisting officers with locating a stolen vehicle in the area of 24th St / Brentley Dr. The vehicle was not located."
+  },
+  {
+    "date": "20260703",
+    "time": "9:17 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6C",
+    "comments": "The helicopter was assisting ground units with a pursuit of a reckless driver. Officers lost visual of the driver."
   }
 ]
