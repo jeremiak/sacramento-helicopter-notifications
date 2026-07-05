@@ -31589,5 +31589,40 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6C",
     "comments": "The helicopter was assisting ground units with a pursuit of a reckless driver. Officers lost visual of the driver."
+  },
+  {
+    "date": "20260704",
+    "time": "11:22 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to check reports of a sideshow."
+  },
+  {
+    "date": "20260704",
+    "time": "12:17 AM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Helicopter was assisting units with reports of side show activity at William Land Park. Officers did not locate a side show."
+  },
+  {
+    "date": "20260704",
+    "time": "12:33 AM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "Helicopter was assisting ground units with reports of a large fight in Old Sacramento. Units were unable to locate a fight."
+  },
+  {
+    "date": "20260704",
+    "time": "7:06 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 in area of J st and 44th St for welfare check on subject in the roadway."
+  },
+  {
+    "date": "20260704",
+    "time": "9:49 PM",
+    "neighborhood": "Alhambra Triangle",
+    "beat": "7A",
+    "comments": "AIR21 was assisting ground units with looking for a possibly armed subject."
   }
 ]
