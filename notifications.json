@@ -31701,5 +31701,19 @@
     "neighborhood": "Airport",
     "beat": "4B",
     "comments": "Air units assisting ground units are reports of suspicious activity in the area of 39th Ave and Glen Ellen Circle"
+  },
+  {
+    "date": "20260706",
+    "time": "7:28 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units for a report of a robbery in the area of Innovator Dr and Natomas Crossing Dr"
+  },
+  {
+    "date": "20260706",
+    "time": "7:40 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground units for reports of a suspicious subject in the area of Northgate and San Juan Rd"
   }
 ]
