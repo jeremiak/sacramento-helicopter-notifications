@@ -31715,5 +31715,61 @@
     "neighborhood": "South Natomas",
     "beat": "1C",
     "comments": "AIR1 assisting ground units for reports of a suspicious subject in the area of Northgate and San Juan Rd"
+  },
+  {
+    "date": "20260707",
+    "time": "1:46 PM",
+    "neighborhood": "Noralto",
+    "beat": "2C",
+    "comments": "Helicopter in the area of El Camino Ave/Grove Ave assisting officers responding to an assault."
+  },
+  {
+    "date": "20260707",
+    "time": "4:07 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter in the area of Franklin Blvd/Bassett Way assisting police responding to a possibly armed suicidal subject."
+  },
+  {
+    "date": "20260707",
+    "time": "4:16 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "Helicopter in the area of Stockton Blvd/15th Ave assisting officers responding to reports of the sounds of gunfire."
+  },
+  {
+    "date": "20260707",
+    "time": "5:22 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "Helicopter in the area of Vallecitos Way/50th Ave assisting officers responding to reports of an assault."
+  },
+  {
+    "date": "20260707",
+    "time": "7:22 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted officers in the area detaining armed subject."
+  },
+  {
+    "date": "20260707",
+    "time": "7:39 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Helicopter assisted officers after reports of subject armed with a gun in the area."
+  },
+  {
+    "date": "20260707",
+    "time": "7:57 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter searched the area on the American river for a subject on a raft.  Helicopter spotted subject who gave a thumbs up and continued down the river towards Discovery Park."
+  },
+  {
+    "date": "20260707",
+    "time": "8:48 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "air unit assisted ground units with reports of assault"
   }
 ]
