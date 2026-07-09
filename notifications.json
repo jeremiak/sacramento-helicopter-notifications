@@ -31771,5 +31771,54 @@
     "neighborhood": "South Natomas",
     "beat": "1B",
     "comments": "air unit assisted ground units with reports of assault"
+  },
+  {
+    "date": "20260708",
+    "time": "11:23 AM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "ALTOS AVE/MOREY AVE - HELICOPTER ASSISTED WITH MONITORING REPORTS OF AN ARMED SUBJECT"
+  },
+  {
+    "date": "20260708",
+    "time": "1:40 AM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit assisting with checking the area for hit and run suspect vehicle."
+  },
+  {
+    "date": "20260708",
+    "time": "2:24 AM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "air unit assisted ground units with locating vehicle that took off from officers"
+  },
+  {
+    "date": "20260708",
+    "time": "4:14 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR1 was assisting units on a silent robbery alarm at a business."
+  },
+  {
+    "date": "20260708",
+    "time": "4:56 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "AIR1 was assisting the sheriff's department on a foot pursuit."
+  },
+  {
+    "date": "20260708",
+    "time": "9:06 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air1 responded to help patrol units check the area for a missing person."
+  },
+  {
+    "date": "20260708",
+    "time": "9:49 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air1 assisted patrol officers checking the area during a demonstration downtown."
   }
 ]
