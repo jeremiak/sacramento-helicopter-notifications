@@ -31841,5 +31841,40 @@
     "neighborhood": "Downtown",
     "beat": "3M",
     "comments": "air unit assisted with a possible felony assault involving 2 vehicles near K st and 14th st."
+  },
+  {
+    "date": "20260710",
+    "time": "3:46 PM",
+    "neighborhood": "Metro Center",
+    "beat": "1B",
+    "comments": "Helicopter assisted ground units in looking for a subject potentially involved in a domestic dispute in the area of Gateway Oaks Drive and W El Camino Ave"
+  },
+  {
+    "date": "20260710",
+    "time": "4:26 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "STAR assisting ground units for a traffic stop in the area of El Camino and Traction Ave"
+  },
+  {
+    "date": "20260710",
+    "time": "5:59 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units for a report of a vehicle involved in a robbery in the area of Cosumnes River and Bruceville"
+  },
+  {
+    "date": "20260710",
+    "time": "6:40 PM",
+    "neighborhood": "Natomas Corporate Center",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units in the area of Millcreek and Capital Park for a domestic violence suspect."
+  },
+  {
+    "date": "20260710",
+    "time": "7:36 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisting ground units in a pursuit in the area of Haywood st and Harris ave"
   }
 ]
