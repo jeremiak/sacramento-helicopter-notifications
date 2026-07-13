@@ -31883,5 +31883,68 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6B",
     "comments": "Helicopter assisted ground units in checking the area of Stockton Blvd and 21st Ave for a possibly armed subject."
+  },
+  {
+    "date": "20260712",
+    "time": "1:15 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "AIR1 in area of 75th St / 50th Ave assisting units in locating an armed subject."
+  },
+  {
+    "date": "20260712",
+    "time": "2:08 PM",
+    "neighborhood": "Colonial Heights",
+    "beat": "6B",
+    "comments": "AIR1 in the area of 14th Ave / Stockton Blvd assisting units in locating a suspicious subject."
+  },
+  {
+    "date": "20260712",
+    "time": "2:17 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "AIR1 in the area of Northgate Blvd / Winterhaven Ave assisting units in locating armed subject."
+  },
+  {
+    "date": "20260712",
+    "time": "4:09 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "AIR1 assisting ground units for reports of a suspicious person in the area of El Monte and Dale Ave"
+  },
+  {
+    "date": "20260712",
+    "time": "4:59 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3A",
+    "comments": "AIR1 assisting ground units for a barricaded subject in the area of Front st and V st"
+  },
+  {
+    "date": "20260712",
+    "time": "5:56 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "STAR assisting ground units in the area of Bankside/Macon for a subject that was armed"
+  },
+  {
+    "date": "20260712",
+    "time": "6:35 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "STAR assisting ground units in the area of Oneil and 21st for an armed subject"
+  },
+  {
+    "date": "20260712",
+    "time": "7:39 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "AIR1 assisting units for a pursuit in the area of Jackson Rd and Folsom Blvd"
+  },
+  {
+    "date": "20260712",
+    "time": "8:09 PM",
+    "neighborhood": "Johnson Heights",
+    "beat": "2B",
+    "comments": "AIR1 assisting units for a report of a large fight in the area of Norwood and Silver Eagle"
   }
 ]
