@@ -31953,5 +31953,19 @@
     "neighborhood": "Midtown / Winn Park / Capital Avenue",
     "beat": "3B",
     "comments": "Helicopter assisting officers in the area after reports of a subject on the roof of a business."
+  },
+  {
+    "date": "20260717",
+    "time": "4:59 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "STAR assisting ground units in the area of Bruceville and Cosumnes River Blvd in trying to locate a missing person"
+  },
+  {
+    "date": "20260717",
+    "time": "8:32 PM",
+    "neighborhood": "Glen Elder",
+    "beat": "6C",
+    "comments": "STAR assisting units for reports of a domestic violence subject in the area of Andora and Sun River"
   }
 ]
