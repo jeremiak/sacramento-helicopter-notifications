@@ -32205,5 +32205,26 @@
     "neighborhood": "Strawberry Manor",
     "beat": "2B",
     "comments": "STAR was in the area of Nareb St./Fairbanks Ave. assisting ground units with a possible domestic dispute."
+  },
+  {
+    "date": "20260728",
+    "time": "9:31 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Assisted ground units after reports of a possible domestic violence call in the area of Arlington Ave and 21st Ave."
+  },
+  {
+    "date": "20260728",
+    "time": "9:40 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "Assisted ground units after reports of vandalism in the area of 15th St and G St."
+  },
+  {
+    "date": "20260728",
+    "time": "9:46 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Assisted ground units after reports of a hit and run in the area of N 16th St and Richards Blvd."
   }
 ]
