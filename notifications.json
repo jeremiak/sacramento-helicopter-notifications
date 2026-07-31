@@ -32226,5 +32226,47 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "Assisted ground units after reports of a hit and run in the area of N 16th St and Richards Blvd."
+  },
+  {
+    "date": "20260730",
+    "time": "2:48 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisted ground units in monitoring suspicious activity in the area of 30th St and Capitol Ave"
+  },
+  {
+    "date": "20260730",
+    "time": "3:25 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR checked the area of Power Inn Rd and Gerber Rd for a stolen vehicle"
+  },
+  {
+    "date": "20260730",
+    "time": "3:46 PM",
+    "neighborhood": "Old Sacramento",
+    "beat": "3M",
+    "comments": "STAR was assisting West Sacramento Police Department with locating a vehicle involved in a hit and run near Richards Blvd and Bercut Dr"
+  },
+  {
+    "date": "20260730",
+    "time": "3:49 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "STAR was assisting West Sacramento Police Department in locating a vehicle involved in a hit and run in the area of Richards Blvd and Bercut Dr"
+  },
+  {
+    "date": "20260730",
+    "time": "3:54 PM",
+    "neighborhood": "Elder Creek",
+    "beat": "6C",
+    "comments": "STAR is assisting Elk Grove Police Department with locating a stolen vehicle in the area of Calvine Rd and Highway 99"
+  },
+  {
+    "date": "20260730",
+    "time": "9:08 PM",
+    "neighborhood": "Natomas Creek",
+    "beat": "1A",
+    "comments": "STAR assisted ground units in checking the area of E Commerce Way and W Elkhorn Blvd for a suspicious person"
   }
 ]
