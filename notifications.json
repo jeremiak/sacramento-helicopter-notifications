@@ -32282,5 +32282,40 @@
     "neighborhood": "Tahoe Park",
     "beat": "6B",
     "comments": "AIR21 assisting ground units in the area of Tahoe Park for reports of subjects fighting"
+  },
+  {
+    "date": "20260801",
+    "time": "11:34 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR21 responded to assist ground units after reports of a shooting near H St/45th St."
+  },
+  {
+    "date": "20260801",
+    "time": "2:42 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "Helicopter assisted ground units locate a subject having a medical emergency."
+  },
+  {
+    "date": "20260801",
+    "time": "3:29 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "STAR assisting ground units locate a robbery suspect."
+  },
+  {
+    "date": "20260801",
+    "time": "5:55 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units in the area of Pebblewood and Rockybend for reports of a physical assault"
+  },
+  {
+    "date": "20260801",
+    "time": "6:04 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "AIR1 assisting ground units in the area of Arden and Challenge Way for reports of an armed subject"
   }
 ]
