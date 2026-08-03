@@ -32317,5 +32317,40 @@
     "neighborhood": "Arden Fair",
     "beat": "2C",
     "comments": "AIR1 assisting ground units in the area of Arden and Challenge Way for reports of an armed subject"
+  },
+  {
+    "date": "20260802",
+    "time": "10:51 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR21 assisting ground units in the area of 37th st and 41st ave for a pursuit"
+  },
+  {
+    "date": "20260802",
+    "time": "3:55 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Helicopter responded to the area of Seamist Dr. and Whitecap Ct for reports of a verbal altercation that turned into someone running from an officer."
+  },
+  {
+    "date": "20260802",
+    "time": "7:26 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air Unit assisting units in locating a subject who fled police."
+  },
+  {
+    "date": "20260802",
+    "time": "8:26 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit was assisting patrol units with locating a reckless driver in the area of Northgate and Potomac. Officers lost sight of the vehicle."
+  },
+  {
+    "date": "20260802",
+    "time": "9:30 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "STAR assisting ground units in the area of Del Paso rd/ Five Star for a suspicious vehicle"
   }
 ]
