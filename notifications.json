@@ -32352,5 +32352,33 @@
     "neighborhood": "Rp - Sports Complex",
     "beat": "1A",
     "comments": "STAR assisting ground units in the area of Del Paso rd/ Five Star for a suspicious vehicle"
+  },
+  {
+    "date": "20260803",
+    "time": "7:08 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter responded to the area of Beaumont St and Darina Ave for reports of an assault with a stick."
+  },
+  {
+    "date": "20260803",
+    "time": "7:18 PM",
+    "neighborhood": "Curtis Park",
+    "beat": "4A",
+    "comments": "Helicopter responded to Larkin Way and 20th St. for someone lighting fires."
+  },
+  {
+    "date": "20260803",
+    "time": "9:09 PM",
+    "neighborhood": "Boulevard Park",
+    "beat": "3B",
+    "comments": "Assisted ground units after reports of someone on top of a parking garage near 17th St and J St."
+  },
+  {
+    "date": "20260803",
+    "time": "9:55 PM",
+    "neighborhood": "Brentwood",
+    "beat": "4B",
+    "comments": "Assisted ground units after reports of an assault near the 47th Ave. light rail station."
   }
 ]
