@@ -32408,5 +32408,26 @@
     "neighborhood": "Lawrence Park",
     "beat": "6B",
     "comments": "stockton and fruitridge looking for subject that assaulted security"
+  },
+  {
+    "date": "20260805",
+    "time": "6:19 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "AIR1 was assisting units on a pursuit call."
+  },
+  {
+    "date": "20260805",
+    "time": "7:05 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "AIR1 was assisting units on a felony assault call."
+  },
+  {
+    "date": "20260805",
+    "time": "7:09 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "AIR1 was assisting units on a shooting call."
   }
 ]
