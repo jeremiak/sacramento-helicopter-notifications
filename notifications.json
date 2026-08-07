@@ -32429,5 +32429,47 @@
     "neighborhood": "Robla",
     "beat": "2A",
     "comments": "AIR1 was assisting units on a shooting call."
+  },
+  {
+    "date": "20260806",
+    "time": "2:57 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "Air unit assisting ground units with locating an assault suspect and victim."
+  },
+  {
+    "date": "20260806",
+    "time": "3:22 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "STAR checked the area for a stolen vehicle."
+  },
+  {
+    "date": "20260806",
+    "time": "3:52 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "STAR checked the area for a possible robbery suspect."
+  },
+  {
+    "date": "20260806",
+    "time": "7:59 PM",
+    "neighborhood": "Northpointe",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in checking the area of Main Ave and Kelton Way for any emergencies after receiving an incomplete call for service"
+  },
+  {
+    "date": "20260806",
+    "time": "8:29 PM",
+    "neighborhood": "Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in locating a stolen vehicle in the area of W El Camino Ave and Northgate Blvd"
+  },
+  {
+    "date": "20260806",
+    "time": "9:23 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "air unit checking area for possibly armed suspect near royal oaks dr and southgate d"
   }
 ]
