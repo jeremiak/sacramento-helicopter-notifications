@@ -32471,5 +32471,33 @@
     "neighborhood": "Erikson Industrial Park",
     "beat": "2C",
     "comments": "air unit checking area for possibly armed suspect near royal oaks dr and southgate d"
+  },
+  {
+    "date": "20260807",
+    "time": "6:16 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisting ground units in the area of 65th st and Folsom Blvd for reports of an armed subject in the area"
+  },
+  {
+    "date": "20260807",
+    "time": "6:19 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units in the area of E Commerce and Arena Blvd for reports of a robbery"
+  },
+  {
+    "date": "20260807",
+    "time": "8:34 PM",
+    "neighborhood": "Village 5",
+    "beat": "1A",
+    "comments": "STAR assisting units in the area of Red Alder and Juneberry for reports of someone with a knife"
+  },
+  {
+    "date": "20260807",
+    "time": "9:02 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "air unit assisted ground units with reports of sideshow"
   }
 ]
