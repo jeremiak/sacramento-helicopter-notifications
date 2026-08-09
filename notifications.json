@@ -32474,6 +32474,20 @@
   },
   {
     "date": "20260807",
+    "time": "10:48 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "air assisted ground units with pursuit"
+  },
+  {
+    "date": "20260807",
+    "time": "11:46 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisted ground units in locating an assault suspect in the area of Valley Hi Dr and Bruceville Rd"
+  },
+  {
+    "date": "20260807",
     "time": "6:16 PM",
     "neighborhood": "East Sacramento",
     "beat": "7A",
@@ -32499,5 +32513,26 @@
     "neighborhood": "Point West",
     "beat": "2C",
     "comments": "air unit assisted ground units with reports of sideshow"
+  },
+  {
+    "date": "20260808",
+    "time": "3:08 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "The air unit was assisting ground units with a barricaded subject near 43rd Ave and Gloria Dr. Units are still working through the call."
+  },
+  {
+    "date": "20260808",
+    "time": "8:05 PM",
+    "neighborhood": "",
+    "beat": "1B",
+    "comments": "Helicopter unit was assisting patrol with reports of a domestic disturbance involving a door being kicked near Gateway Oaks Dr and Garden Hwy. Officers are still working the call."
+  },
+  {
+    "date": "20260808",
+    "time": "8:34 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "STAR assisting ground units in the area of 55th and H st for reports of a vehicle chasing another vehicle"
   }
 ]
