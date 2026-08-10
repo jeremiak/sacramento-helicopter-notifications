@@ -32534,5 +32534,33 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "STAR assisting ground units in the area of 55th and H st for reports of a vehicle chasing another vehicle"
+  },
+  {
+    "date": "20260809",
+    "time": "2:17 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisted officers on the ground during pursuit of a subject on a stolen bike."
+  },
+  {
+    "date": "20260809",
+    "time": "2:24 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "AIR1 assisted units in the area of Royal Oaks Dr/Arden Way who requested cover."
+  },
+  {
+    "date": "20260809",
+    "time": "5:44 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter responded to the area of Evergreen St and El Camino ave for reports of a person with a weapon.  units checked the area and were unable to locate any such weapon."
+  },
+  {
+    "date": "20260809",
+    "time": "7:17 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Helicopter responded to the area of Monaghan Cir and Valley Hi Dr. for reports of a stolen vehicle in the area that lead officers on a vehicle pursuit."
   }
 ]
