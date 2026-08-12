@@ -32597,5 +32597,33 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "assisting with a mental health call franklin/shining star"
+  },
+  {
+    "date": "20260811",
+    "time": "5:27 PM",
+    "neighborhood": "Carleton Tract",
+    "beat": "4A",
+    "comments": "Air unit assisting on reports of an attempt assault"
+  },
+  {
+    "date": "20260811",
+    "time": "7:06 PM",
+    "neighborhood": "Airport",
+    "beat": "4B",
+    "comments": "Air unit assisting in looking for a stolen motorhome"
+  },
+  {
+    "date": "20260811",
+    "time": "7:29 PM",
+    "neighborhood": "Natomas Crossing",
+    "beat": "1A",
+    "comments": "Air unit searching for missing child ... Male, East Asian, 10 y/o, grey shrt, grey pants"
+  },
+  {
+    "date": "20260811",
+    "time": "7:59 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit checking area for possibly armed vehicle"
   }
 ]
