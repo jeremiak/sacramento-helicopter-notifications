@@ -32635,6 +32635,13 @@
   },
   {
     "date": "20260814",
+    "time": "10:04 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "STAR assisted ground units in locating a vehicle that fled from officers near the area of N st and 7th st."
+  },
+  {
+    "date": "20260814",
     "time": "12:07 AM",
     "neighborhood": "Natomas Park",
     "beat": "1A",
@@ -32688,5 +32695,19 @@
     "neighborhood": "Willowcreek",
     "beat": "1B",
     "comments": "AIR1 assisting ground units in the area of Hazel Gaze and High Tide for reports of a subject with a weapon."
+  },
+  {
+    "date": "20260815",
+    "time": "9:28 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Star was in the area of El camino ave/ Fairfield st for reports of a vehicle accident"
+  },
+  {
+    "date": "20260815",
+    "time": "9:42 PM",
+    "neighborhood": "Granite Regional Park",
+    "beat": "7C",
+    "comments": "Air unit was assisting officers with reports of a large party near Granite Park. Units are still working the call."
   }
 ]
