@@ -32698,6 +32698,13 @@
   },
   {
     "date": "20260815",
+    "time": "10:18 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "STAR was in the area of May st/ Galleon way assisting ground units with reports of a party with juveniles reported to have weapons."
+  },
+  {
+    "date": "20260815",
     "time": "9:28 PM",
     "neighborhood": "Old North Sacramento",
     "beat": "2B",
@@ -32709,5 +32716,68 @@
     "neighborhood": "Granite Regional Park",
     "beat": "7C",
     "comments": "Air unit was assisting officers with reports of a large party near Granite Park. Units are still working the call."
+  },
+  {
+    "date": "20260815",
+    "time": "9:57 PM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "STAR was in the area of American River Dr/ Howe ave assisting ground units with a road rage incident"
+  },
+  {
+    "date": "20260816",
+    "time": "12:09 AM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 assisted ground units with an assault in the area of Verano st/ Mahogany st"
+  },
+  {
+    "date": "20260816",
+    "time": "12:25 AM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Air1 assisted ground units with our shotspotter activation in the area of Fruitridge rd/Martin Luther King Jr blvd"
+  },
+  {
+    "date": "20260816",
+    "time": "1:21 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter assisted officers in the area during a pursuit of a vehicle reckless driving."
+  },
+  {
+    "date": "20260816",
+    "time": "6:43 PM",
+    "neighborhood": "River Park",
+    "beat": "7B",
+    "comments": "Air unit was assisting officers with reports of a subject possibly armed with a knife in a domestic disturbance near Erlewine Cir and Moddison Ave. Units are still working through this call."
+  },
+  {
+    "date": "20260816",
+    "time": "6:46 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "Air unit was assisting officers with a possible stolen vehicle sighting near 12th Ave and Martin Luther King Jr. Blvd. The camera sighting was not the right vehicle."
+  },
+  {
+    "date": "20260816",
+    "time": "6:51 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "Air unit assisting officers with a call regarding a physical altercation near Jibboom and Richards. Officers are still working through the call."
+  },
+  {
+    "date": "20260816",
+    "time": "8:28 PM",
+    "neighborhood": "",
+    "beat": "6B",
+    "comments": "STAR assisting ground units on the ground at Dias ave and 63rd street for reports of an armed subject"
+  },
+  {
+    "date": "20260816",
+    "time": "8:49 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "STAR assisting ground units in the area of Haggin ave and American Ave for reports of a elderly woman possible with Alzheimer's and lost"
   }
 ]
