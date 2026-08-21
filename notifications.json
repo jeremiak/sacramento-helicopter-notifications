@@ -32849,5 +32849,40 @@
     "neighborhood": "Strawberry Manor",
     "beat": "2B",
     "comments": "Stolen vehicle."
+  },
+  {
+    "date": "20260820",
+    "time": "3:52 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "checking for vehicle w/ occupant that brandished a weapon"
+  },
+  {
+    "date": "20260820",
+    "time": "4:28 PM",
+    "neighborhood": "Natomas Creek",
+    "beat": "1A",
+    "comments": "vehicle pursuit"
+  },
+  {
+    "date": "20260820",
+    "time": "4:41 PM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Argument involving a baseball bat."
+  },
+  {
+    "date": "20260820",
+    "time": "5:14 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Disturbance involving a baseball bat."
+  },
+  {
+    "date": "20260820",
+    "time": "8:54 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "STAR was assisting units on a hit and run call."
   }
 ]
