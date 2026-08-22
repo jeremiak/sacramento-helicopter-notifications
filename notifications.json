@@ -32884,5 +32884,26 @@
     "neighborhood": "Hagginwood",
     "beat": "2B",
     "comments": "STAR was assisting units on a hit and run call."
+  },
+  {
+    "date": "20260821",
+    "time": "7:56 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "AIR1 assisting ground units in the area of San Juan/Del Verde Cir on a pursuit"
+  },
+  {
+    "date": "20260821",
+    "time": "9:09 PM",
+    "neighborhood": "Southeast Village",
+    "beat": "6C",
+    "comments": "AIR1 is assisting ground units on a suspicious circumstances call in the area of 65th St and Elder Creek Rd"
+  },
+  {
+    "date": "20260821",
+    "time": "9:16 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "AIR1 was helping units check the area of Cannery Ave and Scalehouse St for an at risk missing person. The person was located."
   }
 ]
