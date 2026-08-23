@@ -32887,6 +32887,20 @@
   },
   {
     "date": "20260821",
+    "time": "11:38 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "air unit was assisting with a possible weapons call nbear 18th ave and 36th st"
+  },
+  {
+    "date": "20260821",
+    "time": "11:54 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "air unit assisting with a possible weapons call near florin rd and 21st st"
+  },
+  {
+    "date": "20260821",
     "time": "7:56 PM",
     "neighborhood": "South Natomas",
     "beat": "1B",
@@ -32905,5 +32919,26 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "AIR1 was helping units check the area of Cannery Ave and Scalehouse St for an at risk missing person. The person was located."
+  },
+  {
+    "date": "20260822",
+    "time": "3:58 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "The air unit was assisting officers with reports of a large pool takeover near 21st St and Q St. It ended up being a large party."
+  },
+  {
+    "date": "20260822",
+    "time": "5:37 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit was assisting with a reported missing female in her 70's near Lily St and Grand Ave. The helicopter searched the area and made announcements. Units are still working the call."
+  },
+  {
+    "date": "20260822",
+    "time": "9:31 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 is assisting units on a felony assault call."
   }
 ]
