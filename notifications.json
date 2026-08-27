@@ -32964,6 +32964,13 @@
   },
   {
     "date": "20260825",
+    "time": "10:08 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "air unit assisted ground units with reports of a possible boat accident"
+  },
+  {
+    "date": "20260825",
     "time": "1:07 PM",
     "neighborhood": "",
     "beat": "3A",
@@ -32975,5 +32982,82 @@
     "neighborhood": "Central Oak Park",
     "beat": "6A",
     "comments": "Helicopter assisting officers in the area regarding a barricaded subject armed with a gun."
+  },
+  {
+    "date": "20260826",
+    "time": "10:09 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "bruceville rd and timberlake way. working an at risk missing person. if you see a fw81, 5'0/191, white long sleeve shirt, unknown color pants, in a wheelchair, pls call 911 and keep an eye on her"
+  },
+  {
+    "date": "20260826",
+    "time": "11:44 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "assisting in checking the area on reports of shots fired near del paso blvd and el camino ave"
+  },
+  {
+    "date": "20260826",
+    "time": "7:38 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Helicopter assisted officers checking the area for a missing autistic male white and Hispanic juvenile,15,6'2/180, brown hair/brown eyes, white shirt with anime on it, unknown color pants."
+  },
+  {
+    "date": "20260826",
+    "time": "7:55 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Helicopter assisted officers searching the area for a stolen vehicle.  Suspect has been detained."
+  },
+  {
+    "date": "20260826",
+    "time": "8:07 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter assisting officers checking the area for a missing person. male white adult,5'8/160, black jacket, black pants, black/white rubber shoes and uses a walker.  Missing person last seen on foot going for a walk and may be lost"
+  },
+  {
+    "date": "20260826",
+    "time": "8:45 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter assisted officers detaining an armed domestic violence subject."
+  },
+  {
+    "date": "20260826",
+    "time": "8:58 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted officers checking the area for a subject armed with a hammer.  Officers and helicopter unable to locate the subject."
+  },
+  {
+    "date": "20260826",
+    "time": "9:05 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisting officers searching the area after receiving a Shotspotter call for the area"
+  },
+  {
+    "date": "20260826",
+    "time": "9:37 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "elder creek and florin perkins, checking the area for a subject walking around with a pocket knife"
+  },
+  {
+    "date": "20260826",
+    "time": "9:54 PM",
+    "neighborhood": "Noralto",
+    "beat": "2C",
+    "comments": "el camino ae and grove assisted with a family disturbance call"
+  },
+  {
+    "date": "20260827",
+    "time": "12:12 AM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "possible vehicle break in near cameron rd and grand ave"
   }
 ]
