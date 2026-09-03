@@ -33304,5 +33304,40 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "mack rd assisting in subject reported to have a gun"
+  },
+  {
+    "date": "20260902",
+    "time": "3:28 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Helicopter assisted ground units with reports of an assault."
+  },
+  {
+    "date": "20260902",
+    "time": "7:56 PM",
+    "neighborhood": "New Brighton",
+    "beat": "7C",
+    "comments": "Wreckless vehicle"
+  },
+  {
+    "date": "20260902",
+    "time": "8:05 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "helicopter assisted units with checking area for shotspotter call."
+  },
+  {
+    "date": "20260902",
+    "time": "8:07 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter assisted units with locating a missing person."
+  },
+  {
+    "date": "20260902",
+    "time": "9:09 PM",
+    "neighborhood": "Noralto",
+    "beat": "2B",
+    "comments": "helicopter assisted units with detaining possible suspect of trying to hit victim with vehicle."
   }
 ]
