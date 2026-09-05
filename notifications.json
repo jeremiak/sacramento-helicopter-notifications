@@ -33349,9 +33349,51 @@
   },
   {
     "date": "20260904",
+    "time": "11:49 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Police helicopter responded to survey reports of glass breaking and a large gathering."
+  },
+  {
+    "date": "20260904",
+    "time": "11:59 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Police helicopter responded to survey a Shotspotter activation in the city."
+  },
+  {
+    "date": "20260904",
     "time": "12:23 AM",
     "neighborhood": "Robla",
     "beat": "2A",
     "comments": "AIR1 was assisting units on an alarm call."
+  },
+  {
+    "date": "20260904",
+    "time": "7:46 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air1 assisting CHP with a pursuit near the 7300 block of Stockton Blvd"
+  },
+  {
+    "date": "20260904",
+    "time": "7:57 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Air1 assisted ground units in locating a suspect related to a robbery near Greenhaven drive and Florin dr."
+  },
+  {
+    "date": "20260904",
+    "time": "9:11 PM",
+    "neighborhood": "Tallac Village",
+    "beat": "6B",
+    "comments": "Helicopter responded to survey reports of a vehicular assault."
+  },
+  {
+    "date": "20260905",
+    "time": "12:01 AM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter assisted ground units on a DUI stop."
   }
 ]
