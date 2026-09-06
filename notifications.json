@@ -33395,5 +33395,19 @@
     "neighborhood": "Old North Sacramento",
     "beat": "2C",
     "comments": "Helicopter assisted ground units on a DUI stop."
+  },
+  {
+    "date": "20260905",
+    "time": "12:49 AM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Helicopter assisted ground units in the pursuit of a vehicle."
+  },
+  {
+    "date": "20260905",
+    "time": "8:58 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "STAR was assisting units on a robbery call."
   }
 ]
