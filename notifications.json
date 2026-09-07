@@ -33409,5 +33409,47 @@
     "neighborhood": "Lawrence Park",
     "beat": "6B",
     "comments": "STAR was assisting units on a robbery call."
+  },
+  {
+    "date": "20260906",
+    "time": "1:42 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter responded to 899 El camino ave for reports of a silent robbery alarm.  It was accidental alarm"
+  },
+  {
+    "date": "20260906",
+    "time": "1:49 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Helicopter responded to 400 Bannon St for reports of someone brandishing a weapon"
+  },
+  {
+    "date": "20260906",
+    "time": "2:05 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter responded to La Riviera Dr. for reports of a physical altercation."
+  },
+  {
+    "date": "20260906",
+    "time": "4:27 PM",
+    "neighborhood": "Campus Commons",
+    "beat": "7B",
+    "comments": "Helicopter is assisting units with reports of a subject armed with a knife near Dunbarton Cir. Units are trying to make contact with the subject and are still working through this."
+  },
+  {
+    "date": "20260906",
+    "time": "7:36 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter was assisting with a gunfire activation on Rio Linda Blvd. Units canvassed the area and were unable to locate any signs of a shooting."
+  },
+  {
+    "date": "20260906",
+    "time": "7:37 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5B",
+    "comments": "Helicopter was assisting units on a traffic stop near Franklin Blvd / Torrente Way with uncooperative subjects. All have now been detained."
   }
 ]
