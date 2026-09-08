@@ -33451,5 +33451,26 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5B",
     "comments": "Helicopter was assisting units on a traffic stop near Franklin Blvd / Torrente Way with uncooperative subjects. All have now been detained."
+  },
+  {
+    "date": "20260907",
+    "time": "5:13 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisting ground units in the area of Bill Conlin Park for reports of an armed subject"
+  },
+  {
+    "date": "20260907",
+    "time": "8:57 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Helicopter was assisting ground units search for robbery suspects. Both suspects were located."
+  },
+  {
+    "date": "20260907",
+    "time": "9:59 PM",
+    "neighborhood": "Southern Pacific / Richards",
+    "beat": "3A",
+    "comments": "Helicopter was assisting ground units on reports of a shooting in the area of Richards Blvd/Bercut Dr."
   }
 ]
