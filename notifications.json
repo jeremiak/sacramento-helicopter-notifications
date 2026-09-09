@@ -33472,5 +33472,54 @@
     "neighborhood": "Southern Pacific / Richards",
     "beat": "3A",
     "comments": "Helicopter was assisting ground units on reports of a shooting in the area of Richards Blvd/Bercut Dr."
+  },
+  {
+    "date": "20260908",
+    "time": "1:53 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter responded to Helena Ave and Taft St for reports of someone breaking into a house.  Ground units made contact with the suspect and suspect is in custody."
+  },
+  {
+    "date": "20260908",
+    "time": "1:54 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Helicopter responded to the area of 27th St and Wah Ave for reports of someone with a gun.   This was a verbal argument only, the gun was unfounded."
+  },
+  {
+    "date": "20260908",
+    "time": "1:59 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Helicopter responded to the area of Ford and Altos for a possible stolen car in the area.  turned out to be unfounded."
+  },
+  {
+    "date": "20260908",
+    "time": "7:54 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "air unit assisted ground units with searching for missing person"
+  },
+  {
+    "date": "20260908",
+    "time": "7:57 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "air unit assisted ground units with searching for missing person"
+  },
+  {
+    "date": "20260908",
+    "time": "9:17 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "air unit assisted ground units with reports of assault in area"
+  },
+  {
+    "date": "20260908",
+    "time": "9:23 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "STAR assisted ground units in checking the area of La Riviera Dr and Watt Ave after reports of a burglary"
   }
 ]
