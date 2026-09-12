@@ -33535,5 +33535,33 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "air unit was searching area for vehicle involved in felony assault but was not related, hwy 50 near 65th st."
+  },
+  {
+    "date": "20260911",
+    "time": "11:54 AM",
+    "neighborhood": "New Era Park",
+    "beat": "3B",
+    "comments": "AIR1 checked area of 25th St/E St for possible burglary suspect."
+  },
+  {
+    "date": "20260911",
+    "time": "5:39 PM",
+    "neighborhood": "Creekside",
+    "beat": "1A",
+    "comments": "STAR assisted ground units in the area of New Market Dr and Kokomo Dr for reports of an assault"
+  },
+  {
+    "date": "20260911",
+    "time": "5:54 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "STAR was assisting ground units in the 5600 Block of 61st St for reports of a hit and run"
+  },
+  {
+    "date": "20260911",
+    "time": "8:57 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "STAR is assisting ground units in the area of El Camino Ave and Del Paso Blvd for an assault"
   }
 ]
