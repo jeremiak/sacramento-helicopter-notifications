@@ -33563,5 +33563,40 @@
     "neighborhood": "South Hagginwood",
     "beat": "2B",
     "comments": "STAR is assisting ground units in the area of El Camino Ave and Del Paso Blvd for an assault"
+  },
+  {
+    "date": "20260912",
+    "time": "11:34 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "rio linda blvd/arcade blvd - helicopter assisted with a shotspotter activation"
+  },
+  {
+    "date": "20260912",
+    "time": "2:57 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "Helicopter responded to the area of 424 Florin Rd for reports of a Robbery to the Walgreens.  Ground units located the suspect and detained him."
+  },
+  {
+    "date": "20260912",
+    "time": "5:32 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Air1 assisted units in locating a suspect of a felony assault near the area of Folsom and Ramona."
+  },
+  {
+    "date": "20260912",
+    "time": "6:21 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Air1 assisted ground units in locating a vehicle involved in a pursuit near the area of morrison pine way and state university drive"
+  },
+  {
+    "date": "20260912",
+    "time": "6:46 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air1 assisted Sacramento Sheriff in locating a vehicle that was involved in a pursuit near the area of Bradshaw road and Calvine road."
   }
 ]
