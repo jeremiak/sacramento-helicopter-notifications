@@ -33598,5 +33598,40 @@
     "neighborhood": "",
     "beat": "UI",
     "comments": "Air1 assisted Sacramento Sheriff in locating a vehicle that was involved in a pursuit near the area of Bradshaw road and Calvine road."
+  },
+  {
+    "date": "20260913",
+    "time": "2:40 PM",
+    "neighborhood": "Parkway",
+    "beat": "5C",
+    "comments": "Helicopter assisted officers tracking a vehicle that occupants were involved in an assault."
+  },
+  {
+    "date": "20260913",
+    "time": "5:53 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "AIR1 assisting ground units in the area of 21st st and 68th ave for a pursuit"
+  },
+  {
+    "date": "20260913",
+    "time": "6:23 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "AIR1 assisting ground units in the area of Florin rd/S Land Park dr for a suspicious vehicle"
+  },
+  {
+    "date": "20260913",
+    "time": "7:58 PM",
+    "neighborhood": "Westlake",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units in the area of Westlake and Hawkview for reports of an assault"
+  },
+  {
+    "date": "20260913",
+    "time": "8:29 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisting ground units in the area of Franklin and Florin for a pursuit"
   }
 ]
