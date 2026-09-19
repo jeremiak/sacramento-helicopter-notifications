@@ -33745,5 +33745,33 @@
     "neighborhood": "Upper Land Park",
     "beat": "4A",
     "comments": "5th st/ Seavey reports of a fight"
+  },
+  {
+    "date": "20260918",
+    "time": "10:03 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "STAR assisted ground units in locating an assault suspect in the area of Alhambra Blvd and X St"
+  },
+  {
+    "date": "20260918",
+    "time": "10:09 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR checked the area of Truxel Rd and W El Camino Ave for an assault"
+  },
+  {
+    "date": "20260918",
+    "time": "3:09 PM",
+    "neighborhood": "Westlake",
+    "beat": "1A",
+    "comments": "Helicopter checked the area for reports of juveniles in a physical altercation."
+  },
+  {
+    "date": "20260918",
+    "time": "9:05 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "air assisted ground units for reports of possible break in"
   }
 ]
