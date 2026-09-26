@@ -33843,5 +33843,19 @@
     "neighborhood": "",
     "beat": "3A",
     "comments": "STAR assisting ground units with a subject stop in the area of N 18th St and Dreher St"
+  },
+  {
+    "date": "20260925",
+    "time": "2:35 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted ground units with an assault call."
+  },
+  {
+    "date": "20260925",
+    "time": "8:19 AM",
+    "neighborhood": "Sierra Oaks",
+    "beat": "7B",
+    "comments": "STAR assisted units locating a possibly armed vehicle in the area of Howe Ave/University Ave."
   }
 ]
