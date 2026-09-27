@@ -33857,5 +33857,33 @@
     "neighborhood": "Sierra Oaks",
     "beat": "7B",
     "comments": "STAR assisted units locating a possibly armed vehicle in the area of Howe Ave/University Ave."
+  },
+  {
+    "date": "20260926",
+    "time": "11:33 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air1 in area of Redwood Ave and Forrest St assisting units in locating suspicious subject."
+  },
+  {
+    "date": "20260926",
+    "time": "11:39 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "AIR1 in the area of Lampasas Ave and Beaumont St attempting to locate a suspect vehicle."
+  },
+  {
+    "date": "20260926",
+    "time": "11:52 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "AIR1 in the area of Richards Blvd and Jiboom St assisting units with reports of an assault"
+  },
+  {
+    "date": "20260926",
+    "time": "7:54 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "AIR1 assisting ground units in the area of P St and 5th st for reports of a subject with a weapon."
   }
 ]
