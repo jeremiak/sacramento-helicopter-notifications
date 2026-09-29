@@ -33885,5 +33885,33 @@
     "neighborhood": "Downtown",
     "beat": "3A",
     "comments": "AIR1 assisting ground units in the area of P St and 5th st for reports of a subject with a weapon."
+  },
+  {
+    "date": "20260928",
+    "time": "1:39 PM",
+    "neighborhood": "Swanston Estates",
+    "beat": "2C",
+    "comments": "Air unit assisting in the search for a suspicious subject in the area of Connie dr and el camino ave"
+  },
+  {
+    "date": "20260928",
+    "time": "4:34 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air1 assisted ground units in locating a subject who broke into a vacant house near the area of Las Palmas ave and Del Paso Blvd."
+  },
+  {
+    "date": "20260928",
+    "time": "7:45 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of subjects on a roof"
+  },
+  {
+    "date": "20260928",
+    "time": "7:47 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Air unit assisting in search for an evading bicyclist"
   }
 ]
