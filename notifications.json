@@ -33913,5 +33913,61 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "Air unit assisting in search for an evading bicyclist"
+  },
+  {
+    "date": "20260929",
+    "time": "5:34 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "Air unit assisting in looking for possible DUI"
+  },
+  {
+    "date": "20260929",
+    "time": "5:36 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Air unit assisting after reports of a hit and run"
+  },
+  {
+    "date": "20260929",
+    "time": "5:39 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "Air unit assisting on a traffic stop"
+  },
+  {
+    "date": "20260929",
+    "time": "7:46 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20260929",
+    "time": "7:49 PM",
+    "neighborhood": "Florin Fruitridge Industrial Park",
+    "beat": "6C",
+    "comments": "Air unit assisting after reports of possible burglary"
+  },
+  {
+    "date": "20260929",
+    "time": "7:57 PM",
+    "neighborhood": "Downtown",
+    "beat": "3A",
+    "comments": "Air unit assisted after reports of a possibly armed subject"
+  },
+  {
+    "date": "20260929",
+    "time": "8:04 PM",
+    "neighborhood": "Midtown / Winn / Capital Park",
+    "beat": "3B",
+    "comments": "Air unit assisting in search for subject in distress"
+  },
+  {
+    "date": "20260929",
+    "time": "8:58 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "Air unit assisting after reports of suspicious activity"
   }
 ]
