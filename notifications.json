@@ -34004,5 +34004,33 @@
     "neighborhood": "Natomas Crossing",
     "beat": "1A",
     "comments": "AIR1 assisted ground units in checking the area of Truxel Rd and San Juan Rd for an armed subject"
+  },
+  {
+    "date": "20261001",
+    "time": "11:10 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "air unit responded out for suspicious circumstances near sonoma ave and clay st."
+  },
+  {
+    "date": "20261001",
+    "time": "3:56 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisted ground units locate an armed subject."
+  },
+  {
+    "date": "20261001",
+    "time": "6:18 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Helicopter assisting ground units locate a runaway juvenile."
+  },
+  {
+    "date": "20261001",
+    "time": "6:34 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Helicopter assisted ground units with reports of subjects entering a vacant property. Unable to locate anything suspicious."
   }
 ]
