@@ -34032,5 +34032,68 @@
     "neighborhood": "East Sacramento",
     "beat": "7A",
     "comments": "Helicopter assisted ground units with reports of subjects entering a vacant property. Unable to locate anything suspicious."
+  },
+  {
+    "date": "20261002",
+    "time": "10:26 PM",
+    "neighborhood": "Z'Berg Park",
+    "beat": "4C",
+    "comments": "Helicopter was assisting units with reports of subjects with a stolen golf cart near Florin Rd and South Land Park Dr. Multiple subjects have been detained."
+  },
+  {
+    "date": "20261002",
+    "time": "3:58 PM",
+    "neighborhood": "",
+    "beat": "6C",
+    "comments": "check on report of someone possibly casing"
+  },
+  {
+    "date": "20261002",
+    "time": "4:42 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit assisting ground units after reports of a stolen vehicle in the area of Watt Ave and Myrtle Ave"
+  },
+  {
+    "date": "20261002",
+    "time": "5:39 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "Air unit assisting ground units after reports of a subject with a weapon in the area of Woodbine Ave and 27th St"
+  },
+  {
+    "date": "20261002",
+    "time": "6:19 PM",
+    "neighborhood": "Golf Course Terrace",
+    "beat": "4B",
+    "comments": "Air unit assisting ground units after reports of a reckless driver in the area of 60th ave and Tamoshanter way"
+  },
+  {
+    "date": "20261002",
+    "time": "7:18 PM",
+    "neighborhood": "Mansion Flats",
+    "beat": "3A",
+    "comments": "AIR1 assisting ground units around the 1300 Block of D St for reports of a domestic violence assault"
+  },
+  {
+    "date": "20261002",
+    "time": "7:33 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "AIR1 assisting ground units in the area of Pocket Rd and Triumph Ct for reports of a Hit and Run"
+  },
+  {
+    "date": "20261002",
+    "time": "9:39 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicopter assisted to survey reports of a sideshow."
+  },
+  {
+    "date": "20261002",
+    "time": "9:56 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2B",
+    "comments": "Helicopter responded to survey scene of a shotspotter activation"
   }
 ]
