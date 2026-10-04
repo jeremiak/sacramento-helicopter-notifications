@@ -34095,5 +34095,19 @@
     "neighborhood": "West Del Paso Heights",
     "beat": "2B",
     "comments": "Helicopter responded to survey scene of a shotspotter activation"
+  },
+  {
+    "date": "20261003",
+    "time": "9:36 PM",
+    "neighborhood": "South City Farms",
+    "beat": "4B",
+    "comments": "Helicopter responded to survey scene of a large party with firearms involved."
+  },
+  {
+    "date": "20261003",
+    "time": "9:57 PM",
+    "neighborhood": "Wills Acres",
+    "beat": "2B",
+    "comments": "Helicopter responded to reports of a burglary."
   }
 ]
