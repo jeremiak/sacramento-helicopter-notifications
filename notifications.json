@@ -34109,5 +34109,26 @@
     "neighborhood": "Wills Acres",
     "beat": "2B",
     "comments": "Helicopter responded to reports of a burglary."
+  },
+  {
+    "date": "20261004",
+    "time": "1:47 PM",
+    "neighborhood": "Z'Berg Park",
+    "beat": "4C",
+    "comments": "Air unit assisting after reports of possible armed vehicle"
+  },
+  {
+    "date": "20261004",
+    "time": "2:36 PM",
+    "neighborhood": "Sundance Lake",
+    "beat": "1A",
+    "comments": "Air unit checking area after reports of possible vehicle accident"
+  },
+  {
+    "date": "20261004",
+    "time": "5:57 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "STAR assisting ground units in the area of Sutterville/W Pacific ave of reports of an armed subject in the area"
   }
 ]
