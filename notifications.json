@@ -34179,5 +34179,47 @@
     "neighborhood": "Noralto",
     "beat": "2C",
     "comments": "air unit assisted ground units with reports of an armed subject that was unfounded"
+  },
+  {
+    "date": "20261007",
+    "time": "10:58 AM",
+    "neighborhood": "Strawberry Manor",
+    "beat": "2B",
+    "comments": "Helicopter was assisting officers in looking for an armed person in the area of Western ave / Ford rd"
+  },
+  {
+    "date": "20261007",
+    "time": "12:29 PM",
+    "neighborhood": "Northgate",
+    "beat": "1C",
+    "comments": "Helicopter assisting officers on an assault call in the area of Northgate blvd/Rimmer ave"
+  },
+  {
+    "date": "20261007",
+    "time": "12:52 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter responded to area of La Solidad way / 4th ave to assist officers for a family dispute call"
+  },
+  {
+    "date": "20261007",
+    "time": "5:11 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "Assault possible weapons involved."
+  },
+  {
+    "date": "20261007",
+    "time": "5:37 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR assisted ground units with reports of an assault."
+  },
+  {
+    "date": "20261007",
+    "time": "9:15 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "responded for an assault."
   }
 ]
