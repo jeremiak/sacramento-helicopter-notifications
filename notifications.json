@@ -34221,5 +34221,33 @@
     "neighborhood": "College / Glen",
     "beat": "7B",
     "comments": "responded for an assault."
+  },
+  {
+    "date": "20261008",
+    "time": "5:08 PM",
+    "neighborhood": "Woodbine",
+    "beat": "4B",
+    "comments": "weapons calls near 27th st and 51st ave"
+  },
+  {
+    "date": "20261008",
+    "time": "5:17 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "possible gun involved near el camino ave and traction"
+  },
+  {
+    "date": "20261008",
+    "time": "6:49 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "assisted on a unit grand and schutt"
+  },
+  {
+    "date": "20261008",
+    "time": "8:48 PM",
+    "neighborhood": "Glenwood Meadows",
+    "beat": "2A",
+    "comments": "AIR1 responded for a burglary in progress."
   }
 ]
