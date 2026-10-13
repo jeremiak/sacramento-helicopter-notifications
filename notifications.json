@@ -34277,5 +34277,47 @@
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
     "comments": "branch st/north ave - helicopter assisted with monitoring reports of a robbery"
+  },
+  {
+    "date": "20261012",
+    "time": "4:48 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units in the area of Hagginwood Park for a Robbery Suspect"
+  },
+  {
+    "date": "20261012",
+    "time": "5:26 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "AIR1 assisting ground units in the area of 9th st and L st for a Domestic Violence suspect"
+  },
+  {
+    "date": "20261012",
+    "time": "5:33 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "AIR1 assisting ground units in the area of the Shasta Community Park for reports of a large physical altercation"
+  },
+  {
+    "date": "20261012",
+    "time": "5:49 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units in the area of Olivera way and Ensenada Way for a Domestic Violence suspect"
+  },
+  {
+    "date": "20261012",
+    "time": "5:54 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1B",
+    "comments": "STAR assisting ground units in the area of Garden Hwy and Truxel for a vehicle that drove off the road and into the levee."
+  },
+  {
+    "date": "20261012",
+    "time": "6:37 PM",
+    "neighborhood": "Fruitridge Manor",
+    "beat": "6B",
+    "comments": "STAR assisting ground units in the area of Stockton and Lawrence for reports of a Stolen Vehicle"
   }
 ]
