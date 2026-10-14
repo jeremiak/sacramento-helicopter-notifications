@@ -34319,5 +34319,33 @@
     "neighborhood": "Fruitridge Manor",
     "beat": "6B",
     "comments": "STAR assisting ground units in the area of Stockton and Lawrence for reports of a Stolen Vehicle"
+  },
+  {
+    "date": "20261013",
+    "time": "3:58 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "Air unit assisting in recovering a stolen vehicle"
+  },
+  {
+    "date": "20261013",
+    "time": "4:24 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Air unit assisting after reports of a burglary in progress"
+  },
+  {
+    "date": "20261013",
+    "time": "8:58 PM",
+    "neighborhood": "",
+    "beat": "1A",
+    "comments": "truxel and gateway park checking on alarm"
+  },
+  {
+    "date": "20261013",
+    "time": "9:22 PM",
+    "neighborhood": "Gardenland",
+    "beat": "1C",
+    "comments": "STAR was en route to the area of Northgate Blvd and Wisconsin Ave to check for a felony assault in progress but was cancelled by ground units when they were on scene."
   }
 ]
