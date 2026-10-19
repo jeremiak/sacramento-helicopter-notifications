@@ -34389,5 +34389,26 @@
     "neighborhood": "Curtis Park",
     "beat": "4A",
     "comments": "AIR1 assisting ground units in the area of Franklin and Sutterville rd for reports of a armed subject."
+  },
+  {
+    "date": "20261018",
+    "time": "2:29 PM",
+    "neighborhood": "Tahoe Park East",
+    "beat": "7C",
+    "comments": "Air unit assisted after reports of a robbery in progress"
+  },
+  {
+    "date": "20261018",
+    "time": "5:48 PM",
+    "neighborhood": "Del Paso Park",
+    "beat": "2A",
+    "comments": "STAR assisting ground units in the area of Auburn and Winding way for subject trying to break into a location"
+  },
+  {
+    "date": "20261018",
+    "time": "8:09 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "AIR1 assisting sheriff units in the area of Alta Arden and Arden Way looking for a male subject"
   }
 ]
