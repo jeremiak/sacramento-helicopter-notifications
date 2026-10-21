@@ -34431,5 +34431,33 @@
     "neighborhood": "Hagginwood",
     "beat": "2B",
     "comments": "Air unit assisting after shotspotter activation"
+  },
+  {
+    "date": "20261020",
+    "time": "1:28 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Helicopter was assisting units with reports of a weapon seen near Darina Ave and Oakmont St. No weapons were found and officers are still working through the call."
+  },
+  {
+    "date": "20261020",
+    "time": "3:57 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Helicopter in the area of Arden Way/Point West Way was checking the area for vehicles involved in highway violence."
+  },
+  {
+    "date": "20261020",
+    "time": "4:55 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2B",
+    "comments": "Helicopter in the area of Rio LInda Blvd and Plaza Ave assisting officers responding to reports of a subj trying to get into a vacant residence."
+  },
+  {
+    "date": "20261020",
+    "time": "5:46 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Fire in the area of Arden Way and Heritage Lane assisting officers responding for a possible arson."
   }
 ]
