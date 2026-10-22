@@ -34459,5 +34459,40 @@
     "neighborhood": "Point West",
     "beat": "2C",
     "comments": "Fire in the area of Arden Way and Heritage Lane assisting officers responding for a possible arson."
+  },
+  {
+    "date": "20261021",
+    "time": "11:38 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 helped ground units check the area of Rio Linda Blvd and Eleanor Ave for suspicious activity"
+  },
+  {
+    "date": "20261021",
+    "time": "5:48 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "Air unit assisting on reports of suspicious activity"
+  },
+  {
+    "date": "20261021",
+    "time": "6:05 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit assisting outside agency"
+  },
+  {
+    "date": "20261021",
+    "time": "8:49 PM",
+    "neighborhood": "Erikson Industrial Park",
+    "beat": "2C",
+    "comments": "Air unit assisted in searching for person in distress"
+  },
+  {
+    "date": "20261022",
+    "time": "12:17 AM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "AIR1 assisted ground units near Fruitridge Rd and Lawrence Dr in locating a possible hit and run suspect vehicle"
   }
 ]
