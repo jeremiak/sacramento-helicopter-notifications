@@ -34508,5 +34508,26 @@
     "neighborhood": "Natomas Park",
     "beat": "1A",
     "comments": "air assisted with checking area for reports of possible vehicle break ins."
+  },
+  {
+    "date": "20261024",
+    "time": "5:01 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Star assisting ground units in the area of 12th ave and 19th st for a missing person"
+  },
+  {
+    "date": "20261024",
+    "time": "5:07 PM",
+    "neighborhood": "Alkali Flats",
+    "beat": "3A",
+    "comments": "Star assisting units in the area of 11th st and D st for reports of subjects trying to get into a residence."
+  },
+  {
+    "date": "20261024",
+    "time": "5:09 PM",
+    "neighborhood": "Arden Fair",
+    "beat": "2C",
+    "comments": "Star assisting ground units in the area of Arden Fair Mall for reports of stolen items"
   }
 ]
