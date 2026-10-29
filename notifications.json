@@ -34550,5 +34550,40 @@
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
     "comments": "Helicopter responded to the area of North Ave and Dry Creek Rd to assist ground units in a vehicle pursuit"
+  },
+  {
+    "date": "20261028",
+    "time": "4:26 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Air unit was assisting patrol with reports of a robbery at Delta Shores. Helicopter assisted units with locating the suspects, who are now detained."
+  },
+  {
+    "date": "20261028",
+    "time": "4:39 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "Air unit was assisting officers with reports of a domestic dispute involving a weapon near El Camino Ave and Del Paso Blvd. No weapon was used, and everything checked okay."
+  },
+  {
+    "date": "20261028",
+    "time": "6:09 PM",
+    "neighborhood": "South Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter was assisting ground units with locating a stolen vehicle driving near Martin Luther King Jr. Blvd and Fruitridge Rd. Units have detained the driver of the vehicle."
+  },
+  {
+    "date": "20261028",
+    "time": "7:19 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Helicopter is assisting officers with reports of subjects possibly trying to break into a moving truck near Pinedale and Rio Linda Blvd. Units are still working through the call."
+  },
+  {
+    "date": "20261028",
+    "time": "7:26 PM",
+    "neighborhood": "Robla",
+    "beat": "2A",
+    "comments": "Air unit was assisting officers with an automated crash detection near Wind Creek Dr and Marysville Blvd . No car accidents were located."
   }
 ]
