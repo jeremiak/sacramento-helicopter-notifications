@@ -34634,5 +34634,47 @@
     "neighborhood": "South Oak Park",
     "beat": "6A",
     "comments": "Helicopter responded to survey reports of a burglary."
+  },
+  {
+    "date": "20261031",
+    "time": "8:38 PM",
+    "neighborhood": "",
+    "beat": "3A",
+    "comments": "STAR assisted ground units with suspicious activity."
+  },
+  {
+    "date": "20261031",
+    "time": "9:08 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisting ground units in the area of Astoria and Downar Way for reports of a intoxicated driver."
+  },
+  {
+    "date": "20261031",
+    "time": "9:11 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisting ground units in the area of 41st and M st for reports of a teen with pepperspray"
+  },
+  {
+    "date": "20261031",
+    "time": "9:18 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "AIR1 assisting ground units in the 30th st and H st for reports of a severe car crash"
+  },
+  {
+    "date": "20261031",
+    "time": "9:32 PM",
+    "neighborhood": "Natomas Park",
+    "beat": "1A",
+    "comments": "AIR1 assisting ground units in the Kalispell and Mabry dr for reports of a fight"
+  },
+  {
+    "date": "20261031",
+    "time": "9:34 PM",
+    "neighborhood": "Village Green",
+    "beat": "2A",
+    "comments": "AIR1 assisting ground units in the area of Village Cir and Bell Ave for reports of a domestic dispute"
   }
 ]
