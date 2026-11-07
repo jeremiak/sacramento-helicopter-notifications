@@ -34753,5 +34753,33 @@
     "neighborhood": "Valley Hi / North Laguna",
     "beat": "5C",
     "comments": "air unit went to check area for a stolen vehicle, and the vehicle was not a match, in the area of valley hi dr and mack rd."
+  },
+  {
+    "date": "20261106",
+    "time": "3:28 PM",
+    "neighborhood": "Colonial Village",
+    "beat": "7C",
+    "comments": "STAR is assisting ground units in the area of Fruitridge Rd and Wallace Ave for reports of a drunk driver"
+  },
+  {
+    "date": "20261106",
+    "time": "3:39 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "STAR assisted ground units in the area of San Carlos Way and 8th Ave for reports of a suspicious subject"
+  },
+  {
+    "date": "20261106",
+    "time": "6:47 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "STAR assisting ground units in the area of Dos Rios St and Swallowtail Ave for reports of an At Risk Missing Person"
+  },
+  {
+    "date": "20261106",
+    "time": "7:46 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "AIR1 assisting ground units in the area of Shining Star Dr and La Fresa Ct for a report of an At Risk Missing Person"
   }
 ]
