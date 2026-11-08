@@ -34781,5 +34781,68 @@
     "neighborhood": "Parkway",
     "beat": "5B",
     "comments": "AIR1 assisting ground units in the area of Shining Star Dr and La Fresa Ct for a report of an At Risk Missing Person"
+  },
+  {
+    "date": "20261107",
+    "time": "10:17 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Helicopter responded to reports of street racing in the area."
+  },
+  {
+    "date": "20261107",
+    "time": "10:26 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "Helicopter responded to reports of a large unruly party"
+  },
+  {
+    "date": "20261107",
+    "time": "10:34 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter assisted with attempting to locate a missing person."
+  },
+  {
+    "date": "20261107",
+    "time": "4:28 PM",
+    "neighborhood": "South Land Park",
+    "beat": "4C",
+    "comments": "air assisted ground units with locating a male that was armed with knives"
+  },
+  {
+    "date": "20261107",
+    "time": "6:03 PM",
+    "neighborhood": "Downtown",
+    "beat": "3M",
+    "comments": "star assisted ground units by looking for a subj who possibly brandished a weapon"
+  },
+  {
+    "date": "20261107",
+    "time": "6:08 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "star assisted ground units by looking for a possibly armed vehicle"
+  },
+  {
+    "date": "20261107",
+    "time": "6:29 PM",
+    "neighborhood": "Dos Rios Triangle",
+    "beat": "3A",
+    "comments": "star assisted by checking the area for a male that was possibly armed with a machete"
+  },
+  {
+    "date": "20261107",
+    "time": "6:37 PM",
+    "neighborhood": "Meadowview",
+    "beat": "5A",
+    "comments": "star assisted by flying over ground units with who were out with a subject that was not compliant"
+  },
+  {
+    "date": "20261107",
+    "time": "9:46 PM",
+    "neighborhood": "Little Pocket",
+    "beat": "4A",
+    "comments": "Helicopter responded to survey reports of a large crowd"
   }
 ]
