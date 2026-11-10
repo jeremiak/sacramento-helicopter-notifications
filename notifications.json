@@ -34858,5 +34858,61 @@
     "neighborhood": "Mangan Park",
     "beat": "4B",
     "comments": "Air unit assisting in looking for a subject"
+  },
+  {
+    "date": "20261109",
+    "time": "4:56 PM",
+    "neighborhood": "South City Farms",
+    "beat": "4B",
+    "comments": "Air unit checking area after reports of an assault"
+  },
+  {
+    "date": "20261109",
+    "time": "5:19 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "Air unit assisting in search for suspicious subject"
+  },
+  {
+    "date": "20261109",
+    "time": "5:58 PM",
+    "neighborhood": "North City Farms",
+    "beat": "4B",
+    "comments": "Air unit searching area for robbery suspects"
+  },
+  {
+    "date": "20261109",
+    "time": "6:15 PM",
+    "neighborhood": "East Sacramento",
+    "beat": "7A",
+    "comments": "Air unit checking area after reports of a hit and run"
+  },
+  {
+    "date": "20261109",
+    "time": "7:19 PM",
+    "neighborhood": "Land Park",
+    "beat": "4A",
+    "comments": "Air unit checking area for robbery suspects"
+  },
+  {
+    "date": "20261109",
+    "time": "7:30 PM",
+    "neighborhood": "South Hagginwood",
+    "beat": "2B",
+    "comments": "Air unit checking area after reports of possible shots fired"
+  },
+  {
+    "date": "20261109",
+    "time": "7:56 PM",
+    "neighborhood": "Morrison Creek",
+    "beat": "6C",
+    "comments": "Air unit checking the area after reports of suspicious activity"
+  },
+  {
+    "date": "20261109",
+    "time": "8:09 PM",
+    "neighborhood": "American River Parkway",
+    "beat": "1C",
+    "comments": "Air unit assisting after reports of suspicious activity"
   }
 ]
