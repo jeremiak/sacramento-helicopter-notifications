@@ -34914,5 +34914,40 @@
     "neighborhood": "American River Parkway",
     "beat": "1C",
     "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20261110",
+    "time": "1:49 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Air unit checking area after possible sighting of a stolen vehicle"
+  },
+  {
+    "date": "20261110",
+    "time": "4:42 PM",
+    "neighborhood": "West Del Paso Heights",
+    "beat": "2A",
+    "comments": "Air unit assisting after reports of suspicious activity"
+  },
+  {
+    "date": "20261110",
+    "time": "5:13 PM",
+    "neighborhood": "Point West",
+    "beat": "2C",
+    "comments": "Suspicious activity."
+  },
+  {
+    "date": "20261110",
+    "time": "6:27 PM",
+    "neighborhood": "Alkali Flats",
+    "beat": "3A",
+    "comments": "Air unit checking area after reports of suspicious activity"
+  },
+  {
+    "date": "20261110",
+    "time": "6:31 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Air unit checking area after call of possible arson"
   }
 ]
