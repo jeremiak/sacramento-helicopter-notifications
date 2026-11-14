@@ -35047,5 +35047,40 @@
     "neighborhood": "East Del Paso Heights",
     "beat": "2A",
     "comments": "air unit checking area for a reckless driver near pinell st and grand ave."
+  },
+  {
+    "date": "20261113",
+    "time": "10:21 PM",
+    "neighborhood": "South Natomas",
+    "beat": "1C",
+    "comments": "AIR1 assisting ground units in the area of rosin ct and Northgate Blvd for a reckless vehicle"
+  },
+  {
+    "date": "20261113",
+    "time": "6:15 PM",
+    "neighborhood": "Woodlake",
+    "beat": "2C",
+    "comments": "AIR1 assisting ground units in the area of Arden/Forrest St for reports of a robbery"
+  },
+  {
+    "date": "20261113",
+    "time": "6:22 PM",
+    "neighborhood": "Hagginwood",
+    "beat": "2B",
+    "comments": "AIR1 assisting ground units in the area of Arcade and Marysville Blvd for a pursuit of a vehicle."
+  },
+  {
+    "date": "20261113",
+    "time": "9:37 PM",
+    "neighborhood": "Midtown / Winn Park / Capital Avenue",
+    "beat": "3B",
+    "comments": "AIR1 assisted ground units with a weapons call in the area of L St and 28th St"
+  },
+  {
+    "date": "20261113",
+    "time": "9:49 PM",
+    "neighborhood": "Central Oak Park",
+    "beat": "6A",
+    "comments": "AIR1 checked the area of Stockton Blvd and 14th Ave for a robbery suspect"
   }
 ]
