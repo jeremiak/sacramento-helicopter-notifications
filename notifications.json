@@ -35082,5 +35082,26 @@
     "neighborhood": "Central Oak Park",
     "beat": "6A",
     "comments": "AIR1 checked the area of Stockton Blvd and 14th Ave for a robbery suspect"
+  },
+  {
+    "date": "20261114",
+    "time": "7:39 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "STAR assisting ground units in the area of Empress and Calvados for reports of a stolen vehicle"
+  },
+  {
+    "date": "20261114",
+    "time": "7:49 PM",
+    "neighborhood": "College / Glen",
+    "beat": "7B",
+    "comments": "STAR assisting ground units in the area of Watt and Folsom for reports of a armed subject"
+  },
+  {
+    "date": "20261114",
+    "time": "9:57 PM",
+    "neighborhood": "Upper Land Park",
+    "beat": "4A",
+    "comments": "Helicopter responded to survey scene of a suspicious prowler."
   }
 ]
