@@ -35117,5 +35117,61 @@
     "neighborhood": "Boulevard Park",
     "beat": "3B",
     "comments": "Helicopter was assisting ground units search for armed vehicle. The vehicle was located"
+  },
+  {
+    "date": "20261117",
+    "time": "3:37 PM",
+    "neighborhood": "College Town",
+    "beat": "7B",
+    "comments": "Helicopter responded to the area of La Riviera Dr and Howe Ave for reports of a physical assault with a stick.  Ground units were unable to locate the persons involved."
+  },
+  {
+    "date": "20261117",
+    "time": "3:59 PM",
+    "neighborhood": "Valley Hi / North Laguna",
+    "beat": "5C",
+    "comments": "Helicopter responded to the area of Bruceville Rd and W Stockton Blvd for reports of a physical assault that ended before officers marked on scene."
+  },
+  {
+    "date": "20261117",
+    "time": "4:03 PM",
+    "neighborhood": "Lawrence Park",
+    "beat": "6B",
+    "comments": "Helicopter responded to reports of a robbery at knife point near Fruitridge Rd and 49th St."
+  },
+  {
+    "date": "20261117",
+    "time": "4:30 PM",
+    "neighborhood": "Gateway West",
+    "beat": "1A",
+    "comments": "Helicopter responded to the area of Poppy Hill and Viader Way for reports of a suspicious subject."
+  },
+  {
+    "date": "20261117",
+    "time": "4:50 PM",
+    "neighborhood": "Richmond Grove",
+    "beat": "3A",
+    "comments": "Helicopter responded to the area of 17th St and Tomato Aly for reports of a suspicious subject inside of a vacant house."
+  },
+  {
+    "date": "20261117",
+    "time": "5:37 PM",
+    "neighborhood": "North Oak Park",
+    "beat": "6A",
+    "comments": "Helicopter responded to the area of Broadway and Alhambra to search the area for a suspect vehicle involved in a hit and run."
+  },
+  {
+    "date": "20261117",
+    "time": "7:38 PM",
+    "neighborhood": "Parkway",
+    "beat": "5B",
+    "comments": "Helicoper responded to the area of Florin Rd and Munson Way for reports of a robbery"
+  },
+  {
+    "date": "20261117",
+    "time": "8:38 PM",
+    "neighborhood": "",
+    "beat": "UI",
+    "comments": "Helicopter was assisting the Sheriff's Department with a barricaded subject near Franzia Ct and Sonoma Hills Way in the county."
   }
 ]
