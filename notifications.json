@@ -35194,5 +35194,33 @@
     "neighborhood": "Del Paso Heights",
     "beat": "2A",
     "comments": "AIR1 was assisting units on a domestic violence call involving a weapon."
+  },
+  {
+    "date": "20261120",
+    "time": "10:48 PM",
+    "neighborhood": "East Del Paso Heights",
+    "beat": "2A",
+    "comments": "AIR1 assisted ground units in checking the area of Astoria St and Roanoke Ave after reports of shots fired. The sounds ended up being fireworks."
+  },
+  {
+    "date": "20261120",
+    "time": "6:27 PM",
+    "neighborhood": "Pocket",
+    "beat": "4C",
+    "comments": "STAR assisting ground units in the area of Florin Rd and Windward Way for reports of an armed robbery"
+  },
+  {
+    "date": "20261120",
+    "time": "6:56 PM",
+    "neighborhood": "Old North Sacramento",
+    "beat": "2C",
+    "comments": "STAR assisting ground units in the area of El Monte Ave and Forrest St for reports of a subject with a gun"
+  },
+  {
+    "date": "20261120",
+    "time": "9:20 PM",
+    "neighborhood": "Rp - Sports Complex",
+    "beat": "1A",
+    "comments": "STAR assisted ground units in checking the area of Natomas Blvd and New Market Dr after reports of a possible shooting"
   }
 ]
